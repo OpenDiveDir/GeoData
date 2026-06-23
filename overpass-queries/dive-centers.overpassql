@@ -1,0 +1,9 @@
+(
+    nw["amenity"="dive_center"];
+    node(w);
+    nw["amenity"="dive_centre"];
+    node(w);
+    nw["shop"="scuba_diving"];
+    node(w);
+);
+out;

@@ -1,0 +1,9 @@
+(
+    nw["healthcare"="hyperbaric_chamber"];
+    node(w);
+    nw["healthcare:speciality"="hbo"];
+    node(w);
+    nw["healthcare:speciality"="hyperbaric_medicine"];
+    node(w);
+);
+out;

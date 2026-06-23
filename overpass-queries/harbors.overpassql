@@ -1,0 +1,13 @@
+(
+    nw["harbour"="yes"];
+    node(w);
+    nw["harbor"="yes"];
+    node(w);
+    nw["landuse"="harbour"];
+    node(w);
+    nw["landuse"="harbor"];
+    node(w);
+    nw["landuse"="port"];
+    node(w);
+);
+out;

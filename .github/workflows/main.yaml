@@ -1,0 +1,74 @@
+name: update_odd_geodata
+run-name: Update ODD geodata
+on:
+  push:
+  schedule:
+    - cron: "17 2 * * *"
+
+jobs:
+
+  update_odd_geodata:
+    name: Update ${{ matrix.category }}
+
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    strategy:
+      fail-fast: false
+      matrix:
+        category:
+          - dive-centers
+          - dive-clubs
+          - dive-sites
+          # - harbors
+          # - hospitals
+          - hyperbaric-chambers
+
+    steps:
+      # Tag: v7
+      # SHA: 9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0
+      - name: Checkout repository
+        uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0
+
+      - name: Check for geodata directory
+        run: test -d ${GITHUB_WORKSPACE}/geodata || mkdir ${GITHUB_WORKSPACE}/geodata
+
+      # Tag: v2.3.30
+      # SHA: 042f34d9d93b052d6b54ff11a1cbae96c1f4c5ca
+      - id: getquery
+        name: Read ${{ matrix.category }}
+        uses: guibranco/github-file-reader-action-v2@042f34d9d93b052d6b54ff11a1cbae96c1f4c5ca
+        with:
+          path: ${{ github.workspace }}/overpass-queries/${{ matrix.category }}.overpassql
+
+      # Branch: main
+      - name: Fetch ${{ matrix.category }}
+        uses: flossiraptor/QueryOverpassAction@main
+        with:
+          dest: geodata/${{ matrix.category }}.geojson
+          query: ${{ steps.getquery.outputs.contents }}
+          user-agent: 'Open Dive Directory GitHub Action +https://github.com/OpenDiveDir/GeoData'
+          timeout: 120000
+
+      # Tag: v7
+      # SHA: 043fb46d1a93c77aae656e7c1c64a875d1fc6a0a
+      - name: Record ${{ matrix.category }}
+        uses: actions/upload-artifact@043fb46d1a93c77aae656e7c1c64a875d1fc6a0a
+        with:
+          name: ${{ matrix.category }}.geojson
+          path: geodata/${{ matrix.category }}.geojson
+          archive: false
+
+      # Tag: v10
+      # SHA: 290ea2c423ad77ca9c62ae0f5b224379612c0321
+      - name: Commit change to ${{ matrix.category }}
+        uses: EndBug/add-and-commit@290ea2c423ad77ca9c62ae0f5b224379612c0321
+        with:
+          fetch: true
+          add: geodata/${{ matrix.category }}.geojson
+          author_name: "ODD update bot"
+          author_email: bot@open-dive-directory.org
+          message: "Update ${{ matrix.category }}"
+          pull: '--rebase --autostash'
