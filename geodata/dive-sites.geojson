@@ -132030,6 +132030,30 @@
           50.3499362
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13961574108",
+      "properties": {
+        "historic": "wreck",
+        "name": "SS Braunton",
+        "scuba_diving:depth": "36m",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:entry": "boat",
+        "seamark:type": "wreck",
+        "sport": "scuba_diving",
+        "wreck:date_sunk": "1916",
+        "wreck:visible_at_high_tide": "no",
+        "wreck:visible_at_low_tide": "no",
+        "id": "node/13961574108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1664457,
+          50.6497095
+        ]
+      }
     }
   ]
 }
