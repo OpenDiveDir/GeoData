@@ -8872,7 +8872,7 @@
         "addr:street": "Fort Road",
         "amenity": "dive_centre",
         "building": "yes",
-        "name": "Newhaven Scuba Cente",
+        "name": "Newhaven Scuba Center",
         "shop": "scuba_diving",
         "sport": "scuba_diving",
         "website": "https://scubadiving-brighton.co.uk/",
@@ -40310,6 +40310,118 @@
     },
     {
       "type": "Feature",
+      "id": "way/1532087974",
+      "properties": {
+        "addr:city": "Ocala",
+        "addr:housenumber": "8769",
+        "addr:postcode": "34480",
+        "addr:state": "FL",
+        "addr:street": "US-441",
+        "amenity": "dive_centre",
+        "building": "yes",
+        "name": "Aquatic Center of Ocala",
+        "phone": "+13522459162",
+        "website": "http://www.aquaticcenterocala.com/",
+        "id": "way/1532087974"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.0837585,
+              29.0949844
+            ],
+            [
+              -82.0837579,
+              29.0948953
+            ],
+            [
+              -82.0836807,
+              29.0948957
+            ],
+            [
+              -82.0836805,
+              29.0948585
+            ],
+            [
+              -82.0836745,
+              29.0948586
+            ],
+            [
+              -82.0836742,
+              29.0948018
+            ],
+            [
+              -82.0836634,
+              29.0948018
+            ],
+            [
+              -82.0836633,
+              29.0947773
+            ],
+            [
+              -82.0836491,
+              29.094732
+            ],
+            [
+              -82.0834981,
+              29.0947324
+            ],
+            [
+              -82.0834984,
+              29.0948108
+            ],
+            [
+              -82.0834836,
+              29.0948108
+            ],
+            [
+              -82.0834839,
+              29.0948719
+            ],
+            [
+              -82.0835028,
+              29.0948718
+            ],
+            [
+              -82.0835032,
+              29.0949509
+            ],
+            [
+              -82.0834037,
+              29.0949513
+            ],
+            [
+              -82.0834043,
+              29.0950638
+            ],
+            [
+              -82.0835668,
+              29.0950631
+            ],
+            [
+              -82.0835662,
+              29.0949599
+            ],
+            [
+              -82.0836354,
+              29.0949596
+            ],
+            [
+              -82.0836356,
+              29.0949849
+            ],
+            [
+              -82.0837585,
+              29.0949844
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/26772598",
       "properties": {
         "name": "Blue Ocean Diving",
@@ -42187,7 +42299,7 @@
         "addr:city": "willemstad",
         "addr:street": "Jan Thielbaai",
         "name": "Dive Center Scuba Do",
-        "opening_hours": "9:00 - 17:30",
+        "opening_hours": "09:00-17:30",
         "operator": "PADI, SDI",
         "phone": "+5999 7679300",
         "shop": "scuba_diving",
@@ -64764,12 +64876,13 @@
       "type": "Feature",
       "id": "node/5002852970",
       "properties": {
-        "addr:city": "Roma",
-        "addr:housenumber": "43",
+        "addr:city": "Lido di Ostia",
+        "addr:housenumber": "25",
         "addr:postcode": "00122",
         "addr:street": "Via dei Pescatori",
         "amenity": "dive_centre",
-        "name": "Mare Nostrum",
+        "name": "Mare nostrum diving center",
+        "opening_hours": "Mo-Su 08:00-21:00",
         "shop": "scuba_diving",
         "sport": "scuba_diving",
         "id": "node/5002852970"
@@ -64777,8 +64890,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          12.3027414,
-          41.721252
+          12.3028331,
+          41.7211761
         ]
       }
     },
@@ -69138,6 +69251,7 @@
         "addr:postcode": "10365",
         "addr:street": "Coppistraße",
         "addr:suburb": "Lichtenberg",
+        "check_date": "2026-06-24",
         "check_date:opening_hours": "2024-02-11",
         "contact:email": "info@atlantis-berlin.de",
         "contact:phone": "+49 30 4252626",
@@ -78269,7 +78383,7 @@
         "addr:street": "Wilson Street",
         "addr:unit": "8",
         "air_conditioning": "yes",
-        "check_date": "2025-06-26",
+        "check_date": "2026-06-23",
         "contact:email": "elchua@diverspoint.net",
         "internet_access": "no",
         "level": "1",
@@ -78290,8 +78404,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.0381327,
-          14.5974286
+          121.0380525,
+          14.5974298
         ]
       }
     },
@@ -98520,6 +98634,23 @@
         "coordinates": [
           8.3112963,
           46.9818267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/12859342417",
+      "properties": {
+        "check_date": "2025-05-23",
+        "name": "Orca Scuba Center",
+        "shop": "scuba_diving",
+        "id": "node/12859342417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.331249,
+          47.4729333
         ]
       }
     },
