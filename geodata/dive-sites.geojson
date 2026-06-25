@@ -132054,6 +132054,50 @@
           50.6497095
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13962669695",
+      "properties": {
+        "historic": "wreck",
+        "name": "The Dredger",
+        "scuba_diving:depth": "12m",
+        "scuba_diving:divespot": "yes",
+        "seamark:type": "wreck",
+        "sport": "scuba_diving",
+        "wreck:visible_at_high_tide": "no",
+        "wreck:visible_at_low_tide": "no",
+        "id": "node/13962669695"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.42461,
+          50.5678919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13962669696",
+      "properties": {
+        "historic": "wreck",
+        "name": "Countesse of Erne",
+        "scuba_diving:depth": "15m",
+        "scuba_diving:divespot": "yes",
+        "seamark:type": "wreck",
+        "sport": "scuba_diving",
+        "wreck:visible_at_high_tide": "no",
+        "wreck:visible_at_low_tide": "no",
+        "id": "node/13962669696"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.4196652,
+          50.5847924
+        ]
+      }
     }
   ]
 }
