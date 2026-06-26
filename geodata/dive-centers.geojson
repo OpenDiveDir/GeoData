@@ -43938,23 +43938,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/920559351",
-      "properties": {
-        "is_in": "Playa del Carmen, Solidaridad, Quintana Roo, México",
-        "name": "Beach Divers",
-        "shop": "scuba_diving",
-        "id": "node/920559351"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.0748512,
-          20.6215624
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/920559494",
       "properties": {
         "is_in": "Playa del Carmen, Solidaridad, Quintana Roo, México",
@@ -82711,35 +82694,6 @@
         "coordinates": [
           14.1906412,
           36.0528224
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/8748627219",
-      "properties": {
-        "addr:housenumber": "198",
-        "addr:postcode": "2026",
-        "addr:state": "NSW",
-        "addr:street": "Bondi Road",
-        "addr:suburb": "Bondi",
-        "amenity": "dive_centre",
-        "email": "info@divebondi.com.au",
-        "name": "Dive Centre Bondi",
-        "opening_hours": "Tu-Su 9:00-17:00",
-        "phone": "+61 2 9369 3855",
-        "scuba_diving:courses": "yes",
-        "scuba_diving:filling": "yes",
-        "scuba_diving:rental": "yes",
-        "website": "https://www.divebondi.com.au",
-        "wheelchair": "limited",
-        "id": "node/8748627219"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          151.2629591,
-          -33.8936861
         ]
       }
     },
