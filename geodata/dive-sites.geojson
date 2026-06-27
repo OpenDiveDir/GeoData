@@ -25071,12 +25071,12 @@
               45.6837548
             ],
             [
-              5.176269,
-              45.6836586
+              5.1762664,
+              45.6836595
             ],
             [
-              5.1762532,
-              45.6835591
+              5.176256,
+              45.6835597
             ],
             [
               5.1762935,
@@ -44643,6 +44643,7 @@
         "dog": "designated",
         "natural": "beach",
         "sport": "scuba_diving",
+        "surface": "pebblestone",
         "id": "way/531832322"
       },
       "geometry": {
@@ -81528,10 +81529,8 @@
       "type": "Feature",
       "id": "node/663870612",
       "properties": {
-        "contact:website": "http://www.dive-links.com/tauchplatz.php?id=1019",
         "name": "Tauchen im Bernsteinsee",
         "scuba_diving:divespot": "yes",
-        "source": "www.dive-links.com",
         "sport": "scuba_diving",
         "tourism": "attraction",
         "verified": "no, please check and del this tag",
@@ -132096,6 +132095,24 @@
         "coordinates": [
           -2.4196652,
           50.5847924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13964212158",
+      "properties": {
+        "club": "sport",
+        "name": "Club Narval",
+        "sport": "scuba_diving",
+        "website": "http://www.clubnarval.fr/",
+        "id": "node/13964212158"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5739555,
+          44.7790522
         ]
       }
     }
