@@ -30580,43 +30580,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/918955024",
-      "properties": {
-        "building": "yes",
-        "name": "Tarraya: Snorkle, Diving & Fishing",
-        "shop": "scuba_diving",
-        "id": "way/918955024"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -87.0738532,
-              20.62289
-            ],
-            [
-              -87.0737225,
-              20.6230305
-            ],
-            [
-              -87.0739262,
-              20.6231607
-            ],
-            [
-              -87.074024,
-              20.6230142
-            ],
-            [
-              -87.0738532,
-              20.62289
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/919001664",
       "properties": {
         "addr:housenumber": "8350",
@@ -43975,16 +43938,15 @@
       "type": "Feature",
       "id": "node/920559689",
       "properties": {
-        "is_in": "Playa del Carmen, Solidaridad, Quintana Roo, México",
-        "name": "PADI",
+        "name": "Scuba Libre",
         "shop": "scuba_diving",
         "id": "node/920559689"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.0733153,
-          20.623746
+          -87.073658,
+          20.6239864
         ]
       }
     },
@@ -102598,7 +102560,7 @@
         "addr:street": "Landeroith",
         "email": "office@up-divecenter.at",
         "name": "Under Pressure Divecenter",
-        "opening_hours": "Nov-Mar: Do-Su 09:00-17:00; Apr-Oct: Tu–Su: 09:00–18:00",
+        "opening_hours": "Nov-Mar: Do-Su 09:00-17:00; Apr-Oct: Tu-Su: 09:00-18:00",
         "operator": "Under Pressure Divecenter",
         "phone": "+43 650 8000 477",
         "shop": "scuba_diving",
