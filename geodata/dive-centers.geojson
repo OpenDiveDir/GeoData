@@ -36315,6 +36315,44 @@
     },
     {
       "type": "Feature",
+      "id": "way/1229873119",
+      "properties": {
+        "amenity": "dive_centre",
+        "building": "yes",
+        "name": "Blanes-Sub",
+        "website": "https://www.blanes-sub.com/",
+        "id": "way/1229873119"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.8008324,
+              41.6750049
+            ],
+            [
+              2.8007722,
+              41.6750634
+            ],
+            [
+              2.800671,
+              41.6750039
+            ],
+            [
+              2.8007278,
+              41.6749475
+            ],
+            [
+              2.8008324,
+              41.6750049
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1230114275",
       "properties": {
         "amenity": "dive_centre",
@@ -98057,25 +98095,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/12723792820",
-      "properties": {
-        "addr:unit": "5",
-        "amenity": "dive_centre",
-        "name": "Wielkopolskie Centrum Techniki Nurkowej",
-        "phone": "+48 602 609 840",
-        "website": "https://www.marin.pl/",
-        "id": "node/12723792820"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          16.9083923,
-          52.415083
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/12732397444",
       "properties": {
         "addr:street": "Doctor Vicente Locsin Street",
@@ -100351,23 +100370,6 @@
         "coordinates": [
           33.9621925,
           26.9033183
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/13258020392",
-      "properties": {
-        "amenity": "dive_centre",
-        "name": "Blanes-Sub",
-        "website": "https://www.blanes-sub.com/",
-        "id": "node/13258020392"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.8007332,
-          41.6749978
         ]
       }
     },
@@ -103108,6 +103110,24 @@
         "coordinates": [
           -3.5864895,
           48.7686226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13970148858",
+      "properties": {
+        "amenity": "dive_centre",
+        "mobile": "+62 856-4789-7892",
+        "name": "Karimunjawa Scuba Diving",
+        "website": "https://www.karimunjawascubadiving.com",
+        "id": "node/13970148858"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.4382601,
+          -5.8810416
         ]
       }
     }
