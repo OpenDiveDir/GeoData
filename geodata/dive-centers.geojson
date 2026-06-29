@@ -43542,24 +43542,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/863771909",
-      "properties": {
-        "is_in": "Playa del Carmen, Solidaridad, Quintana Roo, México",
-        "name": "Phantom Divers",
-        "phone": "9848793988",
-        "shop": "scuba_diving",
-        "id": "node/863771909"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.0708111,
-          20.6276363
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/863771918",
       "properties": {
         "is_in": "Playa del Carmen, Solidaridad, Quintana Roo, México",
@@ -43951,24 +43933,6 @@
         "coordinates": [
           -87.0692512,
           20.6303424
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/920559659",
-      "properties": {
-        "addr:city": "Playa del Carmen",
-        "is_in": "Playa del Carmen, Solidaridad, Quintana Roo, México",
-        "name": "The Snorkel Shop",
-        "shop": "scuba_diving",
-        "id": "node/920559659"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.0701538,
-          20.6289664
         ]
       }
     },
@@ -99430,10 +99394,10 @@
         "addr:postcode": "8794",
         "addr:street": "Grüblsee",
         "amenity": "dive_centre",
+        "contact:mobile": "+43 664 218 1182",
         "name": "Tauchschule Alpenaquarium Grüblsee",
         "opening_hours": "May-Oct",
-        "operator": "Sabine Hausner: +43 664 218 118 2  Robert Marschnig: +43 660 46 38 363",
-        "phone": "+436642181182",
+        "operator": "Sabine Marschnig: +43 664 218 118 2  Robert Marschnig: +43 660 46 38 363",
         "website": "https://www.grueblsee.at/",
         "id": "node/13039089695"
       },
