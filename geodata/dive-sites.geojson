@@ -23137,6 +23137,10 @@
               51.2801537
             ],
             [
+              14.2715475,
+              51.2798669
+            ],
+            [
               14.2716489,
               51.2797453
             ],
@@ -102029,6 +102033,9 @@
       "type": "Feature",
       "id": "node/3649148443",
       "properties": {
+        "access": "permissive",
+        "direction": "Entry > 202°",
+        "fee": "no",
         "name": "Émergence de Meyraguet",
         "natural": "cave_entrance",
         "scuba_diving:type": "cavern",
@@ -102039,8 +102046,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.5432982,
-          44.8516875
+          1.5428562,
+          44.8522736
         ]
       }
     },
@@ -111693,7 +111700,6 @@
       "properties": {
         "name": "Baulu Reef",
         "sport": "scuba_diving",
-        "website": "togeanadventures.com",
         "id": "node/5643700414"
       },
       "geometry": {
@@ -120874,7 +120880,12 @@
       "type": "Feature",
       "id": "node/9412211174",
       "properties": {
+        "addr:country": "Thailand",
+        "addr:district": "เมืองภูเก็ต",
+        "addr:province": "ภูเก็ต",
+        "country": "ไทย",
         "name": "Ao Kon Ka Re",
+        "province": "ภูเก็ต",
         "scuba_diving:entry:boat": "yes",
         "sport": "scuba_diving",
         "id": "node/9412211174"
@@ -121130,6 +121141,8 @@
       "type": "Feature",
       "id": "node/9459508489",
       "properties": {
+        "addr:country": "Thailand",
+        "addr:province": "ภูเก็ต",
         "name": "Bay 1 / Ao Ter",
         "scuba_diving:entry:boat": "yes",
         "sport": "scuba_diving",
