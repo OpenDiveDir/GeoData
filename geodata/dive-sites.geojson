@@ -116696,6 +116696,7 @@
       "id": "node/7239590095",
       "properties": {
         "name": "La Gringa",
+        "scuba_diving:divespot": "yes",
         "source": "http://www.parquesnacionales.gov.co/portal/en/ecotourism/pacific-region/malpelo-flora-and-fauna-sanctuary/",
         "sport": "scuba_diving",
         "id": "node/7239590095"
@@ -116713,6 +116714,7 @@
       "id": "node/7239602287",
       "properties": {
         "name": "Escuba",
+        "scuba_diving:divespot": "yes",
         "source": "https://www.underseaventures.com/en/liveaboard-diving/liveaboard-diving-travel/dive-travels/malpelo-island-liveaboard-diving.html",
         "sport": "scuba_diving",
         "id": "node/7239602287"
@@ -116730,6 +116732,7 @@
       "id": "node/7239637037",
       "properties": {
         "name": "La Ferreteria",
+        "scuba_diving:divespot": "yes",
         "source": "https://www.underseaventures.com/en/liveaboard-diving/liveaboard-diving-travel/dive-travels/malpelo-island-liveaboard-diving.html",
         "sport": "scuba_diving",
         "id": "node/7239637037"
@@ -116747,6 +116750,7 @@
       "id": "node/7239637038",
       "properties": {
         "name": "David",
+        "scuba_diving:divespot": "yes",
         "source": "https://www.underseaventures.com/en/liveaboard-diving/liveaboard-diving-travel/dive-travels/malpelo-island-liveaboard-diving.html",
         "sport": "scuba_diving",
         "id": "node/7239637038"
@@ -116764,6 +116768,7 @@
       "id": "node/7239637039",
       "properties": {
         "name": "Saul",
+        "scuba_diving:divespot": "yes",
         "source": "https://www.underseaventures.com/en/liveaboard-diving/liveaboard-diving-travel/dive-travels/malpelo-island-liveaboard-diving.html",
         "sport": "scuba_diving",
         "id": "node/7239637039"
@@ -116781,6 +116786,7 @@
       "id": "node/7239637040",
       "properties": {
         "name": "Salomon",
+        "scuba_diving:divespot": "yes",
         "source": "https://www.underseaventures.com/en/liveaboard-diving/liveaboard-diving-travel/dive-travels/malpelo-island-liveaboard-diving.html",
         "sport": "scuba_diving",
         "id": "node/7239637040"
@@ -116798,6 +116804,7 @@
       "id": "node/7239637041",
       "properties": {
         "name": "Bajo del Junior",
+        "scuba_diving:divespot": "yes",
         "source": "https://www.underseaventures.com/en/liveaboard-diving/liveaboard-diving-travel/dive-travels/malpelo-island-liveaboard-diving.html",
         "sport": "scuba_diving",
         "id": "node/7239637041"
@@ -116815,6 +116822,7 @@
       "id": "node/7239641817",
       "properties": {
         "name": "La Pared del Águila",
+        "scuba_diving:divespot": "yes",
         "source": "https://www.underseaventures.com/en/liveaboard-diving/liveaboard-diving-travel/dive-travels/malpelo-island-liveaboard-diving.html",
         "sport": "scuba_diving",
         "id": "node/7239641817"
@@ -116832,6 +116840,7 @@
       "id": "node/7239641818",
       "properties": {
         "name": "Los Gemelos",
+        "scuba_diving:divespot": "yes",
         "source": "https://www.underseaventures.com/en/liveaboard-diving/liveaboard-diving-travel/dive-travels/malpelo-island-liveaboard-diving.html",
         "sport": "scuba_diving",
         "id": "node/7239641818"
@@ -116867,6 +116876,7 @@
       "properties": {
         "alt_name": "El Túnel de Chupadera",
         "name": "La Puerta del Cielo",
+        "scuba_diving:divespot": "yes",
         "source": "https://www.underseaventures.com/en/liveaboard-diving/liveaboard-diving-travel/dive-travels/malpelo-island-liveaboard-diving.html",
         "sport": "scuba_diving",
         "id": "node/7239651049"
@@ -116884,6 +116894,7 @@
       "id": "node/7239651050",
       "properties": {
         "name": "La Nevera",
+        "scuba_diving:divespot": "yes",
         "source": "https://www.underseaventures.com/en/liveaboard-diving/liveaboard-diving-travel/dive-travels/malpelo-island-liveaboard-diving.html",
         "sport": "scuba_diving",
         "id": "node/7239651050"
@@ -116901,6 +116912,7 @@
       "id": "node/7239651051",
       "properties": {
         "name": "El Mirador",
+        "scuba_diving:divespot": "yes",
         "source": "https://www.underseaventures.com/en/liveaboard-diving/liveaboard-diving-travel/dive-travels/malpelo-island-liveaboard-diving.html",
         "sport": "scuba_diving",
         "id": "node/7239651051"
@@ -116918,6 +116930,7 @@
       "id": "node/7239651052",
       "properties": {
         "name": "Aquamarina",
+        "scuba_diving:divespot": "yes",
         "source": "https://www.underseaventures.com/en/liveaboard-diving/liveaboard-diving-travel/dive-travels/malpelo-island-liveaboard-diving.html",
         "sport": "scuba_diving",
         "id": "node/7239651052"
@@ -116935,6 +116948,7 @@
       "id": "node/7239651053",
       "properties": {
         "name": "El Freezer",
+        "scuba_diving:divespot": "yes",
         "source": "https://www.underseaventures.com/en/liveaboard-diving/liveaboard-diving-travel/dive-travels/malpelo-island-liveaboard-diving.html",
         "sport": "scuba_diving",
         "id": "node/7239651053"
@@ -116952,6 +116966,7 @@
       "id": "node/7239651054",
       "properties": {
         "name": "La Pared del Náufrago",
+        "scuba_diving:divespot": "yes",
         "source": "https://www.underseaventures.com/en/liveaboard-diving/liveaboard-diving-travel/dive-travels/malpelo-island-liveaboard-diving.html",
         "sport": "scuba_diving",
         "id": "node/7239651054"
@@ -116969,6 +116984,7 @@
       "id": "node/7239651055",
       "properties": {
         "name": "La Catedral",
+        "scuba_diving:divespot": "yes",
         "source": "https://www.underseaventures.com/en/liveaboard-diving/liveaboard-diving-travel/dive-travels/malpelo-island-liveaboard-diving.html",
         "sport": "scuba_diving",
         "id": "node/7239651055"
@@ -116986,6 +117002,7 @@
       "id": "node/7239651056",
       "properties": {
         "name": "Los Tres Mosqueteros",
+        "scuba_diving:divespot": "yes",
         "source": "https://www.underseaventures.com/en/liveaboard-diving/liveaboard-diving-travel/dive-travels/malpelo-island-liveaboard-diving.html",
         "sport": "scuba_diving",
         "id": "node/7239651056"
@@ -117003,6 +117020,7 @@
       "id": "node/7239651057",
       "properties": {
         "name": "El Acuario",
+        "scuba_diving:divespot": "yes",
         "source": "https://www.underseaventures.com/en/liveaboard-diving/liveaboard-diving-travel/dive-travels/malpelo-island-liveaboard-diving.html",
         "sport": "scuba_diving",
         "id": "node/7239651057"
@@ -117020,6 +117038,7 @@
       "id": "node/7239651058",
       "properties": {
         "name": "Bajo del Cholo",
+        "scuba_diving:divespot": "yes",
         "source": "https://www.underseaventures.com/en/liveaboard-diving/liveaboard-diving-travel/dive-travels/malpelo-island-liveaboard-diving.html",
         "sport": "scuba_diving",
         "id": "node/7239651058"
@@ -117037,6 +117056,7 @@
       "id": "node/7239651059",
       "properties": {
         "name": "D'Artagnan",
+        "scuba_diving:divespot": "yes",
         "source": "https://www.underseaventures.com/en/liveaboard-diving/liveaboard-diving-travel/dive-travels/malpelo-island-liveaboard-diving.html",
         "sport": "scuba_diving",
         "id": "node/7239651059"
@@ -117054,6 +117074,7 @@
       "id": "node/7239651060",
       "properties": {
         "name": "Bajo del Anda",
+        "scuba_diving:divespot": "yes",
         "source": "https://www.underseaventures.com/en/liveaboard-diving/liveaboard-diving-travel/dive-travels/malpelo-island-liveaboard-diving.html",
         "sport": "scuba_diving",
         "id": "node/7239651060"
@@ -117071,6 +117092,7 @@
       "id": "node/7239667399",
       "properties": {
         "name": "Bajo del Monstruo",
+        "scuba_diving:divespot": "yes",
         "source": "https://www.underseaventures.com/en/liveaboard-diving/liveaboard-diving-travel/dive-travels/malpelo-island-liveaboard-diving.html",
         "sport": "scuba_diving",
         "id": "node/7239667399"
@@ -117088,6 +117110,7 @@
       "id": "node/7239667400",
       "properties": {
         "name": "La Cara del Fantasma",
+        "scuba_diving:divespot": "yes",
         "source": "https://www.underseaventures.com/en/liveaboard-diving/liveaboard-diving-travel/dive-travels/malpelo-island-liveaboard-diving.html",
         "sport": "scuba_diving",
         "id": "node/7239667400"
@@ -117106,6 +117129,7 @@
       "properties": {
         "alt_name": "El Altar de Virginia",
         "name": "El Arrecife",
+        "scuba_diving:divespot": "yes",
         "source": "https://www.underseaventures.com/en/liveaboard-diving/liveaboard-diving-travel/dive-travels/malpelo-island-liveaboard-diving.html",
         "sport": "scuba_diving",
         "id": "node/7239667401"
@@ -117123,6 +117147,7 @@
       "id": "node/7239667402",
       "properties": {
         "name": "La Pared del Tangon",
+        "scuba_diving:divespot": "yes",
         "source": "https://www.underseaventures.com/en/liveaboard-diving/liveaboard-diving-travel/dive-travels/malpelo-island-liveaboard-diving.html",
         "sport": "scuba_diving",
         "id": "node/7239667402"
@@ -117140,6 +117165,7 @@
       "id": "node/7239667403",
       "properties": {
         "name": "El Arco del Tropic",
+        "scuba_diving:divespot": "yes",
         "source": "https://www.underseaventures.com/en/liveaboard-diving/liveaboard-diving-travel/dive-travels/malpelo-island-liveaboard-diving.html",
         "sport": "scuba_diving",
         "id": "node/7239667403"
@@ -117157,6 +117183,7 @@
       "id": "node/7239667404",
       "properties": {
         "name": "Vagamares",
+        "scuba_diving:divespot": "yes",
         "source": "https://www.underseaventures.com/en/liveaboard-diving/liveaboard-diving-travel/dive-travels/malpelo-island-liveaboard-diving.html",
         "sport": "scuba_diving",
         "id": "node/7239667404"
@@ -117174,6 +117201,7 @@
       "id": "node/7239667405",
       "properties": {
         "name": "La Torta",
+        "scuba_diving:divespot": "yes",
         "source": "https://www.underseaventures.com/en/liveaboard-diving/liveaboard-diving-travel/dive-travels/malpelo-island-liveaboard-diving.html",
         "sport": "scuba_diving",
         "id": "node/7239667405"
