@@ -63289,6 +63289,32 @@
     },
     {
       "type": "Feature",
+      "id": "node/4823352199",
+      "properties": {
+        "addr:city": "Los Llanos de Aridane",
+        "addr:housenumber": "4",
+        "addr:postcode": "38760",
+        "addr:street": "Calle Conrado Hernández",
+        "amenity": "dive_centre",
+        "email": "hola@blacksanddiving.com",
+        "name": "Black Sand Diving La Palma",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "operator": "Black Sand Diving La Palma",
+        "scuba_diving:air_filling": "yes",
+        "scuba_diving:courses": "yes",
+        "website": "https://www.blacksanddiving.com/",
+        "id": "node/4823352199"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.9129329,
+          28.6596873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4824851830",
       "properties": {
         "amenity": "dive_centre",
@@ -68265,7 +68291,8 @@
       "id": "node/5446986222",
       "properties": {
         "amenity": "dive_centre",
-        "name": "PADI diving centre",
+        "name": "PADI Diving Centre",
+        "name:en": "PADI Diving Centre",
         "id": "node/5446986222"
       },
       "geometry": {
