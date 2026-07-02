@@ -40322,7 +40322,7 @@
         "building": "yes",
         "name": "Aquatic Center of Ocala",
         "phone": "+13522459162",
-        "website": "http://www.aquaticcenterocala.com/",
+        "website": "https://www.aquaticcenterocala.com/",
         "id": "way/1532087974"
       },
       "geometry": {
@@ -43524,36 +43524,18 @@
     },
     {
       "type": "Feature",
-      "id": "node/863771906",
+      "id": "node/863771816",
       "properties": {
-        "is_in": "Playa del Carmen, Solidaridad, Quintana Roo, México",
-        "name": "Phocea Riviera",
-        "phone": "9848731210",
+        "name": "Phocéa Riviera",
+        "phone": "+52 984 8731 210",
         "shop": "scuba_diving",
-        "id": "node/863771906"
+        "id": "node/863771816"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.0714699,
-          20.6265075
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/863771918",
-      "properties": {
-        "is_in": "Playa del Carmen, Solidaridad, Quintana Roo, México",
-        "name": "GeoFish",
-        "shop": "scuba_diving",
-        "id": "node/863771918"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.07155,
-          20.626394
+          -87.0718021,
+          20.6263096
         ]
       }
     },
@@ -43561,34 +43543,16 @@
       "type": "Feature",
       "id": "node/863771952",
       "properties": {
-        "is_in": "Playa del Carmen, Solidaridad, Quintana Roo, México",
         "name": "Scuba Playa",
-        "phone": "9848731210",
+        "phone": "+52 984 873 1210",
         "shop": "scuba_diving",
         "id": "node/863771952"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.0719662,
-          20.6264608
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/863771978",
-      "properties": {
-        "is_in": "Playa del Carmen, Solidaridad, Quintana Roo, México",
-        "name": "Abyss",
-        "shop": "scuba_diving",
-        "id": "node/863771978"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.0714053,
-          20.6267746
+          -87.0721086,
+          20.6264443
         ]
       }
     },
@@ -43916,23 +43880,6 @@
         "coordinates": [
           14.5113614,
           52.2741262
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/920559494",
-      "properties": {
-        "is_in": "Playa del Carmen, Solidaridad, Quintana Roo, México",
-        "name": "PADI",
-        "shop": "scuba_diving",
-        "id": "node/920559494"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.0692512,
-          20.6303424
         ]
       }
     },
@@ -66316,6 +66263,36 @@
     },
     {
       "type": "Feature",
+      "id": "node/5152927097",
+      "properties": {
+        "addr:city": "Bainbridge Island",
+        "addr:housenumber": "328",
+        "addr:postcode": "98110",
+        "addr:state": "WA",
+        "addr:street": "Madison Avenue North",
+        "email": "info@exoticaquaticsscuba.com",
+        "name": "Exotic Aquatics",
+        "payment:cards": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+1-206-842-1980",
+        "scuba_diving:air_filling": "yes",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:filling": "yes",
+        "scuba_diving:rental": "yes",
+        "shop": "scuba_diving",
+        "id": "node/5152927097"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5206124,
+          47.6268836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5153337521",
       "properties": {
         "amenity": "dive_centre",
@@ -70425,15 +70402,15 @@
         "addr:municipality": "Σιθωνία",
         "addr:postcode": "63088",
         "addr:region": "Κεντρική Μακεδονία",
-        "name": "Diving center",
+        "name": "Diving Center",
         "shop": "scuba_diving",
         "id": "node/5784718727"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.6626681,
-          40.2260468
+          23.6626268,
+          40.2260631
         ]
       }
     },
@@ -70452,8 +70429,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          23.6650054,
-          40.2249352
+          23.6654182,
+          40.2246744
         ]
       }
     },
@@ -103128,6 +103105,22 @@
         "coordinates": [
           110.4382601,
           -5.8810416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13980435138",
+      "properties": {
+        "name": "Посейдон",
+        "shop": "scuba_diving",
+        "id": "node/13980435138"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.918686,
+          43.2162948
         ]
       }
     }
