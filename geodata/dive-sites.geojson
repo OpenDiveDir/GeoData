@@ -110246,6 +110246,29 @@
     },
     {
       "type": "Feature",
+      "id": "node/5260117422",
+      "properties": {
+        "addr:postcode": "84316",
+        "addr:street": "labuan aji",
+        "email": "evertsbakker@hotmail.com",
+        "name": "DJL Diving Moyo @ Maleo Moyo seaside resort",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "phone": "+6281284729535",
+        "sport": "scuba_diving",
+        "tourism": "attraction",
+        "website": "https://scubadivemoyo.com/",
+        "id": "node/5260117422"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.4839387,
+          -8.2173844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5274099212",
       "properties": {
         "leisure": "swimming_area",
@@ -122953,26 +122976,6 @@
         "coordinates": [
           25.3823493,
           36.6501675
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9991231332",
-      "properties": {
-        "description": "marcas: Aqualung, Cressi",
-        "level": "0",
-        "name": "The Body Shop",
-        "shop": "sports",
-        "sport": "scuba_diving",
-        "wheelchair": "no",
-        "id": "node/9991231332"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.0737254,
-          20.6277127
         ]
       }
     },
