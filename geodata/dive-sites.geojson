@@ -120180,24 +120180,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/8880738143",
-      "properties": {
-        "name": "Dive Factory",
-        "shop": "sports",
-        "sport": "scuba_diving",
-        "website": "https://www.divefactory.be",
-        "id": "node/8880738143"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3340158,
-          50.6938416
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/8893268294",
       "properties": {
         "access": "private",
@@ -132157,6 +132139,22 @@
         "coordinates": [
           -0.5739555,
           44.7790522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13986019021",
+      "properties": {
+        "name": "Tribe Gate",
+        "sport": "scuba_diving",
+        "id": "node/13986019021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0072378,
+          12.036133
         ]
       }
     }
