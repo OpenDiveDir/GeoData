@@ -52843,29 +52843,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/3276151804",
-      "properties": {
-        "addr:city": "L'Estartit",
-        "addr:housenumber": "10",
-        "addr:postcode": "17258",
-        "addr:street": "Passeig Maritim",
-        "check_date": "2023-08-17",
-        "email": "info@unisub.es",
-        "name": "Unisub",
-        "shop": "scuba_diving",
-        "website": "https://www.unisub.es/",
-        "id": "node/3276151804"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.2059331,
-          42.0544327
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/3278113086",
       "properties": {
         "addr:city": "München",
@@ -60866,6 +60843,7 @@
       "id": "node/4538413690",
       "properties": {
         "addr:city": "Neufeld an der Leitha",
+        "addr:country": "AT",
         "addr:housenumber": "23",
         "addr:postcode": "2491",
         "addr:street": "Linke Bahngasse",
@@ -72187,21 +72165,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/6041271387",
-      "properties": {
-        "amenity": "dive_centre",
-        "id": "node/6041271387"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          119.8774275,
-          -8.4923844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/6043491377",
       "properties": {
         "amenity": "dive_centre",
@@ -83028,6 +82991,38 @@
     },
     {
       "type": "Feature",
+      "id": "node/8880738143",
+      "properties": {
+        "branch": "Braine-l'Alleud",
+        "brand": "Dive Factory",
+        "contact:email": "info@divefactory.be",
+        "contact:phone": "+32 2 354 43 47",
+        "contact:website": "https://www.divefactory.be",
+        "description": "Gonflage de bouteilles, entretien et location de matériel de plongée. Formations.",
+        "name": "Dive Factory",
+        "opening_hours": "Mo,We-Sa 10:00-19:00; Tu,Su off; PH off",
+        "scuba_diving:air_filling": "yes",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:filling": "yes",
+        "scuba_diving:nitrox_filling": "yes",
+        "scuba_diving:oxygen_filling": "yes",
+        "scuba_diving:rental": "yes",
+        "scuba_diving:repair": "yes",
+        "scuba_diving:trimix_filling": "yes",
+        "shop": "scuba_diving",
+        "sport": "scuba_diving",
+        "id": "node/8880738143"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3340158,
+          50.6938416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/8892904869",
       "properties": {
         "amenity": "dive_centre",
@@ -88046,6 +88041,8 @@
       "id": "node/10176365024",
       "properties": {
         "name": "パシフィカダイビングセンターさいたま店",
+        "opening_hours": "\"11:00-19:00\n(火曜・隔週水曜定休)\n\n11:00am - 7:00pm\n(Closed on Tue and every other Wed)\"",
+        "phone": "+81486425730",
         "shop": "scuba_diving",
         "id": "node/10176365024"
       },
@@ -94565,29 +94562,6 @@
         "coordinates": [
           34.0146064,
           35.0543375
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/11940543131",
-      "properties": {
-        "addr:city": "Playa del Carmen",
-        "addr:postcode": "77710",
-        "addr:state": "Quintana Roo",
-        "addr:street": "Calle 26 Norte",
-        "amenity": "dive_centre",
-        "name": "Scuba Planet Mexico",
-        "opening_hours": "Mo-Fr 08:00-18:00",
-        "operator": "Scuba Planet Mexico",
-        "website": "https://www.scubaplanetmexico.com",
-        "id": "node/11940543131"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.0688788,
-          20.6322544
         ]
       }
     },
@@ -103063,7 +103037,7 @@
         "name": "Scuba Ibiza",
         "opening_hours": "Mo-Sa 09:00-13:00, 15:00-18:00",
         "phone": "+34 971 19 28 84",
-        "website": "scubaibiza.com",
+        "website": "https://scubaibiza.com/",
         "id": "node/13950126062"
       },
       "geometry": {
@@ -103121,6 +103095,72 @@
         "coordinates": [
           27.918686,
           43.2162948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13983148976",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "TDA Technical Diving Academy",
+        "id": "node/13983148976"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2016565,
+          43.1163685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13985965992",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "Island divers",
+        "sport": "scuba_diving",
+        "id": "node/13985965992"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9898963,
+          12.0357366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13986002326",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "Havelock Dive club",
+        "sport": "scuba_diving",
+        "id": "node/13986002326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.9892539,
+          12.0343356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13986018977",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "Scubalov",
+        "id": "node/13986018977"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.0028582,
+          12.0283787
         ]
       }
     }
