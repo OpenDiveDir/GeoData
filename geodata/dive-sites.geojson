@@ -70363,6 +70363,7 @@
       "id": "node/663869642",
       "properties": {
         "name": "Portsea Hole",
+        "seamark:sea_area:category": "reef",
         "source": "www.dive-links.com",
         "sport": "scuba_diving",
         "website": "http://www.dive-links.com/tauchplatz.php?id=1802",
@@ -107843,27 +107844,6 @@
         "coordinates": [
           -60.8987051,
           14.7715389
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4742534377",
-      "properties": {
-        "description": "Also called Penida Bay by some, this divesite condition depends on currents, and may have strong downcurrent. Potential place for Mola-mola.",
-        "name": "Crystal Bay",
-        "scuba_diving:access_easyness": "1",
-        "scuba_diving:depth": "15",
-        "scuba_diving:difficulty": "2",
-        "scuba_diving:type": "reef",
-        "sport": "scuba_diving",
-        "id": "node/4742534377"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          115.4574864,
-          -8.7155168
         ]
       }
     },
