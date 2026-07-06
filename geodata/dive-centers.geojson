@@ -49791,8 +49791,8 @@
         "email": "info@scubashark.com",
         "name": "Pacific Pro Dive",
         "name:en": "Pacific Pro Dive and Marine Adventures",
-        "opening_hours": "Mo-Sa 09:30-17:30",
-        "phone": "+1-250-338-6829",
+        "opening_hours": "Jun-Sep Mo-Sa 09:30-17:30; Jan-May,Oct-Dec Mo-Sa 10:00-17:00; PH off",
+        "phone": "+1 250 338-6829",
         "shop": "scuba_diving",
         "sport": "scuba_diving",
         "website": "https://biganimalencounters.com/",
@@ -49801,8 +49801,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -124.983656,
-          49.6785025
+          -124.9836069,
+          49.6785082
         ]
       }
     },
@@ -62223,6 +62223,28 @@
     },
     {
       "type": "Feature",
+      "id": "node/4742534377",
+      "properties": {
+        "amenity": "dive_centre",
+        "description": "Also called Penida Bay by some, this divesite condition depends on currents, and may have strong downcurrent. Potential place for Mola-mola.",
+        "name": "Crystal Bay",
+        "scuba_diving:access_easyness": "1",
+        "scuba_diving:depth": "15",
+        "scuba_diving:difficulty": "2",
+        "scuba_diving:type": "reef",
+        "sport": "scuba_diving",
+        "id": "node/4742534377"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4574864,
+          -8.7155168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4744257577",
       "properties": {
         "name": "Fish & Ships",
@@ -65464,8 +65486,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.4485681,
-          -8.6678162
+          115.451594,
+          -8.6651842
         ]
       }
     },
@@ -75471,6 +75493,24 @@
     },
     {
       "type": "Feature",
+      "id": "node/6559359585",
+      "properties": {
+        "internet_access": "wlan",
+        "name": "Nomads Diving",
+        "shop": "scuba_diving",
+        "website": "https://www.nomadsbali.com/",
+        "id": "node/6559359585"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4973983,
+          -8.6726999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/6561565185",
       "properties": {
         "name": "Into the Blue Scuba",
@@ -77981,6 +78021,22 @@
         "coordinates": [
           99.3062062,
           6.4875568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7159908185",
+      "properties": {
+        "name": "Snorkel and Fens Rental for Gamat Bay 50k booth",
+        "shop": "scuba_diving",
+        "id": "node/7159908185"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4672914,
+          -8.7045475
         ]
       }
     },
@@ -87959,7 +88015,7 @@
         "addr:city": "French Harbour",
         "addr:postcode": "34101",
         "addr:street": "Pristine Bay",
-        "check_date:currency:XBT": "2025-07-22",
+        "check_date:currency:XBT": "2026-07-04",
         "currency:XBT": "yes",
         "description": "The Scuba Shop offers best-in-class scuba tours on Roatán, and daily trips to Mary’s Place, Roatan’s best dive spot.",
         "email": "ok@scuba.shop",
@@ -101184,6 +101240,35 @@
     },
     {
       "type": "Feature",
+      "id": "node/13504594812",
+      "properties": {
+        "addr:city": "Toyapakeh",
+        "addr:district": "nusa penida",
+        "addr:housename": "Time Divers Penida",
+        "addr:postcode": "80771",
+        "addr:province": "bali",
+        "addr:street": "Jalan Raya Toyapakeh",
+        "addr:subdistrict": "ped",
+        "email": "timediverspenida@gmail.com",
+        "name": "Time Divers Penida",
+        "name:zh": "时光潜水",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "phone": "+6281353963318",
+        "scuba_diving:courses": "yes",
+        "shop": "scuba_diving",
+        "website": "https://www.timediverspenida.com/",
+        "id": "node/13504594812"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4977275,
+          -8.672746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/13512442090",
       "properties": {
         "addr:city": "Moers",
@@ -102904,10 +102989,10 @@
       "id": "node/13938251374",
       "properties": {
         "addr:street": "Jalan Raya Jungut",
-        "amenity": "dive_centre",
         "contact:email": "info@legend-diving.com",
         "name": "Legend Diving",
         "scuba_diving:courses": "yes",
+        "shop": "scuba_diving",
         "website": "https://divinglembongan.com/",
         "id": "node/13938251374"
       },
@@ -103161,6 +103246,59 @@
         "coordinates": [
           93.0028582,
           12.0283787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13987830637",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "Tauchschule Biggesee",
+        "opening_hours": "We-Tu 15:00-19:00,Fr 14:00-18:00,Sa 10:00-17:00,Su 10:00-16:00",
+        "phone": "+4927618598490",
+        "website": "https://tauchschule-sauerland.de",
+        "id": "node/13987830637"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8575788,
+          51.0735867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13988390017",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "Subaquatique Club de la Côte des Nacres",
+        "website": "https://www.sccn-solenzara.org/",
+        "id": "node/13988390017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4028588,
+          41.8575352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13989604550",
+      "properties": {
+        "name": "Prime Scuba Ishigaki",
+        "shop": "scuba_diving",
+        "website": "https://www.primescuba-ishigaki.com/",
+        "id": "node/13989604550"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          124.185867,
+          24.3361918
         ]
       }
     }
