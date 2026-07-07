@@ -22734,6 +22734,69 @@
     },
     {
       "type": "Feature",
+      "id": "way/115082118",
+      "properties": {
+        "addr:street": "דרך מצרים",
+        "addr:street:en": "Egypt Road",
+        "building": "yes",
+        "building:levels": "1",
+        "email": "info@snuba.co.il",
+        "leisure": "sports_centre",
+        "name": "מועדון צלילה סנובה",
+        "name:en": "Snuba Diving Center",
+        "name:he": "מועדון צלילה סנובה",
+        "opening_hours": "Mo-Su 09:00-17:00",
+        "phone": "+97286372722",
+        "sport": "scuba_diving",
+        "website": "https://www.snuba.co.il",
+        "id": "way/115082118"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.9110624,
+              29.4984171
+            ],
+            [
+              34.9112991,
+              29.4984601
+            ],
+            [
+              34.9112597,
+              29.4985751
+            ],
+            [
+              34.911189,
+              29.4985715
+            ],
+            [
+              34.911185,
+              29.4985942
+            ],
+            [
+              34.9111302,
+              29.4985851
+            ],
+            [
+              34.9111355,
+              29.4985567
+            ],
+            [
+              34.9110353,
+              29.4985325
+            ],
+            [
+              34.9110624,
+              29.4984171
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/116066272",
       "properties": {
         "disused:landuse": "quarry",
@@ -48138,6 +48201,76 @@
             [
               -85.958696,
               30.7730953
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/765376645",
+      "properties": {
+        "leisure": "sports_centre",
+        "name": "כפר הצוללים",
+        "name:en": "Divers Village",
+        "name:he": "כפר הצוללים",
+        "opening_hours": "Mo-Su 08:30-16:00",
+        "sport": "scuba_diving",
+        "tourism": "resort",
+        "website": "https://www.diversvillage.co.il/",
+        "id": "way/765376645"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.9142039,
+              29.5003324
+            ],
+            [
+              34.9139994,
+              29.5000525
+            ],
+            [
+              34.9140317,
+              29.5000244
+            ],
+            [
+              34.9140809,
+              29.4999609
+            ],
+            [
+              34.9140981,
+              29.499903
+            ],
+            [
+              34.9141239,
+              29.4998376
+            ],
+            [
+              34.9141838,
+              29.4997498
+            ],
+            [
+              34.9142675,
+              29.4996883
+            ],
+            [
+              34.9143277,
+              29.4996359
+            ],
+            [
+              34.9144463,
+              29.4997946
+            ],
+            [
+              34.9146446,
+              29.5001094
+            ],
+            [
+              34.9142039,
+              29.5003324
             ]
           ]
         ]
@@ -92563,6 +92696,7 @@
       "type": "Feature",
       "id": "node/1368812699",
       "properties": {
+        "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
         "id": "node/1368812699"
       },
@@ -92578,6 +92712,7 @@
       "type": "Feature",
       "id": "node/1368812711",
       "properties": {
+        "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
         "id": "node/1368812711"
       },
@@ -119401,6 +119536,27 @@
         "coordinates": [
           34.9270007,
           29.5145068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8577540917",
+      "properties": {
+        "description": "מסלול בעומק 15 מטר",
+        "description:he": "מסלול בעומק 15 מטר",
+        "name": "גנים יפניים",
+        "name:he": "גנים יפניים",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:maxdepth": "15",
+        "sport": "scuba_diving",
+        "id": "node/8577540917"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9206991,
+          29.5053015
         ]
       }
     },
