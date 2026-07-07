@@ -17384,24 +17384,24 @@
         "coordinates": [
           [
             [
-              19.354484,
-              -34.6156013
+              19.3544751,
+              -34.615552
             ],
             [
-              19.3544076,
-              -34.6157268
+              19.3543987,
+              -34.6156775
             ],
             [
-              19.3545643,
-              -34.6157915
+              19.3545554,
+              -34.6157422
             ],
             [
-              19.3546407,
-              -34.615666
+              19.3546318,
+              -34.6156167
             ],
             [
-              19.354484,
-              -34.6156013
+              19.3544751,
+              -34.615552
             ]
           ]
         ]
@@ -37332,6 +37332,69 @@
     },
     {
       "type": "Feature",
+      "id": "way/1266671597",
+      "properties": {
+        "addr:city": "Nha Trang",
+        "addr:postcode": "651170",
+        "addr:province": "Khánh Hòa",
+        "addr:street": "cồn Ngọc Thảo (cồn Dê)",
+        "addr:subdistrict": "Tây Nha Trang",
+        "amenity": "dive_centre",
+        "building": "yes",
+        "name": "Freediving Saigon",
+        "opening_hours": "Mo-Su 06:00-21:00",
+        "operator": "Freediving Saigon",
+        "scuba_diving:freediving": "yes",
+        "scuba_diving:freediving_tour": "yes",
+        "scuba_diving:tour": "yes",
+        "id": "way/1266671597"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              109.1855534,
+              12.2607644
+            ],
+            [
+              109.1855824,
+              12.2605412
+            ],
+            [
+              109.1856527,
+              12.2605499
+            ],
+            [
+              109.1856434,
+              12.2606222
+            ],
+            [
+              109.1858262,
+              12.2606449
+            ],
+            [
+              109.1858152,
+              12.26073
+            ],
+            [
+              109.1856394,
+              12.2607081
+            ],
+            [
+              109.1856308,
+              12.260774
+            ],
+            [
+              109.1855534,
+              12.2607644
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1266965409",
       "properties": {
         "amenity": "dive_centre",
@@ -47000,6 +47063,7 @@
       "id": "node/1962773849",
       "properties": {
         "amenity": "dive_centre",
+        "check_date": "2026-07-06",
         "name": "One Ocean Dive Centre",
         "sport": "scuba_diving",
         "id": "node/1962773849"
@@ -97297,30 +97361,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/12455608035",
-      "properties": {
-        "addr:city": "Windwardside",
-        "addr:country": "BQ",
-        "addr:housenumber": "10",
-        "addr:state": "SA",
-        "addr:street": "Lambert Hassell Road",
-        "contact:email": "info@seasaba.com",
-        "contact:phone": "+599 4162246",
-        "contact:website": "https://www.seasaba.com/dive-shop-on-saba",
-        "name": "Sea Saba",
-        "shop": "scuba_diving",
-        "id": "node/12455608035"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -63.2328391,
-          17.6286655
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/12474022229",
       "properties": {
         "name": "Dykkerhuset",
@@ -103299,6 +103339,55 @@
         "coordinates": [
           124.185867,
           24.3361918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13992623201",
+      "properties": {
+        "addr:city": "Badung",
+        "addr:district": "Kuta Utara",
+        "addr:postcode": "80361",
+        "addr:province": "Bali",
+        "addr:street": "Jalan Petitenget",
+        "addr:subdistrict": "Kerobokan Kelod",
+        "description": "Padi diving and snorkelling course",
+        "email": "Info@aquamarinediving.com",
+        "name": "Aquamarine Diving Bali",
+        "opening_hours": "07:00-19:00",
+        "phone": "+62 361 4738 020",
+        "shop": "scuba_diving",
+        "id": "node/13992623201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.1639445,
+          -8.6722699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13992958666",
+      "properties": {
+        "addr:postcode": "73008",
+        "amenity": "dive_centre",
+        "check_date": "2026-07-06",
+        "contact:facebook": "omegadiverschania",
+        "contact:instagram": "omegadivers",
+        "email": "info@omegadivers.com",
+        "name": "Omega Divers",
+        "operator": "Omega Divers",
+        "website": "https://www.omegadivers.com/",
+        "id": "node/13992958666"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.2002863,
+          35.4481365
         ]
       }
     }
