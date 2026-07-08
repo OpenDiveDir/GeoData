@@ -34087,24 +34087,24 @@
         "coordinates": [
           [
             [
-              98.3350088,
-              7.807641
+              98.3349887,
+              7.807633
             ],
             [
-              98.3350051,
-              7.8077764
+              98.3349877,
+              7.8077698
             ],
             [
-              98.334914,
-              7.807774
+              98.3348952,
+              7.8077713
             ],
             [
-              98.3349177,
-              7.8076386
+              98.3348909,
+              7.807632
             ],
             [
-              98.3350088,
-              7.807641
+              98.3349887,
+              7.807633
             ]
           ]
         ]
@@ -56638,33 +56638,6 @@
         "coordinates": [
           99.827251,
           10.0911523
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3957475785",
-      "properties": {
-        "addr:city": "Freiburg im Breisgau",
-        "addr:housenumber": "2",
-        "addr:postcode": "79108",
-        "addr:street": "Komturplatz",
-        "check_date": "2025-10-06",
-        "email": "info@taucherquelle.de",
-        "fax": "+49 761 60068594",
-        "name": "TaucherQuelle",
-        "opening_hours": "Tu-Fr 11:00-18:00, Sa 10:00-15:00",
-        "operator": "Adalbert Müller",
-        "phone": "+49 761 60068589",
-        "shop": "scuba_diving",
-        "website": "http://www.taucherquelle.de",
-        "id": "node/3957475785"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.854454,
-          48.0129878
         ]
       }
     },
