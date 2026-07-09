@@ -4824,6 +4824,83 @@
     },
     {
       "type": "Feature",
+      "id": "way/147509807",
+      "properties": {
+        "addr:city": "Broomfield",
+        "addr:housenumber": "11965",
+        "addr:postcode": "80020",
+        "addr:state": "CO",
+        "addr:street": "Main Street",
+        "building": "yes",
+        "name": "Flatirons Scuba & Travel",
+        "phone": "+13034694477",
+        "shop": "scuba_diving",
+        "source": "esri_USDOT_ColoradoOITGIS",
+        "website": "http://www.flatironsscuba.com/",
+        "id": "way/147509807"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.0723724,
+              39.9135741
+            ],
+            [
+              -105.0723722,
+              39.9135267
+            ],
+            [
+              -105.0723458,
+              39.9135268
+            ],
+            [
+              -105.0723455,
+              39.9134722
+            ],
+            [
+              -105.0723715,
+              39.9134721
+            ],
+            [
+              -105.0723713,
+              39.9134308
+            ],
+            [
+              -105.0723461,
+              39.9134309
+            ],
+            [
+              -105.0723461,
+              39.9134206
+            ],
+            [
+              -105.0720904,
+              39.9134213
+            ],
+            [
+              -105.0720911,
+              39.9135605
+            ],
+            [
+              -105.072269,
+              39.91356
+            ],
+            [
+              -105.0722691,
+              39.9135744
+            ],
+            [
+              -105.0723724,
+              39.9135741
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/148773572",
       "properties": {
         "amenity": "dive_centre",
@@ -95986,7 +96063,7 @@
         "email": "info@xicodivecenter.com",
         "name": "Xico Dive Center",
         "opening_hours": "Mo-Su 08:00-20:00",
-        "phone": "+52 (984) 803 3518",
+        "phone": "+52 984 803 3518",
         "scuba_diving:air_filling": "yes",
         "scuba_diving:courses": "yes",
         "scuba_diving:hobby": "yes",
@@ -103361,6 +103438,43 @@
         "coordinates": [
           24.2002863,
           35.4481365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13998558728",
+      "properties": {
+        "addr:city": "sayulita",
+        "addr:housenumber": "15",
+        "addr:neighbourhood": "Sayulita",
+        "addr:postcode": "63734",
+        "addr:state": "Nayarit",
+        "addr:street": "Ramal Sayulita - Higuera Blanca",
+        "amenity": "dive_centre",
+        "contact:facebook": "https://www.facebook.com/oceanoadventures/?locale=es_LA",
+        "contact:instagram": "https://www.instagram.com/oceanoadventures/",
+        "email": "info@oceanoadventure.com",
+        "name": "Oceano Adventure",
+        "opening_hours": "Mo-Sa 08:00-17:00",
+        "operator": "Oceano Adventure",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:cryptocurrencies": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+523221099279",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:rental": "yes",
+        "website": "https://www.oceanoadventure.com",
+        "id": "node/13998558728"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4411525,
+          20.864377
         ]
       }
     }
