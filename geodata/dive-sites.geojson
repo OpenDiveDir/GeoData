@@ -132286,6 +132286,25 @@
           12.036133
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14000601906",
+      "properties": {
+        "access": "permit",
+        "fee": "yes",
+        "phone": "+49 163 9761474",
+        "sport": "scuba_diving",
+        "website": "https://www.grosser-b-see.de/",
+        "id": "node/14000601906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6292748,
+          51.2932951
+        ]
+      }
     }
   ]
 }
