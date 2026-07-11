@@ -34355,7 +34355,7 @@
         "description": "Koox Diving offers unforgettable underwater adventures in the stunning waters of Tulum. Our experienced team provides guided scuba diving and snorkeling tours, showcasing the vibrant marine life and breathtaking cenotes unique to the region.",
         "email": "kooxdiving@gmail.com",
         "image": "https://www.kooxdiving.com/wp-content/themes/koox-diving/assets/images/logo_koox.svg",
-        "mobile": "529841415502",
+        "mobile": "+52 984 141 5502",
         "name": "Koox Diving Tulum",
         "opening_hours": "Mo-Su 08:00-19:00",
         "scuba_diving:courses": "yes",
@@ -44474,7 +44474,7 @@
         "amenity": "dive_centre",
         "email": "dive@akumaldiveadventures.com",
         "name": "Akumal Dive Adventures",
-        "phone": "+52-984-875-9157",
+        "phone": "+52 984 875 9157",
         "website": "http://www.akumaldiveadventures.com/",
         "id": "node/1043663681"
       },
@@ -52705,25 +52705,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/3222185703",
-      "properties": {
-        "addr:city": "L'Estartit",
-        "addr:postcode": "17258",
-        "addr:street": "Plaça del Doctor Fleming",
-        "name": "Scubafix Diveshop",
-        "shop": "scuba_diving",
-        "id": "node/3222185703"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.1989463,
-          42.054219
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/3224746466",
       "properties": {
         "addr:place": "Panagsama Beach",
@@ -55363,22 +55344,6 @@
         "coordinates": [
           114.6542741,
           -8.143176
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3753941978",
-      "properties": {
-        "name": "Bali Diving Academy Pemuteran",
-        "shop": "scuba_diving",
-        "id": "node/3753941978"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          114.6540299,
-          -8.1426784
         ]
       }
     },
@@ -82907,7 +82872,8 @@
       "type": "Feature",
       "id": "node/8810233352",
       "properties": {
-        "name": "GlobalDive",
+        "addr:street": "Remuera Road",
+        "name": "GlobalDive - learn to dive here",
         "shop": "scuba_diving",
         "website": "https://globaldive.net",
         "id": "node/8810233352"
@@ -91023,7 +90989,7 @@
         "payment:paypal": "yes",
         "payment:visa": "yes",
         "payment:zelle": "yes",
-        "phone": "+1 (866) 455-8800",
+        "phone": "+1-866-455-8800",
         "scuba_diving:courses": "yes",
         "scuba_diving:diving": "yes",
         "scuba_diving:excursion": "yes",
@@ -102688,7 +102654,7 @@
         "addr:street": "Landeroith",
         "email": "office@up-divecenter.at",
         "name": "Under Pressure Divecenter",
-        "opening_hours": "Nov-Mar: Do-Su 09:00-17:00; Apr-Oct: Tu-Su: 09:00-18:00",
+        "opening_hours": "Nov-Mar: Th-Su 09:00-17:00; Apr-Oct: Tu-Su 09:00-18:00",
         "operator": "Under Pressure Divecenter",
         "phone": "+43 650 8000 477",
         "shop": "scuba_diving",
@@ -103475,6 +103441,31 @@
         "coordinates": [
           -105.4411525,
           20.864377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14000552894",
+      "properties": {
+        "addr:city": "Essen",
+        "addr:housenumber": "1",
+        "addr:postcode": "45136",
+        "addr:street": "Weserstraße",
+        "name": "Dive In Essen",
+        "opening_hours": "Mo, We-Fr 15-19, Sa 10-14",
+        "phone": "+49 201 2988088",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:rental": "yes",
+        "shop": "scuba_diving",
+        "website": "https://dive-in-essen.de/",
+        "id": "node/14000552894"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0336522,
+          51.4365936
         ]
       }
     }
