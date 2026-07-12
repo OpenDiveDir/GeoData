@@ -52811,6 +52811,32 @@
     },
     {
       "type": "Feature",
+      "id": "node/3238357842",
+      "properties": {
+        "addr:city": "L'Estartit",
+        "addr:housenumber": "8",
+        "addr:postcode": "17258",
+        "addr:street": "Carrer de la Platja",
+        "amenity": "dive_centre",
+        "email": "info@unisub.es",
+        "name": "Unisub",
+        "operator": "Unisub Estartit S.L.",
+        "phone": "+34 972 75 17 68",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:hobby": "yes",
+        "website": "https://www.unisub.es",
+        "id": "node/3238357842"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2018031,
+          42.0544252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3241051376",
       "properties": {
         "addr:city": "L'Estartit",
@@ -73711,6 +73737,7 @@
         "addr:housenumber": "2475",
         "addr:postcode": "V6K 1P9",
         "addr:street": "West 4th Avenue",
+        "check_date": "2026-07-11",
         "name": "The Diving Locker",
         "opening_hours": "Mo-Fr 10:00-18:00; Sa 10:00-17:30; Su 10:00-16:00",
         "phone": "+1-604-736-2681",
@@ -94843,7 +94870,8 @@
       "type": "Feature",
       "id": "node/11959048464",
       "properties": {
-        "check_date": "2024-06-05",
+        "check_date": "2026-07-11",
+        "check_date:opening_hours": "2026-07-11",
         "email": "info@taucherservice-halle.de",
         "name": "Taucherservice-Halle",
         "opening_hours": "Tu 19:00-20:30",
@@ -103466,6 +103494,31 @@
         "coordinates": [
           7.0336522,
           51.4365936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14005090757",
+      "properties": {
+        "addr:city": "Barcelona",
+        "addr:housenumber": "133",
+        "addr:postcode": "08028",
+        "addr:street": "Rambla de Badal",
+        "email": "badalsub@badalsub.es",
+        "name": "Badal Sub",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "phone": "+34 93 422 18 29",
+        "shop": "scuba_diving",
+        "website": "https://badalsub.es",
+        "id": "node/14005090757"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1311356,
+          41.3730839
         ]
       }
     }
