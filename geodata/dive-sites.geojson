@@ -38409,6 +38409,7 @@
       "type": "Feature",
       "id": "way/284658684",
       "properties": {
+        "access": "permissive",
         "description": "Dojście do wraków w zasadzie wolne. Jednak mogą wystąpić sytuacje gdy będzie to utrudnione lub niemożliwe.",
         "historic": "wreck",
         "name": "ORP Wicher II",
@@ -38476,6 +38477,7 @@
       "type": "Feature",
       "id": "way/284658689",
       "properties": {
+        "access": "permissive",
         "description": "Widoczność z brzegu zależna od poziomu morza. Wrak o aluminiowym kadłubie.",
         "historic": "wreck",
         "seamark:type": "wreck",
@@ -57379,6 +57381,10 @@
             50.6393378
           ],
           [
+            6.404714,
+            50.6393487
+          ],
+          [
             6.4047619,
             50.6393509
           ],
@@ -57392,11 +57398,11 @@
           ],
           [
             6.4048136,
-            50.6393489
+            50.6393499
           ],
           [
-            6.4048379,
-            50.6393522
+            6.4048275,
+            50.6393549
           ]
         ]
       }
@@ -85941,13 +85947,14 @@
       "type": "Feature",
       "id": "node/663871146",
       "properties": {
+        "access": "yes",
         "historic": "wreck",
         "name": "Abille",
+        "note": "please check and del this tag",
         "seamark:type": "wreck",
         "source": "www.dive-links.com",
         "sport": "scuba_diving",
-        "verified": "no, please check and del this tag",
-        "website": "http://www.dive-links.com/tauchplatz.php?id=1697",
+        "website": "https://diveland.com.pl/wrak/1762",
         "id": "node/663871146"
       },
       "geometry": {
@@ -98535,6 +98542,30 @@
     },
     {
       "type": "Feature",
+      "id": "node/2661492065",
+      "properties": {
+        "access": "yes",
+        "description": "Wrak specjalnie zatopiony w celach turystycznych.",
+        "historic": "wreck",
+        "name": "ORP Bryza K-18 (wrak)",
+        "seamark:type": "wreck",
+        "sport": "scuba_diving",
+        "website": "https://diveland.com.pl/wrak/1771",
+        "wreck:clearance": "10.5",
+        "wreck:length": "28.82",
+        "wreck:width": "6.20",
+        "id": "node/2661492065"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7938316,
+          54.606407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/2674038368",
       "properties": {
         "name": "Aladin",
@@ -101452,11 +101483,18 @@
       "type": "Feature",
       "id": "node/3487751756",
       "properties": {
+        "access": "yes",
         "historic": "wreck",
         "name": "Wicher (szczątki wraku)",
         "seamark:type": "wreck",
         "source": "http://www.naszbaltyk.com/aktualnosci/2091-wykaz-wrakow-dozwolonych-do-nurkowania-w-sezonie-2015.html",
         "sport": "scuba_diving",
+        "start_date": "1927-02-19",
+        "website": "https://diveland.com.pl/wrak/1808",
+        "wikidata": "Q2008029",
+        "wikipedia": "pl:ORP Wicher (1928)",
+        "wreck:date_sunk": "1939-09-03",
+        "wreck:visible_at_low_tide": "yes",
         "id": "node/3487751756"
       },
       "geometry": {
@@ -125769,8 +125807,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.4048379,
-          50.6393522
+          6.4048275,
+          50.6393549
         ]
       }
     },
