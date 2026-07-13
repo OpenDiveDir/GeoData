@@ -99679,6 +99679,7 @@
       "id": "node/13089872835",
       "properties": {
         "amenity": "dive_centre",
+        "name": "flying divers",
         "id": "node/13089872835"
       },
       "geometry": {
@@ -103481,7 +103482,7 @@
         "addr:postcode": "45136",
         "addr:street": "Weserstraße",
         "name": "Dive In Essen",
-        "opening_hours": "Mo, We-Fr 15-19, Sa 10-14",
+        "opening_hours": "Mo,We-Fr 15:00-19:00, Sa 10:00-14:00",
         "phone": "+49 201 2988088",
         "scuba_diving:courses": "yes",
         "scuba_diving:rental": "yes",
