@@ -4836,7 +4836,7 @@
         "phone": "+13034694477",
         "shop": "scuba_diving",
         "source": "esri_USDOT_ColoradoOITGIS",
-        "website": "http://www.flatironsscuba.com/",
+        "website": "https://www.flatironsscuba.com/",
         "id": "way/147509807"
       },
       "geometry": {
@@ -14551,40 +14551,40 @@
         "coordinates": [
           [
             [
-              -68.2759782,
-              12.1462038
+              -68.2760003,
+              12.1462265
             ],
             [
-              -68.276123,
-              12.1461832
+              -68.2761013,
+              12.1462137
             ],
             [
-              -68.2761177,
-              12.1461478
+              -68.2760915,
+              12.1461396
             ],
             [
-              -68.2760868,
-              12.1461522
+              -68.2760621,
+              12.1461433
             ],
             [
-              -68.2760742,
-              12.1460673
+              -68.2760513,
+              12.1460618
             ],
             [
-              -68.2759999,
-              12.1460779
+              -68.2759292,
+              12.1460773
             ],
             [
-              -68.2760087,
-              12.1461368
+              -68.2759449,
+              12.1461958
             ],
             [
-              -68.275969,
-              12.1461424
+              -68.2759954,
+              12.1461894
             ],
             [
-              -68.2759782,
-              12.1462038
+              -68.2760003,
+              12.1462265
             ]
           ]
         ]
@@ -22542,6 +22542,43 @@
             [
               73.0572472,
               5.2967967
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/543649917",
+      "properties": {
+        "amenity": "dive_centre",
+        "building": "yes",
+        "name": "Spiranca Diving Center - Viroi Cave",
+        "id": "way/543649917"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              20.1201147,
+              40.0980485
+            ],
+            [
+              20.1200475,
+              40.0980376
+            ],
+            [
+              20.1200991,
+              40.0978523
+            ],
+            [
+              20.1201664,
+              40.0978633
+            ],
+            [
+              20.1201147,
+              40.0980485
             ]
           ]
         ]
@@ -44774,6 +44811,7 @@
       "type": "Feature",
       "id": "node/1242343131",
       "properties": {
+        "check_date:opening_hours": "2026-07-13",
         "name": "Sport Baumann",
         "opening_hours": "Tu 16:00-18:30",
         "shop": "scuba_diving",
@@ -103520,6 +103558,43 @@
         "coordinates": [
           2.1311356,
           41.3730839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14008177658",
+      "properties": {
+        "addr:city": "Reggio nell'Emilia",
+        "addr:housenumber": "53l",
+        "addr:street": "Via Ernesto Che Guevara",
+        "contact:facebook": "https://www.facebook.com/divingcenterreggioemilia",
+        "name": "Diving Center Reggio Emilia",
+        "phone": "+39  0522 280561",
+        "shop": "scuba_diving",
+        "id": "node/14008177658"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6351295,
+          44.6801627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14011392817",
+      "properties": {
+        "name": "Воден дракон",
+        "shop": "scuba_diving",
+        "id": "node/14011392817"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.7137451,
+          42.8786569
         ]
       }
     }
