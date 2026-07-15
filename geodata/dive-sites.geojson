@@ -16488,11 +16488,14 @@
       "type": "Feature",
       "id": "way/70386352",
       "properties": {
+        "bathing": "no",
         "ele": "2414",
         "name": "Lac Sainte-Anne",
         "natural": "water",
+        "note": "Baignade interdite par arrêté municipal.",
         "source": "data.gouv.fr:Le ministère des droits des femmes, de la ville, de la jeunesse et des sports - 11/2015",
         "sport": "scuba_diving",
+        "swimming": "no",
         "water": "lake",
         "wikidata": "Q3215179",
         "wikipedia": "fr:Lac Sainte-Anne",
@@ -85328,11 +85331,9 @@
       "type": "Feature",
       "id": "node/663871076",
       "properties": {
-        "name": "Eckartsberg",
+        "description": "Eckartsberg",
         "scuba_diving:divespot": "yes",
-        "source": "www.dive-links.com",
         "sport": "scuba_diving",
-        "website": "http://www.dive-links.com/tauchplatz.php?id=1125",
         "id": "node/663871076"
       },
       "geometry": {
@@ -125564,6 +125565,30 @@
     },
     {
       "type": "Feature",
+      "id": "node/11963452146",
+      "properties": {
+        "addr:city": "Toruń",
+        "addr:housenumber": "5",
+        "addr:postcode": "87-100",
+        "addr:street": "Księdza Jerzego Popiełuszki",
+        "email": "akwanauta@akwanauta.pl",
+        "leisure": "sports_centre",
+        "name": "Centrum Szkolenia Techniki Nurkowej Akwanauta",
+        "phone": "+48601665910",
+        "sport": "scuba_diving",
+        "website": "http://www.akwanauta.pl",
+        "id": "node/11963452146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5848935,
+          53.0054587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/11968943455",
       "properties": {
         "bbq": "yes",
@@ -132341,6 +132366,30 @@
         "coordinates": [
           6.6292748,
           51.2932951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14008485524",
+      "properties": {
+        "depth": "249",
+        "location": "underwater",
+        "name": "Shpella Nënujore e Viroit",
+        "name:en": "Viroi Underwater Cave",
+        "natural": "cave_entrance",
+        "note": "Cave system surveyed to ~249m; reported figures range 200–270m",
+        "scuba_diving:cavern": "yes",
+        "scuba_diving:type": "cave;spring",
+        "sport": "scuba_diving",
+        "spring:type": "karst",
+        "id": "node/14008485524"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.1197454,
+          40.0980281
         ]
       }
     }
