@@ -58028,6 +58028,30 @@
     },
     {
       "type": "Feature",
+      "id": "way/341840644",
+      "properties": {
+        "leisure": "slipway",
+        "seamark:small_craft_facility:category": "slipway",
+        "seamark:type": "small_craft_facility",
+        "sport": "scuba_diving",
+        "id": "way/341840644"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.586053,
+            51.6657736
+          ],
+          [
+            6.5861144,
+            51.665611
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/343369125",
       "properties": {
         "name": "Havheksen",
@@ -92253,23 +92277,6 @@
         "coordinates": [
           4.5028339,
           51.0218325
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/1067942358",
-      "properties": {
-        "name": "Orca Dive Club Safaga",
-        "sport": "scuba_diving",
-        "website": "http://www.orca-diveclub-safaga.com/e/location_dive_center_safaga_egypt_u301d.html",
-        "id": "node/1067942358"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.9372732,
-          26.7937008
         ]
       }
     },
