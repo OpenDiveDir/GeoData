@@ -4030,6 +4030,7 @@
       "properties": {
         "building": "retail",
         "name": "Club Sous l'Eau",
+        "ref:FR:RNB": "E8VGBCQWWBN6",
         "shop": "scuba_diving",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
         "id": "way/130473854"
@@ -4102,6 +4103,7 @@
         "building": "commercial",
         "name": "Centre de Plongée du Dramont",
         "phone": "+33788862578",
+        "ref:FR:RNB": "F8XVAQNBTXAR",
         "scuba_diving:education": "yes",
         "scuba_diving:rental": "yes",
         "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
@@ -6648,7 +6650,7 @@
         "email": "info@cip-lavandou.fr",
         "image": "https://static.wixstatic.com/media/8f9542_44cef2f44cd34958bd3d7435dde96375~mv2.gif",
         "name": "CIP Le Lavandou",
-        "opening_hours": "8:00-12:00; 14:00-19:00",
+        "opening_hours": "08:00-12:00; 14:00-19:00",
         "phone": "+33 4 94 71 54 57",
         "scuba_diving:air_fill": "yes",
         "scuba_diving:education": "yes",
@@ -16469,7 +16471,7 @@
         "building": "retail",
         "name": "獅子浜ダイビングサービス",
         "name:en": "Shishihama diving service",
-        "opening_hours": "May-Oct Mo-Sun 08:00-17:30; Nov-Apr Mo-Sun 08:00-16:30",
+        "opening_hours": "May-Oct Mo-Su 08:00-17:30; Nov-Apr Mo-Su 08:00-16:30",
         "phone": "+81-055-933-2024",
         "shop": "scuba_diving",
         "website": "http://www.shishihama.com/",
@@ -23544,7 +23546,7 @@
         "building": "yes",
         "name": "菖蒲沢ダイビングセンター",
         "name:en": "Shobuzawa Diving Center",
-        "opening_hours": "Mo-Sun 07:00-17:00",
+        "opening_hours": "Mo-Su 07:00-17:00",
         "phone": "+81-0558-32-3933",
         "website": "https://shobuzawa.com/",
         "id": "way/568613787"
@@ -31065,6 +31067,92 @@
     },
     {
       "type": "Feature",
+      "id": "way/927818733",
+      "properties": {
+        "amenity": "dive_centre",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Diving Center",
+        "id": "way/927818733"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.9352976,
+              26.7914945
+            ],
+            [
+              33.9352778,
+              26.7914849
+            ],
+            [
+              33.9352537,
+              26.7914684
+            ],
+            [
+              33.9352292,
+              26.7914421
+            ],
+            [
+              33.9352155,
+              26.7914162
+            ],
+            [
+              33.9352112,
+              26.7914009
+            ],
+            [
+              33.935211,
+              26.7913907
+            ],
+            [
+              33.935212,
+              26.7913799
+            ],
+            [
+              33.9352164,
+              26.7913664
+            ],
+            [
+              33.9352253,
+              26.7913549
+            ],
+            [
+              33.9352383,
+              26.7913414
+            ],
+            [
+              33.935249,
+              26.791337
+            ],
+            [
+              33.93526,
+              26.7913366
+            ],
+            [
+              33.9352757,
+              26.7913374
+            ],
+            [
+              33.9352903,
+              26.7913413
+            ],
+            [
+              33.9353827,
+              26.7913829
+            ],
+            [
+              33.9352976,
+              26.7914945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/931357005",
       "properties": {
         "access": "private",
@@ -32443,6 +32531,45 @@
             [
               34.4196115,
               27.9695269
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1002317142",
+      "properties": {
+        "amenity": "dive_centre",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Menadive",
+        "website": "https://menadive.com/",
+        "id": "way/1002317142"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.9351641,
+              26.7912295
+            ],
+            [
+              33.9351329,
+              26.791123
+            ],
+            [
+              33.9353941,
+              26.791062
+            ],
+            [
+              33.9354253,
+              26.7911685
+            ],
+            [
+              33.9351641,
+              26.7912295
             ]
           ]
         ]
@@ -43287,16 +43414,24 @@
       "type": "Feature",
       "id": "node/766252021",
       "properties": {
+        "addr:city": "Coral Harbour",
+        "addr:street": "Coral Harbour Road",
         "amenity": "dive_centre",
         "contact:website": "https://stuartcove.com/",
         "name": "Stuart Cove's",
+        "scuba_diving:air_filling": "yes",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:filling": "yes",
+        "scuba_diving:hobby": "yes",
+        "scuba_diving:nitrox_filling": "yes",
+        "scuba_diving:rental": "yes",
         "id": "node/766252021"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.5242797,
-          25.0011632
+          -77.4610568,
+          24.9814926
         ]
       }
     },
@@ -44582,6 +44717,24 @@
         "coordinates": [
           99.3078407,
           6.4881787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1067942358",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "Orca Dive Club Safaga",
+        "sport": "scuba_diving",
+        "website": "http://www.orca-diveclub-safaga.com/e/location_dive_center_safaga_egypt_u301d.html",
+        "id": "node/1067942358"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.9372732,
+          26.7937008
         ]
       }
     },
@@ -59867,8 +60020,15 @@
       "type": "Feature",
       "id": "node/4384300640",
       "properties": {
+        "addr:floor": "0",
+        "check_date": "2026-07-16",
+        "level": "0",
         "name": "Apostolidisdive.gr",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
         "shop": "scuba_diving",
+        "wheelchair": "no",
         "id": "node/4384300640"
       },
       "geometry": {
@@ -65192,27 +65352,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/5037261844",
-      "properties": {
-        "amenity": "dive_centre",
-        "league": "PADI",
-        "name": "Sea Sight Divers",
-        "name:en": "Sea Sight Divers",
-        "phone": "+60 11-2923 0249",
-        "scuba_diving:education": "yes",
-        "sport": "scuba_diving",
-        "id": "node/5037261844"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          102.7172903,
-          5.913082
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/5037261845",
       "properties": {
         "amenity": "dive_centre",
@@ -69271,50 +69410,6 @@
         "coordinates": [
           124.138531,
           24.4609955
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5584079400",
-      "properties": {
-        "amenity": "dive_centre",
-        "name": "Diving Center",
-        "scuba_diving:air_filling": "yes",
-        "scuba_diving:courses": "yes",
-        "scuba_diving:nitrox_filling": "yes",
-        "scuba_diving:rental": "yes",
-        "source": "local knowledge (information)",
-        "id": "node/5584079400"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.9352669,
-          26.7914001
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5584079401",
-      "properties": {
-        "amenity": "dive_centre",
-        "name": "Menadive",
-        "scuba_diving:air_filling": "yes",
-        "scuba_diving:courses": "yes",
-        "scuba_diving:nitrox_filling": "yes",
-        "scuba_diving:rental": "yes",
-        "source": "local knowledge (information)",
-        "sport": "scuba_diving",
-        "website": "https://menadive.com/",
-        "id": "node/5584079401"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          33.9352655,
-          26.791123
         ]
       }
     },
@@ -80133,7 +80228,7 @@
         "contact:website": "https://lavandou-plongee.com",
         "image": "https://lavandou-plongee.com/wp-content/uploads/2016/06/logo-lavandou-plongee.png",
         "name": "Lavandou Plongée",
-        "opening_hours": "8:00-12:00;14:00-18:00",
+        "opening_hours": "08:00-12:00; 14:00-18:00",
         "scuba_diving:air_fill": "yes",
         "scuba_diving:education": "yes",
         "scuba_diving:equipment": "yes",
@@ -97349,7 +97444,7 @@
         "addr:street": "Alfonso Pérez Gasga",
         "amenity": "dive_centre",
         "name": "Centro de Buceo Dive Center",
-        "phone": "9545444862",
+        "phone": "+52 954 544 4862",
         "id": "node/12393051841"
       },
       "geometry": {
@@ -103595,6 +103690,25 @@
         "coordinates": [
           24.7137451,
           42.8786569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14021091031",
+      "properties": {
+        "amenity": "dive_centre",
+        "check_date": "2026-07-16",
+        "name": "Samara Dive School",
+        "phone": "+506 8506 2772",
+        "website": "https://www.divesamara.com",
+        "id": "node/14021091031"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5458687,
+          9.8857226
         ]
       }
     }
