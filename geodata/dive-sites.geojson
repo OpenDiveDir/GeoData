@@ -57118,6 +57118,61 @@
     },
     {
       "type": "Feature",
+      "id": "way/1540127868",
+      "properties": {
+        "contact:street": "Quai Cambarell",
+        "leisure": "sports_centre",
+        "name": "Madéo plongée",
+        "phone": "+33 7 88 60 27 98",
+        "sport": "scuba_diving",
+        "id": "way/1540127868"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -4.7562491,
+              48.4712009
+            ],
+            [
+              -4.756228,
+              48.471187
+            ],
+            [
+              -4.7562413,
+              48.471178
+            ],
+            [
+              -4.7561838,
+              48.4711405
+            ],
+            [
+              -4.7561528,
+              48.4711198
+            ],
+            [
+              -4.7561255,
+              48.4711017
+            ],
+            [
+              -4.7560351,
+              48.4712448
+            ],
+            [
+              -4.7561789,
+              48.4712543
+            ],
+            [
+              -4.7562491,
+              48.4712009
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/72525111",
       "properties": {
         "scuba_diving:depth": "7 m",
@@ -132409,6 +132464,21 @@
         "coordinates": [
           20.1197454,
           40.0980281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14023139544",
+      "properties": {
+        "entrance": "main",
+        "id": "node/14023139544"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.7561838,
+          48.4711405
         ]
       }
     }
