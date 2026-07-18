@@ -42283,7 +42283,7 @@
         "name:pl": "centrum nurkowe Scuba Libre",
         "opening_hours": "Mo-Su 09:00-19:00",
         "sport": "scuba_diving",
-        "url": "www.scuba-libre.net",
+        "website": "https://www.scuba-libre.net",
         "id": "node/497527063"
       },
       "geometry": {
@@ -62116,6 +62116,26 @@
         "coordinates": [
           99.8291985,
           10.1004731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4695442090",
+      "properties": {
+        "amenity": "dive_centre",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Neren Diving Komodo",
+        "sport": "scuba_diving",
+        "website": "https://www.nerendivingkomodo.net",
+        "id": "node/4695442090"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.8782035,
+          -8.4938102
         ]
       }
     },
@@ -92186,6 +92206,24 @@
         "coordinates": [
           98.3375945,
           7.8257646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/11237364743",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "Centro de Mergulho EML",
+        "sport": "scuba_diving",
+        "website": "https://www.eml.pt/",
+        "id": "node/11237364743"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1002457,
+          38.4666976
         ]
       }
     },
