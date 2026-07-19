@@ -131350,8 +131350,16 @@
       "type": "Feature",
       "id": "node/13367816720",
       "properties": {
+        "internet_access": "no",
         "name": "Sport di mare",
+        "nobrand": "yes",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:qr_code": "no",
         "phone": "+33495471077",
+        "service:bicycle:rental": "no",
+        "service:bicycle:repair": "no",
+        "service:bicycle:retail": "no",
         "shop": "sports",
         "sport": "scuba_diving",
         "id": "node/13367816720"
