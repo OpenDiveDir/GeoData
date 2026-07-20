@@ -66080,25 +66080,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/663869321",
-      "properties": {
-        "name": "Canoe Rock",
-        "source": "www.dive-links.com",
-        "sport": "scuba_diving",
-        "verified": "no, please check and del this tag",
-        "website": "http://www.dive-links.com/tauchplatz.php?id=1938",
-        "id": "node/663869321"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.338333,
-          48.733333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/663869323",
       "properties": {
         "name": "Palancar Reef",
@@ -119425,7 +119406,9 @@
         "leisure": "sports_centre",
         "name": "Tauchbasis Stechlinsee",
         "sport": "scuba_diving",
+        "toilets:wheelchair": "yes",
         "website": "https://www.tauchbasis-stechlinsee.de",
+        "wheelchair": "limited",
         "id": "node/8123389515"
       },
       "geometry": {
@@ -131314,7 +131297,7 @@
         "contact:instagram": "https://www.instagram.com/kppardubice/",
         "email": "klub.potapecu.pardubice@gmail.com",
         "name": "Klub potápěčů Pardubice",
-        "phone": "420 731 542 772",
+        "phone": "+420 731 542 772",
         "sport": "scuba_diving",
         "website": "https://kppce.pageride.cz/",
         "id": "node/13322918959"
