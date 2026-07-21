@@ -5,9 +5,10 @@
       "type": "Feature",
       "id": "way/24920947",
       "properties": {
-        "building": "yes",
+        "addr:city": "Grays",
+        "addr:postcode": "RM16 1ZN",
+        "building": "retail",
         "name": "Lakeside Diving and Watersport's Centre",
-        "postal_code": "RM16 1ZN",
         "shop": "scuba_diving",
         "source": "local_knowledge, bing",
         "id": "way/24920947"
@@ -50790,7 +50791,7 @@
         "addr:street": "Calle Malecon",
         "amenity": "dive_centre",
         "name": "Buceando Mahahual",
-        "phone": "+52 1 984 1307716",
+        "phone": "+52 984 130 7716",
         "sport": "scuba_diving",
         "website": "https://buceandomahahual.com/",
         "id": "node/2729063529"
@@ -57084,8 +57085,8 @@
       "type": "Feature",
       "id": "node/3989752193",
       "properties": {
-        "check_date": "2024-11-09",
-        "check_date:opening_hours": "2024-09-13",
+        "check_date": "2026-07-15",
+        "check_date:opening_hours": "2026-07-15",
         "contact:city": "Lyon",
         "contact:email": "infos@techniplongee.fr",
         "contact:housenumber": "111",
@@ -65429,9 +65430,9 @@
       "id": "node/5037261848",
       "properties": {
         "amenity": "dive_centre",
-        "contact:email": "mataharidivers@gmail.com",
+        "contact:email": "mataharidivers.perhentian@gmail.com",
         "contact:phone": "+60 12-804 6574",
-        "contact:website": "https://mataharidivers.com/",
+        "contact:website": "http://www.mataharidivers.my/",
         "league": "PADI",
         "name": "Matahari Divers",
         "scuba_diving:courses": "yes",
@@ -66509,22 +66510,6 @@
         "coordinates": [
           2.42214,
           39.5379418
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/5146124012",
-      "properties": {
-        "name": "Midtdykk",
-        "shop": "scuba_diving",
-        "id": "node/5146124012"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.4425591,
-          63.44525
         ]
       }
     },
@@ -68643,6 +68628,37 @@
     },
     {
       "type": "Feature",
+      "id": "node/5460149821",
+      "properties": {
+        "addr:city": "Hilo",
+        "addr:housenumber": "1717",
+        "addr:postcode": "96720",
+        "addr:state": "HI",
+        "addr:street": "Kamehameha Avenue",
+        "amenity": "dive_centre",
+        "check_date": "2023-04-17",
+        "contact:facebook": "https://www.facebook.com/hilooceanadventures/",
+        "contact:instagram": "https://www.instagram.com/hilo_ocean_adventures/",
+        "leisure": "sports_centre",
+        "name": "Hilo Ocean Adventures",
+        "opening_hours": "09:00-17:00",
+        "phone": "+1-808-934-8344",
+        "scuba_diving:hobby": "yes",
+        "scuba_diving:rental": "yes",
+        "sport": "swimming;scuba_diving",
+        "website": "https://www.hilooceanadventures.com/",
+        "id": "node/5460149821"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -155.0645884,
+          19.7228348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5468980000",
       "properties": {
         "addr:city": "Muscat",
@@ -69357,7 +69373,8 @@
       "type": "Feature",
       "id": "node/5565911210",
       "properties": {
-        "name": "DIVE BUDDY MALAYSIA",
+        "name": "Dive Buddy Malaysia",
+        "name:en": "Dive Buddy Malaysia",
         "shop": "scuba_diving",
         "id": "node/5565911210"
       },
@@ -76248,34 +76265,6 @@
         "coordinates": [
           -70.9331109,
           42.5619095
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6636761818",
-      "properties": {
-        "addr:city": "Amed",
-        "addr:postcode": "80852",
-        "addr:street": "Jalan I Ketut Natih",
-        "amenity": "dive_centre",
-        "description": "PADI dive centre that also has a restaurant and accommodation.",
-        "email": "biladivingamed@gmail.com",
-        "name": "La Bila Dive Resort",
-        "name:de": "La Bila Tauchschule",
-        "name:es": "La Bila Escuela de Buceo",
-        "name:id": "La Bila Sekolah Menyelam",
-        "operator": "PADI",
-        "phone": "+62 878 6174 8686; +62 819 1657 3021",
-        "scuba_diving:courses": "yes",
-        "website": "https://bila-dive-resort-amed.com",
-        "id": "node/6636761818"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          115.648954,
-          -8.3356908
         ]
       }
     },
@@ -86830,34 +86819,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/9895773883",
-      "properties": {
-        "addr:city": "Augsburg",
-        "addr:country": "DE",
-        "addr:housenumber": "35",
-        "addr:postcode": "86150",
-        "addr:street": "Schwibbogengasse",
-        "description": "Service für Tauchsportdienstleistungen",
-        "image": "https://cdn.shopify.com/s/files/1/0636/5410/1232/files/image-2_1.png?v=1656955303",
-        "name": "Zweihundertbar.de",
-        "opening_hours": "24/7",
-        "payment:klarna": "yes",
-        "payment:mastercard": "yes",
-        "payment:visa": "yes",
-        "shop": "scuba_diving",
-        "website": "https://zweihundertbar.de",
-        "id": "node/9895773883"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.9036863,
-          48.3625482
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/9897281375",
       "properties": {
         "contact:mobile": "+33 6 80 89 40 66",
@@ -91169,7 +91130,7 @@
         "payment:paypal": "yes",
         "payment:visa": "yes",
         "payment:zelle": "yes",
-        "phone": "+1-866-455-8800",
+        "phone": "+52 987 103 6200; +1 866 455 8800",
         "scuba_diving:courses": "yes",
         "scuba_diving:diving": "yes",
         "scuba_diving:excursion": "yes",
@@ -95942,6 +95903,32 @@
     },
     {
       "type": "Feature",
+      "id": "node/12081974820",
+      "properties": {
+        "addr:TW:dataset": "168887",
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "貢寮區",
+        "addr:full": "新北市貢寮區和美里020鄰龍洞街66號",
+        "addr:hamlet": "和美里",
+        "addr:housenumber": "66號",
+        "addr:neighbourhood": "020",
+        "addr:street": "龍洞街",
+        "amenity": "dive_centre",
+        "name": "iDiving",
+        "source": "新北市政府",
+        "id": "node/12081974820"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.9157267,
+          25.1178214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/12085429193",
       "properties": {
         "amenity": "dive_centre",
@@ -100580,8 +100567,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          102.7172131,
-          5.9150922
+          102.7172293,
+          5.9150993
         ]
       }
     },
@@ -102597,7 +102584,7 @@
         "opening_hours": "08:00-22:00",
         "payment:app": "yes",
         "payment:cash": "yes",
-        "phone": "08-8897968",
+        "phone": "+886 8 889 7968",
         "scuba_diving:air_filling": "yes",
         "scuba_diving:courses": "yes",
         "scuba_diving:education": "PADI;ADS",
