@@ -23138,156 +23138,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/121219235",
-      "properties": {
-        "name": "Casslauer Dorfteich",
-        "name:hsb": "Koslowski hat",
-        "natural": "water",
-        "scuba_diving:divespot": "yes",
-        "source": "www.dive-links.com",
-        "sport": "scuba_diving",
-        "water": "pond",
-        "website": "http://www.dive-links.com/tauchplatz.php?id=1129",
-        "id": "way/121219235"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              14.2738892,
-              51.2809632
-            ],
-            [
-              14.2734049,
-              51.2809779
-            ],
-            [
-              14.273221,
-              51.2809834
-            ],
-            [
-              14.2728143,
-              51.2811132
-            ],
-            [
-              14.2724242,
-              51.2810873
-            ],
-            [
-              14.272278,
-              51.2810784
-            ],
-            [
-              14.2721815,
-              51.2810916
-            ],
-            [
-              14.2721041,
-              51.2810973
-            ],
-            [
-              14.2720464,
-              51.2810999
-            ],
-            [
-              14.2720443,
-              51.2811113
-            ],
-            [
-              14.2718868,
-              51.2811125
-            ],
-            [
-              14.2717591,
-              51.2811269
-            ],
-            [
-              14.2713282,
-              51.2810647
-            ],
-            [
-              14.2711315,
-              51.2808732
-            ],
-            [
-              14.2713083,
-              51.2801537
-            ],
-            [
-              14.2715475,
-              51.2798669
-            ],
-            [
-              14.2716489,
-              51.2797453
-            ],
-            [
-              14.2722362,
-              51.2791119
-            ],
-            [
-              14.2736058,
-              51.2789917
-            ],
-            [
-              14.2743561,
-              51.2787708
-            ],
-            [
-              14.2747591,
-              51.2790582
-            ],
-            [
-              14.275146,
-              51.279415
-            ],
-            [
-              14.2755784,
-              51.2794723
-            ],
-            [
-              14.2757692,
-              51.2797591
-            ],
-            [
-              14.2757381,
-              51.2799455
-            ],
-            [
-              14.2761465,
-              51.2804079
-            ],
-            [
-              14.27584,
-              51.2806039
-            ],
-            [
-              14.2757361,
-              51.2806625
-            ],
-            [
-              14.2748782,
-              51.2811468
-            ],
-            [
-              14.274494,
-              51.2810044
-            ],
-            [
-              14.274185,
-              51.2809632
-            ],
-            [
-              14.2738892,
-              51.2809632
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/126093836",
       "properties": {
         "name": "Carrière des Frênaies",
@@ -93409,6 +93259,8 @@
       "type": "Feature",
       "id": "node/1536682856",
       "properties": {
+        "addr:housenumber": "483",
+        "addr:street": "Avenue du Gratadis",
         "contact:website": "https://agay-plongee.fr/",
         "email": "agayplongee@gmail.com",
         "leisure": "sports_centre",
@@ -93416,6 +93268,10 @@
         "name": "Club de plongée d'Agay",
         "office": "association",
         "phone": "+33 4 94 82 02 03",
+        "ref:FR:NAF": "93.12Z",
+        "ref:FR:SIREN": "412844995",
+        "ref:FR:SIRET": "41284499500024",
+        "source": "INSEE - 2026-07",
         "sport": "scuba_diving",
         "id": "node/1536682856"
       },
@@ -96598,7 +96454,7 @@
         "check_date:currency:XBT": "2025-01-13",
         "currency:XBT": "yes",
         "name": "Tulum Tours and Airport Shuttle",
-        "phone": "+52 1 984 119 9406",
+        "phone": "+52 984 119 9406",
         "shop": "travel_agency",
         "sport": "scuba_diving",
         "website": "https://www.rtulum.com",
