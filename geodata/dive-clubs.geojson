@@ -2623,6 +2623,24 @@
           20.6279601
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14028834779",
+      "properties": {
+        "club": "scuba_diving",
+        "name": "Tauchsportgemeinschaft Lörrach-Weil am Rhein e.V.",
+        "panoramax": "246c73d4-d291-45d5-870f-bbf5bbc4d8ea",
+        "website": "https://www.tsg-loerrach.de",
+        "id": "node/14028834779"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6577663,
+          47.6166636
+        ]
+      }
     }
   ]
 }
