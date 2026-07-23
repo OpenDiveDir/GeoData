@@ -80304,7 +80304,7 @@
       "id": "node/7798773604",
       "properties": {
         "name": "Kaulquapp",
-        "opening_hours": "Mo, fr 17:00-18:30; sa 09:00-12:00; ph off",
+        "opening_hours": "Mo,Fr 17:00-18:30; Sa 09:00-12:00; PH off",
         "phone": "+49 7322 958015",
         "shop": "scuba_diving",
         "id": "node/7798773604"
@@ -93980,6 +93980,7 @@
         "amenity": "dive_centre",
         "name": "Дайвінг центр",
         "name:uk": "Дайвінг центр",
+        "opening_hours": "Mo-Su,PH 09:00+",
         "id": "node/11700863452"
       },
       "geometry": {
@@ -95901,32 +95902,6 @@
         "coordinates": [
           16.8845839,
           60.6217194
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/12081974820",
-      "properties": {
-        "addr:TW:dataset": "168887",
-        "addr:city": "新北市",
-        "addr:country": "TW",
-        "addr:district": "貢寮區",
-        "addr:full": "新北市貢寮區和美里020鄰龍洞街66號",
-        "addr:hamlet": "和美里",
-        "addr:housenumber": "66號",
-        "addr:neighbourhood": "020",
-        "addr:street": "龍洞街",
-        "amenity": "dive_centre",
-        "name": "iDiving",
-        "source": "新北市政府",
-        "id": "node/12081974820"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.9157267,
-          25.1178214
         ]
       }
     },
@@ -103771,6 +103746,50 @@
         "coordinates": [
           100.4076094,
           13.7575019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14039048114",
+      "properties": {
+        "addr:city": "Kingston upon Thames",
+        "addr:housenumber": "34",
+        "addr:postcode": "KT2 7AG",
+        "addr:street": "Coombe Road",
+        "name": "Aquanaut Scuba & Snorkelling Centre",
+        "shop": "scuba_diving",
+        "id": "node/14039048114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2880034,
+          51.4122298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14040562418",
+      "properties": {
+        "addr:city": "新北市",
+        "addr:country": "TW",
+        "addr:district": "貢寮區",
+        "addr:full": "新北市貢寮區和美里020鄰龍洞街66號",
+        "addr:hamlet": "和美里",
+        "addr:housenumber": "66",
+        "addr:neighbourhood": "020",
+        "addr:street": "龍洞街",
+        "amenity": "dive_centre",
+        "name": "iDiving",
+        "id": "node/14040562418"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.915707,
+          25.1178691
         ]
       }
     }
