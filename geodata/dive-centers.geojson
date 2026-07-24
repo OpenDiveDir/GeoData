@@ -491,53 +491,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/35283940",
-      "properties": {
-        "addr:city": "Minden",
-        "addr:country": "DE",
-        "addr:housenumber": "41",
-        "addr:postcode": "32429",
-        "addr:street": "Am Kohlgraben",
-        "amenity": "dive_centre",
-        "building": "yes",
-        "name": "Alexsi Tauchschule",
-        "sport": "scuba_diving",
-        "id": "way/35283940"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              8.8948803,
-              52.2725488
-            ],
-            [
-              8.8948369,
-              52.272513
-            ],
-            [
-              8.8947759,
-              52.2724611
-            ],
-            [
-              8.8948721,
-              52.2724155
-            ],
-            [
-              8.8949786,
-              52.2725024
-            ],
-            [
-              8.8948803,
-              52.2725488
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/37112438",
       "properties": {
         "amenity": "dive_centre",
@@ -83175,7 +83128,7 @@
         "addr:state": "CA",
         "addr:street": "Harbor Way",
         "addr:unit": "D",
-        "check_date": "2025-11-22",
+        "check_date": "2026-07-22",
         "contact:yelp": "https://www.yelp.com/biz/bluewater-hunter-santa-barbara",
         "email": "info@blueh2O.com",
         "level": "0",
@@ -93654,8 +93607,13 @@
       "type": "Feature",
       "id": "node/11586934445",
       "properties": {
+        "addr:city": "Il-Gżira",
+        "addr:street": "Triq il-Gżira",
         "check_date": "2025-08-23",
+        "contact:facebook": "https://www.facebook.com/Aquamarina-Dive-Shop-201187080092592/",
         "name": "Aquamarina",
+        "opening_hours": "Mo-Fr 09:30-13:00, 14:00-18:00; Sa 09:30-13:00; Su,PH OFF",
+        "phone": "+356 2131 7137",
         "shop": "scuba_diving",
         "id": "node/11586934445"
       },
@@ -103790,6 +103748,28 @@
         "coordinates": [
           121.915707,
           25.1178691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14041024572",
+      "properties": {
+        "addr:city": "Minden",
+        "addr:country": "DE",
+        "addr:housenumber": "41",
+        "addr:postcode": "32429",
+        "addr:street": "Am Kohlgraben",
+        "amenity": "dive_centre",
+        "name": "Alexsi Tauchschule",
+        "sport": "scuba_diving",
+        "id": "node/14041024572"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8948328,
+          52.272491
         ]
       }
     }
