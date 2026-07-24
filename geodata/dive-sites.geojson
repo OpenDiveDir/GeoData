@@ -12991,43 +12991,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/31780518",
-      "properties": {
-        "building": "yes",
-        "name": "Viking Dive Center",
-        "sport": "scuba_diving",
-        "id": "way/31780518"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              121.9232245,
-              11.9636801
-            ],
-            [
-              121.9232931,
-              11.9635723
-            ],
-            [
-              121.9234682,
-              11.9636838
-            ],
-            [
-              121.9233996,
-              11.9637915
-            ],
-            [
-              121.9232245,
-              11.9636801
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/31781010",
       "properties": {
         "building": "yes",
@@ -124213,7 +124176,6 @@
         "scuba_diving:divespot": "yes",
         "seamark:type": "wreck",
         "sport": "scuba_diving",
-        "tourism": "attraction",
         "wreck:type": "ship",
         "id": "node/11169113671"
       },
