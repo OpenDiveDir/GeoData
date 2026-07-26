@@ -93856,25 +93856,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/11665334789",
-      "properties": {
-        "name": "Easy-Divers",
-        "opening_hours": "Tu-Fr 14:00-19:00; Sa 10:00-14:00",
-        "phone": "+49 6202 61381",
-        "shop": "scuba_diving",
-        "website": "https://www.easy-divers.de/",
-        "id": "node/11665334789"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.5308199,
-          49.3659749
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/11669514069",
       "properties": {
         "amenity": "dive_centre",
@@ -103626,7 +103607,7 @@
         "addr:street": "Via Ernesto Che Guevara",
         "contact:facebook": "https://www.facebook.com/divingcenterreggioemilia",
         "name": "Diving Center Reggio Emilia",
-        "phone": "+39  0522 280561",
+        "phone": "+39 0522 280561",
         "shop": "scuba_diving",
         "id": "node/14008177658"
       },
@@ -103770,6 +103751,41 @@
         "coordinates": [
           8.8948328,
           52.272491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14049661658",
+      "properties": {
+        "name": "Easy-Divers",
+        "opening_hours": "Tu-Fr 14:00-19:00; Sa 10:00-14:00",
+        "phone": "0177-93 68 910",
+        "shop": "scuba_diving",
+        "website": "https://www.easy-divers.de/",
+        "id": "node/14049661658"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5301752,
+          49.3504265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14050202101",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "SubAqua Dive Centre",
+        "id": "node/14050202101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.3231848,
+          -35.7271355
         ]
       }
     }
