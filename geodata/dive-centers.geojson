@@ -37540,8 +37540,7 @@
         "opening_hours": "Mo-Su 06:00-21:00",
         "operator": "Freediving Saigon",
         "scuba_diving:freediving": "yes",
-        "scuba_diving:freediving_tour": "yes",
-        "scuba_diving:tour": "yes",
+        "scuba_diving:tours": "yes",
         "id": "way/1266671597"
       },
       "geometry": {
@@ -103683,8 +103682,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          100.4076094,
-          13.7575019
+          100.4081324,
+          13.7580343
         ]
       }
     },
@@ -103786,6 +103785,22 @@
         "coordinates": [
           174.3231848,
           -35.7271355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14053104702",
+      "properties": {
+        "name": "Deep Abyss Scuba",
+        "shop": "scuba_diving",
+        "id": "node/14053104702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.253369,
+          29.9994268
         ]
       }
     }
