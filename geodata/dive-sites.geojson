@@ -63561,6 +63561,7 @@
       "properties": {
         "name": "砂辺",
         "name:en": "Sunabe",
+        "name:ja": "砂辺",
         "sport": "scuba_diving",
         "id": "node/602948140"
       },
@@ -70586,32 +70587,10 @@
     },
     {
       "type": "Feature",
-      "id": "node/663869673",
-      "properties": {
-        "name": "Agincourt Reef No. 4 - The Point",
-        "source": "www.dive-links.com",
-        "sport": "scuba_diving",
-        "verified": "no, please check and del this tag",
-        "website": "http://www.dive-links.com/tauchplatz.php?id=2056",
-        "id": "node/663869673"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.819717,
-          -15.9677
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/663869675",
       "properties": {
-        "name": "Light Reef - Phil`s Bommie",
-        "source": "www.dive-links.com",
+        "name": "Light Reef",
         "sport": "scuba_diving",
-        "verified": "no, please check and del this tag",
-        "website": "http://www.dive-links.com/tauchplatz.php?id=2055",
         "id": "node/663869675"
       },
       "geometry": {
@@ -91664,7 +91643,7 @@
       "id": "node/865081862",
       "properties": {
         "depth": "20",
-        "name": "Chumpon Pinnacle",
+        "name": "Chumphon Pinnacle",
         "scuba_diving:descent_line": "yes",
         "scuba_diving:difficulty": "2",
         "scuba_diving:entry": "boat",
@@ -94722,23 +94701,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/1939562723",
-      "properties": {
-        "name": "Just Magic",
-        "source": "survey",
-        "sport": "scuba_diving",
-        "id": "node/1939562723"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          145.8070862,
-          -16.0213633
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/1939562752",
       "properties": {
         "name": "Nursery Bommie",
@@ -94761,6 +94723,7 @@
         "name": "Wreck Bay",
         "source": "survey",
         "sport": "scuba_diving",
+        "viewpoint": "yes",
         "id": "node/1939562776"
       },
       "geometry": {
