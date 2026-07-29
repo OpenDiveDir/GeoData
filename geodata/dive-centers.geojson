@@ -10616,50 +10616,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/301883859",
-      "properties": {
-        "addr:city": "Marathon",
-        "addr:housenumber": "5050",
-        "addr:postcode": "33050",
-        "addr:street": "Overseas Highway",
-        "amenity": "dive_centre",
-        "building": "yes",
-        "name": "Hall's Diving Center & Career Institute",
-        "phone": "+1 305-743-5929",
-        "shop": "scuba_diving",
-        "website": "https://www.hallsdiving.com/",
-        "id": "way/301883859"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -81.0797566,
-              24.7156068
-            ],
-            [
-              -81.0797128,
-              24.7154713
-            ],
-            [
-              -81.0794516,
-              24.7155411
-            ],
-            [
-              -81.0794954,
-              24.7156765
-            ],
-            [
-              -81.0797566,
-              24.7156068
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/302330155",
       "properties": {
         "addr:city": "Oban",
@@ -21433,36 +21389,36 @@
         "coordinates": [
           [
             [
-              -121.3045779,
-              44.0594716
+              -121.3045322,
+              44.0594725
             ],
             [
-              -121.3045776,
-              44.0595661
+              -121.3045319,
+              44.059567
             ],
             [
-              -121.304648,
-              44.0595662
+              -121.3046023,
+              44.0595671
             ],
             [
-              -121.3046475,
-              44.0596989
+              -121.3046018,
+              44.0596998
             ],
             [
-              -121.3047208,
-              44.0596991
+              -121.3046751,
+              44.0597
             ],
             [
-              -121.3047217,
-              44.0594504
+              -121.304676,
+              44.0594513
             ],
             [
-              -121.3046166,
-              44.0594502
+              -121.3045709,
+              44.0594511
             ],
             [
-              -121.3045779,
-              44.0594716
+              -121.3045322,
+              44.0594725
             ]
           ]
         ]
@@ -23376,7 +23332,7 @@
         "addr:street": "Gulf Shores Parkway",
         "building": "yes",
         "name": "Down Under Dive Shop",
-        "opening_hours": "MO-Su 10:00-18:00",
+        "opening_hours": "Mo-Su 10:00-18:00",
         "phone": "+1 251-968-3483",
         "shop": "scuba_diving",
         "id": "way/565447237"
@@ -45469,8 +45425,8 @@
         "check_date": "2026-05-29",
         "email": "info@regdoc.at",
         "level": "0",
-        "name": "RedDoc",
-        "opening_hours": "Mo-Fr 12:00-18:00; Sa-Su,PH off",
+        "name": "RegDoc",
+        "opening_hours": "Mo 10:00-18:00; Sa, Su, PH off; Tu, We 12:00-18:00; Fr 10:00-18:00; Th 12:00-19:00",
         "operator": "Denis o Flynn",
         "phone": "+43 699 19523533",
         "scuba_diving:repair": "yes",
@@ -65494,14 +65450,20 @@
       "type": "Feature",
       "id": "node/5044841573",
       "properties": {
-        "check_date": "2023-04-02",
+        "addr:city": "Bremen",
+        "addr:housenumber": "18",
+        "addr:postcode": "28199",
+        "addr:street": "Industriestraße",
+        "check_date": "2026-07-27",
+        "contact:email": "bremen@tauchertreff24.de",
         "contact:fax": "+49 421 51926",
         "contact:phone": "+49 421 51924",
         "contact:website": "http://www.tauchertreff24.de",
         "name": "Tauchertreff Dekostop",
-        "opening_hours": "Mo-Fr 11:00-18:30; Sa 09:00-13:00; Su,PH off",
+        "opening_hours": "Tu-Fr 11:00-18:00; Tu-Fr 13:00-14:00 off \"Mittagspause\"; Sa 09:00-13:00; Su,PH off",
+        "operator": "Martin Schlifski",
         "shop": "scuba_diving",
-        "wheelchair": "limited",
+        "wheelchair": "unknown",
         "id": "node/5044841573"
       },
       "geometry": {
@@ -68077,7 +68039,7 @@
       "id": "node/5399499503",
       "properties": {
         "check_date": "2025-03-07",
-        "name": "Centre De Plongée De La Rague",
+        "name": "Centre de Plongée de La Rague",
         "phone": "+33 4 93 49 74 33",
         "shop": "scuba_diving",
         "id": "node/5399499503"
@@ -75647,7 +75609,7 @@
         "addr:street": "Chemin du Lazaret",
         "amenity": "dive_centre",
         "email": "contact@changodiving.com",
-        "name": "Chango diving",
+        "name": "Chango Diving",
         "phone": "+33 6 48 91 64 72",
         "scuba_diving:filling": "yes",
         "website": "https://www.changodiving.com",
@@ -103673,7 +103635,7 @@
         "payment:lightning": "yes",
         "payment:lightning_contactless": "no",
         "payment:onchain": "yes",
-        "phone": "66+ 86 662 3355",
+        "phone": "+66 86 662 3355",
         "scuba_diving:courses": "yes",
         "shop": "scuba_diving",
         "website": "https://www.recondiver.com/",
@@ -103801,6 +103763,43 @@
         "coordinates": [
           -95.253369,
           29.9994268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14053984019",
+      "properties": {
+        "addr:city": "横浜市",
+        "addr:province": "神奈川県",
+        "addr:quarter": "大豆戸町",
+        "addr:suburb": "港北区",
+        "amenity": "dive_centre",
+        "level": "0",
+        "website": "https://midsummer.jp",
+        "id": "node/14053984019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6268046,
+          35.5134945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14054335138",
+      "properties": {
+        "name": "Scuba Tech",
+        "shop": "scuba_diving",
+        "id": "node/14054335138"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4454123,
+          25.0892342
         ]
       }
     }
