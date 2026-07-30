@@ -12447,7 +12447,11 @@
       "properties": {
         "name": "Großer Ammelshainer Steinbruch",
         "natural": "water",
+        "operator": "Landestauchsportverband Sachsen e.V.",
         "scuba_diving:divespot": "yes",
+        "scuba_diving:entry": "shore",
+        "scuba_diving:maxdepth": "29m",
+        "scuba_diving:type": "cold",
         "sport": "scuba_diving",
         "id": "way/28399081"
       },
@@ -12472,60 +12476,52 @@
               51.2961388
             ],
             [
-              12.655278,
-              51.2963827
+              12.655526,
+              51.2964259
             ],
             [
-              12.6555987,
-              51.2966484
+              12.6553768,
+              51.2965254
             ],
             [
-              12.6560885,
-              51.2970031
+              12.6551471,
+              51.296503
             ],
             [
-              12.6555957,
-              51.2974836
+              12.6548283,
+              51.2966071
             ],
             [
-              12.6548917,
-              51.2978098
+              12.655182,
+              51.2969827
             ],
             [
-              12.6543625,
-              51.2978646
+              12.6550474,
+              51.2969689
             ],
             [
-              12.6543219,
-              51.2980672
+              12.6547033,
+              51.2966783
             ],
             [
-              12.6539001,
-              51.2981619
+              12.6540885,
+              51.2968068
             ],
             [
-              12.6535777,
-              51.2976549
+              12.6539552,
+              51.2964477
             ],
             [
-              12.6526102,
-              51.2972309
+              12.6536953,
+              51.2963377
             ],
             [
-              12.6524891,
-              51.2970485
+              12.6533285,
+              51.2962064
             ],
             [
-              12.6525987,
-              51.2967702
-            ],
-            [
-              12.6529926,
-              51.2965314
-            ],
-            [
-              12.6528942,
-              51.2962166
+              12.6530109,
+              51.296018
             ],
             [
               12.6528174,
@@ -12560,16 +12556,60 @@
               51.2946279
             ],
             [
-              12.6548059,
-              51.294265
+              12.6548847,
+              51.2945693
             ],
             [
-              12.6554137,
-              51.2941692
+              12.6548201,
+              51.2943535
             ],
             [
-              12.6560892,
-              51.2943761
+              12.6545249,
+              51.2941651
+            ],
+            [
+              12.6545684,
+              51.2941483
+            ],
+            [
+              12.6547388,
+              51.2941963
+            ],
+            [
+              12.6549375,
+              51.2942953
+            ],
+            [
+              12.6551116,
+              51.294299
+            ],
+            [
+              12.6554526,
+              51.2942168
+            ],
+            [
+              12.6555338,
+              51.2942522
+            ],
+            [
+              12.6556876,
+              51.2942477
+            ],
+            [
+              12.655738,
+              51.2942666
+            ],
+            [
+              12.6558605,
+              51.2942726
+            ],
+            [
+              12.6561423,
+              51.2943927
+            ],
+            [
+              12.6563392,
+              51.2944001
             ],
             [
               12.6564971,
@@ -84411,26 +84451,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/663870884",
-      "properties": {
-        "name": "Gr. Ammelshainer",
-        "scuba_diving:divespot": "yes",
-        "source": "www.dive-links.com",
-        "sport": "scuba_diving",
-        "verified": "no, please check and del this tag",
-        "website": "http://www.dive-links.com/tauchplatz.php?id=1126",
-        "id": "node/663870884"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.6548333,
-          51.2958167
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/663870886",
       "properties": {
         "name": "Kirchbruch",
@@ -114354,26 +114374,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/6511944069",
-      "properties": {
-        "name": "Großer Ammelshainer Steinbruch",
-        "scuba_diving:divespot": "yes",
-        "scuba_diving:entry": "shore",
-        "scuba_diving:maxdepth": "29m",
-        "scuba_diving:type": "cold",
-        "sport": "scuba_diving",
-        "id": "node/6511944069"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.6549601,
-          51.2942558
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/6515042462",
       "properties": {
         "fixme": "position",
@@ -131419,35 +131419,6 @@
         "coordinates": [
           6.7606914,
           51.4641378
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/13464956492",
-      "properties": {
-        "amenity": "school",
-        "club": "scuba_diving",
-        "contact:email": "inspiredivingplaya@gmail.com",
-        "contact:facebook": "100087782034974",
-        "contact:instagram": "inspirediving",
-        "contact:phone": "+52 984 166 6660",
-        "contact:tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g150812-d26139398-Reviews-Inspire_Diving_Playa_Del_Carmen-Playa_del_Carmen_Yucatan_Peninsula.html",
-        "contact:website": "https://www.inspiredivingscuba.com/",
-        "contact:whatsapp": "+52 984 166 6660",
-        "description": "Private dive training, ocean / cavern / cave guiding, custom emergency response courses for divers; prioritizing safety and quality diving",
-        "description:es": "Entrenamiento privado de buceo, guías en mar, cavernas y cuevas, cursos personalizados de respuesta a emergencias para buzos; priorizando la seguridad y la calidad del buceo",
-        "name": "Inspire Diving",
-        "official_name": "Inspire Diving Playa del Carmen",
-        "opening_hours": "24/7",
-        "sport": "scuba_diving",
-        "id": "node/13464956492"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.0809653,
-          20.6278341
         ]
       }
     },
