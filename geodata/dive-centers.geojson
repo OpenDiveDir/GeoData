@@ -31916,7 +31916,8 @@
       "id": "way/975652783",
       "properties": {
         "amenity": "dive_centre",
-        "building": "yes",
+        "building": "retail",
+        "building:levels": "2",
         "name": "Buceo natura",
         "id": "way/975652783"
       },
@@ -31925,28 +31926,36 @@
         "coordinates": [
           [
             [
-              -3.75335,
-              36.7396075
+              -3.753269,
+              36.7396361
             ],
             [
-              -3.7533098,
-              36.7395956
+              -3.7532762,
+              36.7396022
             ],
             [
-              -3.7531176,
-              36.7395729
+              -3.75322,
+              36.7395932
             ],
             [
-              -3.7531176,
-              36.7396529
+              -3.7532125,
+              36.7396283
             ],
             [
-              -3.7533351,
-              36.7396792
+              -3.7532081,
+              36.7396491
             ],
             [
-              -3.75335,
-              36.7396075
+              -3.7533024,
+              36.7396621
+            ],
+            [
+              -3.7533068,
+              36.7396412
+            ],
+            [
+              -3.753269,
+              36.7396361
             ]
           ]
         ]
@@ -40636,6 +40645,122 @@
     },
     {
       "type": "Feature",
+      "id": "way/1545664851",
+      "properties": {
+        "addr:city": "Hurghada",
+        "addr:street": "Steigenberger ALDAU Resort",
+        "amenity": "dive_centre",
+        "building": "yes",
+        "email": "info@iliosdiveclub.de",
+        "name": "Ilios Dive Club",
+        "phone": "+20 (0) 122 0002957",
+        "scuba_diving:air_filling": "yes",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:filling": "yes",
+        "scuba_diving:hobby": "yes",
+        "scuba_diving:nitrox_filling": "yes",
+        "scuba_diving:rental": "yes",
+        "website": "https://www.iliosdiveclub.com/",
+        "id": "way/1545664851"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.8272458,
+              27.1662867
+            ],
+            [
+              33.827203,
+              27.1663084
+            ],
+            [
+              33.8271721,
+              27.1662944
+            ],
+            [
+              33.8271414,
+              27.1663114
+            ],
+            [
+              33.8270655,
+              27.1662793
+            ],
+            [
+              33.8270119,
+              27.1662254
+            ],
+            [
+              33.8270379,
+              27.1661445
+            ],
+            [
+              33.827003,
+              27.166112
+            ],
+            [
+              33.8270205,
+              27.166067
+            ],
+            [
+              33.8270671,
+              27.1660888
+            ],
+            [
+              33.827094,
+              27.1660792
+            ],
+            [
+              33.8271293,
+              27.1660887
+            ],
+            [
+              33.8271446,
+              27.1661191
+            ],
+            [
+              33.8271686,
+              27.1661041
+            ],
+            [
+              33.8271937,
+              27.1661131
+            ],
+            [
+              33.8272056,
+              27.1661409
+            ],
+            [
+              33.8272786,
+              27.166109
+            ],
+            [
+              33.8273225,
+              27.1661493
+            ],
+            [
+              33.8272678,
+              27.166182
+            ],
+            [
+              33.8272865,
+              27.166241
+            ],
+            [
+              33.8272359,
+              27.1662552
+            ],
+            [
+              33.8272458,
+              27.1662867
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/26772598",
       "properties": {
         "name": "Blue Ocean Diving",
@@ -48655,6 +48780,29 @@
         "coordinates": [
           -64.8350586,
           32.323482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2379313700",
+      "properties": {
+        "addr:city": "Naunhof",
+        "addr:postcode": "04683",
+        "addr:street": "Altenhainer Straße",
+        "amenity": "dive_centre",
+        "name": "Tauchsport- und Naturschutzzentrum Ammelshain",
+        "operator": "Landestauchsportverband Sachsen e.V.",
+        "ref": "TaNa",
+        "scuba_diving:air_filling": "yes",
+        "website": "https://www.tauchsport-sachsen.de/tana",
+        "id": "node/2379313700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6531593,
+          51.2939124
         ]
       }
     },
@@ -74130,11 +74278,15 @@
       "type": "Feature",
       "id": "node/6357563687",
       "properties": {
-        "addr:city": "Denpasar ᬤᬾᬦ᭄ᬧᬲᬃ",
+        "addr:city": "Denpasar",
+        "addr:country": "ID",
+        "addr:district": "Denpasar Selatan",
         "addr:housenumber": "55",
-        "addr:postcode": "80228",
-        "addr:province": "bali",
-        "addr:street": "Jln. Danau Poso",
+        "addr:neighborhood": "Banjar Blanjong",
+        "addr:postcode": "80227",
+        "addr:province": "Bali",
+        "addr:street": "Jalan Danau Poso",
+        "addr:suburb": "Sanur Kauh",
         "amenity": "dive_centre",
         "contact:facebook": "https://www.facebook.com/bali.legends.2025?locale=id_ID",
         "mobile": "+62822-6087-7020",
@@ -86247,25 +86399,6 @@
         "coordinates": [
           10.38328,
           63.432223
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/9803945474",
-      "properties": {
-        "addr:city": "Naunhof",
-        "addr:street": "Altenhainer Straße",
-        "amenity": "dive_centre",
-        "name": "TaNa",
-        "operator": "Landestauchsportverband Sachsen e.V.",
-        "id": "node/9803945474"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.6532649,
-          51.2939736
         ]
       }
     },
@@ -103800,6 +103933,24 @@
         "coordinates": [
           -80.4454123,
           25.0892342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14057998961",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "Bluefin",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:rental": "yes",
+        "id": "node/14057998961"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.9283217,
+          11.9648095
         ]
       }
     }
