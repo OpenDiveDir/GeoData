@@ -2593,35 +2593,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/13464956492",
-      "properties": {
-        "amenity": "school",
-        "club": "scuba_diving",
-        "contact:email": "inspiredivingplaya@gmail.com",
-        "contact:facebook": "100087782034974",
-        "contact:instagram": "inspirediving",
-        "contact:phone": "+52 984 166 6660",
-        "contact:tripadvisor": "https://www.tripadvisor.com/Attraction_Review-g150812-d26139398-Reviews-Inspire_Diving_Playa_Del_Carmen-Playa_del_Carmen_Yucatan_Peninsula.html",
-        "contact:website": "https://www.inspiredivingscuba.com/",
-        "contact:whatsapp": "+52 984 166 6660",
-        "description": "Private dive training, ocean / cavern / cave guiding, custom emergency response courses for divers; prioritizing safety and quality diving",
-        "description:es": "Entrenamiento privado de buceo, guías en mar, cavernas y cuevas, cursos personalizados de respuesta a emergencias para buzos; priorizando la seguridad y la calidad del buceo",
-        "name": "Inspire Diving",
-        "official_name": "Inspire Diving Playa del Carmen",
-        "opening_hours": "24/7",
-        "sport": "scuba_diving",
-        "id": "node/13464956492"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.0809653,
-          20.6278341
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/13464979578",
       "properties": {
         "amenity": "school",
