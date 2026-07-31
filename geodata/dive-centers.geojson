@@ -47564,6 +47564,7 @@
       "properties": {
         "name": "ワールドダイビング",
         "name:en": "World Diving",
+        "name:ja": "ワールドダイビング",
         "office": "company",
         "shop": "scuba_diving",
         "source": "survey",
@@ -47610,6 +47611,7 @@
       "properties": {
         "name": "ピースオーシャン",
         "name:en": "Peace Ocean",
+        "name:ja": "ピースオーシャン",
         "office": "company",
         "shop": "scuba_diving",
         "source": "survey",
@@ -47630,6 +47632,7 @@
       "properties": {
         "name": "マリンクラブシータイム",
         "name:en": "Marine Club Sea Time",
+        "name:ja": "マリンクラブシータイム",
         "office": "company",
         "shop": "scuba_diving",
         "source": "survey",
@@ -53088,10 +53091,16 @@
       "id": "node/3241051376",
       "properties": {
         "addr:city": "L'Estartit",
+        "addr:housenumber": "43",
         "addr:postcode": "17258",
         "addr:street": "Passeig Marítim",
+        "amenity": "bicycle_rental",
+        "bicycle_rental": "shop",
+        "contact:phone": "+34 687 70 21 28",
+        "contact:website": "https://www.estartitrentaboat.com/",
         "name": "Complements Nàutics",
         "name:ca": "Complements Nàutics",
+        "rental": "e-bike;city_bike;mtb",
         "shop": "scuba_diving",
         "id": "node/3241051376"
       },
@@ -82312,6 +82321,22 @@
     },
     {
       "type": "Feature",
+      "id": "node/8483927017",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "E Ragnole",
+        "id": "node/8483927017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7233782,
+          41.9123726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/8486985211",
       "properties": {
         "addr:city": "Exmouth",
@@ -97119,7 +97144,7 @@
       "properties": {
         "amenity": "dive_centre",
         "name": "Bart Dive",
-        "opening_hours": "Mo-Fr 9:00-16:00",
+        "opening_hours": "Mo-Fr 09:00-16:00",
         "id": "node/12308385780"
       },
       "geometry": {
