@@ -6746,9 +6746,9 @@
         "chicago:building_id": "850449",
         "email": "idive@learnscubachicago.org",
         "name": "Learn Scuba Chicago",
-        "opening_hours": "Mo-Fr 15:00-20:00 Sa-Su 12:00-17:00",
+        "opening_hours": "Mo-Fr 15:00-20:00; Sa-Su 12:00-17:00",
         "operator": "Learn Scuba Chicago",
-        "phone": "+1 773-599-3483",
+        "phone": "+1-773-599-3483",
         "shop": "scuba_diving",
         "website": "https://learnscubachicago.org/",
         "id": "way/209453980"
@@ -68147,8 +68147,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -83.6696911,
-          8.689818
+          -83.6697544,
+          8.6897236
         ]
       }
     },
@@ -93538,8 +93538,7 @@
         "amenity": "dive_centre",
         "email": "info@deepemotiondiving.com",
         "mobile": "+34608163755",
-        "name": "Deep Emotion",
-        "operator": "SSI",
+        "name": "Mares",
         "scuba_diving:courses": "yes",
         "website": "https://deepemotiondiving.com/",
         "id": "node/11499458312"
@@ -100690,7 +100689,7 @@
         "email": "carolinadivelocker@gmail.com",
         "mobile": "+1 843-453-7765",
         "name": "Carolina Dive Locker",
-        "opening_hours": "Sa-Su CLOSED, Mo-Fr 10:00-18:00",
+        "opening_hours": "Sa-Su closed, Mo-Fr 10:00-18:00",
         "payment:american_express": "yes",
         "payment:apple_pay": "yes",
         "payment:cheque": "yes",
@@ -103879,7 +103878,7 @@
       "properties": {
         "name": "Easy-Divers",
         "opening_hours": "Tu-Fr 14:00-19:00; Sa 10:00-14:00",
-        "phone": "0177-93 68 910",
+        "phone": "+49 177 9368910",
         "shop": "scuba_diving",
         "website": "https://www.easy-divers.de/",
         "id": "node/14049661658"
@@ -103896,8 +103895,14 @@
       "type": "Feature",
       "id": "node/14050202101",
       "properties": {
+        "addr:city": "Whangārei",
+        "addr:housenumber": "108",
+        "addr:street": "Cameron Street",
         "amenity": "dive_centre",
+        "email": "subaquadivenz@outlook.com",
         "name": "SubAqua Dive Centre",
+        "phone": "+64 9 988 9508",
+        "website": "https://subaquadivenz.wixsite.com/subaqua-dive-centre",
         "id": "node/14050202101"
       },
       "geometry": {
@@ -103976,6 +103981,34 @@
         "coordinates": [
           121.9283217,
           11.9648095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14065487865",
+      "properties": {
+        "addr:city": "Cancún",
+        "addr:neighbourhood": "Hotel Zone",
+        "addr:postcode": "77500",
+        "addr:state": "QR",
+        "addr:street": "Boulevard Kukulcán",
+        "amenity": "dive_centre",
+        "email": "https://www.mantadivers.com",
+        "name": "Manta Dive & Snorkel Cancun",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "operator": "Manta Dive & Snorkel Cancun",
+        "phone": "+52-998-842-9368",
+        "scuba_diving:air_filling": "yes",
+        "scuba_diving:courses": "yes",
+        "website": "https://www.mantadivers.com",
+        "id": "node/14065487865"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7764189,
+          21.0797206
         ]
       }
     }
