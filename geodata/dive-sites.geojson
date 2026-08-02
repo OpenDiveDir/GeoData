@@ -77278,25 +77278,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/663870179",
-      "properties": {
-        "name": "Pozzo del Diavolo",
-        "natural": "cave_entrance",
-        "scuba_diving:divespot": "yes",
-        "source": "www.dive-links.com",
-        "sport": "scuba_diving",
-        "id": "node/663870179"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.80616,
-          46.33794
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/663870181",
       "properties": {
         "name": "Ponte Corippo",
