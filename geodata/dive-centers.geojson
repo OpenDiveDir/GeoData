@@ -40761,6 +40761,309 @@
     },
     {
       "type": "Feature",
+      "id": "way/1546490388",
+      "properties": {
+        "abbr_name": "İDM",
+        "addr:city": "Edirne",
+        "addr:district": "Keşan",
+        "addr:neighbourhood": "Mecidiye",
+        "addr:street": "İskele Sokak",
+        "amenity": "dive_centre",
+        "building": "school",
+        "building:levels": "1",
+        "name": "İbrice Dalış Merkezi",
+        "operator": "İbrice Dalış Merkezi",
+        "phone:mobile": "+90 532 378 00 06",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:hobby": "yes",
+        "website": "https://www.ibricedalismerkezi.com",
+        "id": "way/1546490388"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26.5420912,
+              40.6042067
+            ],
+            [
+              26.5420728,
+              40.6041696
+            ],
+            [
+              26.5421028,
+              40.6041611
+            ],
+            [
+              26.542129,
+              40.6041536
+            ],
+            [
+              26.542184,
+              40.6041379
+            ],
+            [
+              26.5422024,
+              40.6041749
+            ],
+            [
+              26.5420912,
+              40.6042067
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1546490389",
+      "properties": {
+        "addr:city": "Edirne",
+        "addr:district": "Keşan",
+        "addr:neighbourhood": "Mecidiye",
+        "addr:street": "İskele Sokak",
+        "amenity": "dive_centre",
+        "building": "school",
+        "building:levels": "1",
+        "name": "Reef rm Dalış Merkezi",
+        "phone:mobile": "+90 542 253 7803",
+        "id": "way/1546490389"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26.5422459,
+              40.604148
+            ],
+            [
+              26.5422148,
+              40.6041231
+            ],
+            [
+              26.5422282,
+              40.6041134
+            ],
+            [
+              26.5422401,
+              40.6041049
+            ],
+            [
+              26.5422783,
+              40.6040773
+            ],
+            [
+              26.5423094,
+              40.6041022
+            ],
+            [
+              26.5422459,
+              40.604148
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1546490390",
+      "properties": {
+        "addr:city": "Edirne",
+        "addr:district": "Keşan",
+        "addr:neighbourhood": "Mecidiye",
+        "addr:street": "İskele Sokak",
+        "amenity": "dive_centre",
+        "building": "school",
+        "building:levels": "1",
+        "name": "Saroz Dalış Merkezi",
+        "phone:mobile": "+90 532 378 00 06",
+        "website": "http://sarozdalis.com/",
+        "id": "way/1546490390"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26.5423268,
+              40.6040834
+            ],
+            [
+              26.5422827,
+              40.6040704
+            ],
+            [
+              26.5422901,
+              40.604056
+            ],
+            [
+              26.542305,
+              40.6040271
+            ],
+            [
+              26.5423122,
+              40.6040131
+            ],
+            [
+              26.5423562,
+              40.6040262
+            ],
+            [
+              26.5423268,
+              40.6040834
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1546490391",
+      "properties": {
+        "addr:city": "Edirne",
+        "addr:district": "Keşan",
+        "addr:neighbourhood": "Mecidiye",
+        "addr:street": "Mecidiye Yolu",
+        "amenity": "dive_centre",
+        "building": "school",
+        "building:levels": "1",
+        "name": "Mavi Ege Diving",
+        "phone:mobile": "+90 532 642 7218",
+        "id": "way/1546490391"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26.542061,
+              40.6039211
+            ],
+            [
+              26.5420608,
+              40.6039557
+            ],
+            [
+              26.5419949,
+              40.6039555
+            ],
+            [
+              26.5419724,
+              40.6039554
+            ],
+            [
+              26.5419725,
+              40.6039208
+            ],
+            [
+              26.542061,
+              40.6039211
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1546490392",
+      "properties": {
+        "addr:city": "Edirne",
+        "addr:district": "Keşan",
+        "addr:neighbourhood": "Mecidiye",
+        "addr:street": "İskele Sokak",
+        "amenity": "dive_centre",
+        "building": "school",
+        "building:levels": "1",
+        "name": "deco Diving",
+        "id": "way/1546490392"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26.5421782,
+              40.6039225
+            ],
+            [
+              26.5421774,
+              40.6039571
+            ],
+            [
+              26.5421577,
+              40.6039569
+            ],
+            [
+              26.5421149,
+              40.6039564
+            ],
+            [
+              26.5420922,
+              40.6039561
+            ],
+            [
+              26.5420929,
+              40.6039214
+            ],
+            [
+              26.5421782,
+              40.6039225
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1546490393",
+      "properties": {
+        "addr:city": "Edirne",
+        "addr:district": "Keşan",
+        "addr:neighbourhood": "Mecidiye",
+        "addr:street": "İskele Sokak",
+        "amenity": "dive_centre",
+        "building": "school",
+        "building:levels": "1",
+        "name": "Argos Dalış Merkezi",
+        "phone:mobile": "+90 532 265 0440",
+        "id": "way/1546490393"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              26.5422213,
+              40.603956
+            ],
+            [
+              26.5422467,
+              40.6039269
+            ],
+            [
+              26.5423102,
+              40.6039589
+            ],
+            [
+              26.5422848,
+              40.603988
+            ],
+            [
+              26.542242,
+              40.6039665
+            ],
+            [
+              26.5422213,
+              40.603956
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/26772598",
       "properties": {
         "name": "Blue Ocean Diving",
@@ -41853,6 +42156,7 @@
       "id": "node/313862857",
       "properties": {
         "name": "Dive Friends Bonaire @ SD",
+        "opening_hours": "Mo-Su 08:00-17:00",
         "shop": "scuba_diving",
         "source": "KG Ground Survey 2015",
         "id": "node/313862857"
@@ -41860,8 +42164,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -68.2868883,
-          12.1675911
+          -68.2867448,
+          12.1678132
         ]
       }
     },
@@ -64525,6 +64829,7 @@
       "id": "node/4917707322",
       "properties": {
         "name": "Dive Friends Bonaire Retail",
+        "opening_hours": "Mo-Su 08:00-17:00",
         "shop": "scuba_diving",
         "id": "node/4917707322"
       },
@@ -71478,9 +71783,11 @@
       "type": "Feature",
       "id": "node/5867474948",
       "properties": {
-        "addr:city": "Sanur",
+        "addr:city": "Denpasar",
         "addr:postcode": "80228",
+        "addr:province": "Bali",
         "addr:street": "Jalan Suka Merta",
+        "addr:suburb": "Sanur Kauh",
         "email": "Office@neptunedivingbali.com",
         "name": "Neptune Scuba Diving",
         "opening_hours": "Mo-Su 07:00-22:00",
@@ -71492,8 +71799,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.2457829,
-          -8.7069766
+          115.2457561,
+          -8.7068957
         ]
       }
     },
@@ -91574,7 +91881,7 @@
         "addr:street": "Sveagatan",
         "email": "post@aquatica.se",
         "name": "Aquatica",
-        "opening_hours": "To-Fr 11:00-18:00; Sa 09:00-13:00",
+        "opening_hours": "Th-Fr 11:00-18:00; Sa 09:00-13:00",
         "phone": "+46 705155504",
         "scuba_diving:air_filling": "yes",
         "scuba_diving:courses": "yes",
@@ -98092,8 +98399,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          115.2570174,
-          -8.7044713
+          115.2569953,
+          -8.7044859
         ]
       }
     },
@@ -103989,16 +104296,13 @@
       "id": "node/14065487865",
       "properties": {
         "addr:city": "Cancún",
-        "addr:neighbourhood": "Hotel Zone",
         "addr:postcode": "77500",
         "addr:state": "QR",
         "addr:street": "Boulevard Kukulcán",
         "amenity": "dive_centre",
-        "email": "https://www.mantadivers.com",
         "name": "Manta Dive & Snorkel Cancun",
         "opening_hours": "Mo-Sa 08:00-18:00",
-        "operator": "Manta Dive & Snorkel Cancun",
-        "phone": "+52-998-842-9368",
+        "phone": "+52 998 842 9368",
         "scuba_diving:air_filling": "yes",
         "scuba_diving:courses": "yes",
         "website": "https://www.mantadivers.com",
@@ -104009,6 +104313,24 @@
         "coordinates": [
           -86.7764189,
           21.0797206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14067431917",
+      "properties": {
+        "check_date:opening_hours": "2026-08-02",
+        "name": "Dive Now",
+        "opening_hours:signed": "no",
+        "shop": "scuba_diving",
+        "id": "node/14067431917"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.3223515,
+          -35.7275177
         ]
       }
     }
