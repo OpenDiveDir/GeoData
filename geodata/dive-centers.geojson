@@ -83809,22 +83809,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/8907636618",
-      "properties": {
-        "amenity": "dive_centre",
-        "name": "Actisub Multiaventura",
-        "id": "node/8907636618"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -2.0901255,
-          40.2311249
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/8921743566",
       "properties": {
         "addr:city": "Madrid",
@@ -100992,16 +100976,13 @@
         "addr:street": "Ben Sawyer Boulevard",
         "addr:unit": "Suite 10",
         "contact:facebook": "https://www.facebook.com/carolinadivelocker",
-        "description": "Carolina Dive Locker, nestled in Mount Pleasant, SC, since 2017, caters to adventurers seeking underwater thrills in the greater area. Specializing in scuba and diving instruction, we equip enthusiasts with top-quality gear from wet suits and fins & more.",
         "email": "carolinadivelocker@gmail.com",
         "mobile": "+1 843-453-7765",
         "name": "Carolina Dive Locker",
-        "opening_hours": "Sa-Su closed, Mo-Fr 10:00-18:00",
+        "opening_hours": "Mo-Fr 10:00-18:00; Sa-Su closed",
         "payment:american_express": "yes",
         "payment:apple_pay": "yes",
         "payment:cheque": "yes",
-        "payment:credit_cards": "yes",
-        "payment:debit_cards": "yes",
         "payment:discover_card": "yes",
         "payment:mastercard": "yes",
         "payment:paypal": "yes",
