@@ -84215,34 +84215,12 @@
     },
     {
       "type": "Feature",
-      "id": "node/663870863",
-      "properties": {
-        "name": "Hohenwarte-Stausee - Neidenbergaer Bucht- Wohnwagenbucht",
-        "scuba_diving:divespot": "yes",
-        "source": "www.dive-links.com",
-        "sport": "scuba_diving",
-        "verified": "no, please check and del this tag",
-        "website": "http://www.dive-links.com/tauchplatz.php?id=728",
-        "id": "node/663870863"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          11.525815,
-          50.617531
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/663870864",
       "properties": {
         "name": "Hohenwarte-Stausee - Loreleifelsen und -Bucht mit Pumpenhaus",
         "scuba_diving:divespot": "yes",
         "source": "www.dive-links.com",
         "sport": "scuba_diving",
-        "verified": "no, please check and del this tag",
-        "website": "http://www.dive-links.com/tauchplatz.php?id=724",
         "id": "node/663870864"
       },
       "geometry": {
@@ -84281,7 +84259,6 @@
         "scuba_diving:divespot": "yes",
         "source": "www.dive-links.com",
         "sport": "scuba_diving",
-        "website": "http://www.dive-links.com/tauchplatz.php?id=721",
         "id": "node/663870866"
       },
       "geometry": {
@@ -84296,14 +84273,10 @@
       "type": "Feature",
       "id": "node/663870867",
       "properties": {
-        "historic": "wreck",
         "name": "Hohenwarte-Stausee - Totenfelsen (Wrack)",
         "scuba_diving:divespot": "yes",
-        "seamark:type": "wreck",
         "source": "www.dive-links.com",
         "sport": "scuba_diving",
-        "verified": "no, please check and del this tag",
-        "website": "http://www.dive-links.com/tauchplatz.php?id=722",
         "id": "node/663870867"
       },
       "geometry": {
@@ -84322,8 +84295,6 @@
         "scuba_diving:divespot": "yes",
         "source": "www.dive-links.com",
         "sport": "scuba_diving",
-        "verified": "no, please check and del this tag",
-        "website": "http://www.dive-links.com/tauchplatz.php?id=720",
         "id": "node/663870868"
       },
       "geometry": {
