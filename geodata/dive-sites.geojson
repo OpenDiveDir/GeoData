@@ -81769,7 +81769,6 @@
         "club": "scuba_diving",
         "name": "Banter See - UWC Heim",
         "scuba_diving:divespot": "yes",
-        "source": "www.google.de",
         "sport": "scuba_diving",
         "website": "https://www.uwc-manta.de/",
         "id": "node/663870622"
@@ -125146,6 +125145,34 @@
     },
     {
       "type": "Feature",
+      "id": "node/11646580121",
+      "properties": {
+        "alt_name": "Dragonera;La Dragonera",
+        "depth": "14-24",
+        "description": "Se trata de un carguero de 65 metros de eslora, que descansa desde 1994 sobre un fondo de arena y fango, a una profundidad de entre 14 y 24 metros. El pecio está partido en varios puntos, por los que buceadores expertos y preparados para ello pueden acced",
+        "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHPI0hH2RNsLB4jTs5PNb4UFB77ehKY8gGG1tFbngdKRZhgUuRTvUkdPe29kNos7DZlf-_nOrcDsxm7l-WGy_EeGcMBruscI7OGS0GV4n4EYNmGXjZLfTwGHJ1cKphljjOJbUwZqUsd96a/s1600/boreas_m.jpg",
+        "name": "Pecio La Dragonera",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:entry": "shore",
+        "scuba_diving:maxdepth": "22",
+        "seamark:type": "wreck",
+        "seamark:wreck:category": "non-dangerous",
+        "sport": "scuba_diving",
+        "website": "https://www.mardehielo.es/dragonera-ses",
+        "wreck:date_sunk": "1994",
+        "wreck:length": "65",
+        "id": "node/11646580121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.2296574,
+          41.0888249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/11663281282",
       "properties": {
         "seamark:buoy_special_purpose:colour": "yellow",
@@ -132198,6 +132225,84 @@
         "coordinates": [
           -4.7561838,
           48.4711405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14070824492",
+      "properties": {
+        "name": "El Biotop",
+        "name:ca": "El Biotop",
+        "name:es": "Biotopo Antina",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:entry": "boat",
+        "scuba_diving:maxdepth": "30",
+        "sport": "scuba_diving",
+        "id": "node/14070824492"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.426501,
+          41.1355775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14070850695",
+      "properties": {
+        "name": "El Brut",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:entry": "boat",
+        "scuba_diving:maxdepth": "22",
+        "sport": "scuba_diving",
+        "id": "node/14070850695"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.431502,
+          41.1422559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14071055214",
+      "properties": {
+        "name": "Le Cap Ferrat",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:entry": "boat",
+        "scuba_diving:maxdepth": "10",
+        "sport": "scuba_diving",
+        "id": "node/14071055214"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3365136,
+          43.6746007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14071084203",
+      "properties": {
+        "name": "Illes Formigues",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:entry": "boat",
+        "scuba_diving:maxdepth": "20",
+        "sport": "scuba_diving",
+        "id": "node/14071084203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1865238,
+          41.8625334
         ]
       }
     }
