@@ -10912,6 +10912,7 @@
       "properties": {
         "addr:city": "Sosnowiec",
         "addr:housenumber": "51",
+        "addr:postcode": "41-200",
         "addr:street": "Gabriela Narutowicza",
         "building": "yes",
         "building:levels": "1",
@@ -46291,6 +46292,8 @@
       "id": "node/1586886452",
       "properties": {
         "amenity": "dive_centre",
+        "name": "Divepoint Maledives",
+        "opening_hours": "Mo-Su 08:00-12:30,14:30-17:30",
         "sport": "scuba_diving",
         "id": "node/1586886452"
       },
@@ -48360,40 +48363,6 @@
         "coordinates": [
           120.1998038,
           12.0008964
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/2148118098",
-      "properties": {
-        "amenity": "dive_centre",
-        "name": "Coco Dive Center",
-        "website": "http://www.cocodivevietnam.com/phuquoc.shtml",
-        "id": "node/2148118098"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.9588442,
-          10.2133186
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/2148118099",
-      "properties": {
-        "amenity": "dive_centre",
-        "name": "Rainbow Divers",
-        "website": "https://www.divevietnam.com/phuquoc.php",
-        "id": "node/2148118099"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          103.9596648,
-          10.2145909
         ]
       }
     },
