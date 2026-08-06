@@ -13031,42 +13031,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/31781010",
-      "properties": {
-        "building": "yes",
-        "sport": "scuba_diving",
-        "id": "way/31781010"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              121.9253676,
-              11.9602616
-            ],
-            [
-              121.9254073,
-              11.9601931
-            ],
-            [
-              121.925507,
-              11.960251
-            ],
-            [
-              121.9254673,
-              11.9603195
-            ],
-            [
-              121.9253676,
-              11.9602616
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/31781036",
       "properties": {
         "building": "yes",
@@ -125312,6 +125276,7 @@
       "type": "Feature",
       "id": "node/11837415061",
       "properties": {
+        "check_date": "2026-08-05",
         "club": "sport",
         "name": "Aquablue",
         "sport": "scuba_diving",
@@ -132186,6 +132151,30 @@
         "coordinates": [
           6.6292748,
           51.2932951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14001664701",
+      "properties": {
+        "addr:city": "Buleleng",
+        "addr:district": "Gerokgak",
+        "addr:place": "Tegalsari",
+        "addr:postcode": "81155",
+        "addr:province": "Bali",
+        "addr:subdistrict": "Sumberkima",
+        "name": "Sari Dive & Cottage",
+        "name:en": "Sari Dive & Cottage",
+        "sport": "scuba_diving",
+        "tourism": "chalet",
+        "id": "node/14001664701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.59701,
+          -8.139342
         ]
       }
     },
