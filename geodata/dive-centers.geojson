@@ -7265,8 +7265,10 @@
         "height": "4",
         "name": "Tauchen Südstrand",
         "nudism": "designated",
+        "opening_hours": "Mo-Su 09:00-19:00",
         "roof:height": "2",
         "roof:shape": "gabled",
+        "wheelchair": "limited",
         "id": "way/222032894"
       },
       "geometry": {
@@ -54833,6 +54835,27 @@
     },
     {
       "type": "Feature",
+      "id": "node/3590776700",
+      "properties": {
+        "amenity": "dive_centre",
+        "email": "info@odysea.cat",
+        "image": "https://odysea.cat/wp-content/uploads/2023/08/odysea-logo.png",
+        "name": "Odysea",
+        "phone": "+34 972 75 13 92",
+        "shop": "scuba_diving",
+        "website": "https://odysea.cat/",
+        "id": "node/3590776700"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4022824,
+          41.1370142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3600017693",
       "properties": {
         "addr:city": "Hemmoor",
@@ -58539,6 +58562,8 @@
       "type": "Feature",
       "id": "node/4158241014",
       "properties": {
+        "addr:city": "San Pawl il-Baħar",
+        "addr:street": "Triq San Pawl",
         "check_date": "2025-08-21",
         "name": "Aquatica Scuba Diving",
         "shop": "scuba_diving",
@@ -80782,6 +80807,7 @@
         "opening_hours": "Apr-Sep Mo-Su 09:00-19:00; PH unknown",
         "scuba_diving:courses": "yes",
         "website": "http://www.tauchen-suedstrand.de",
+        "wheelchair": "limited",
         "id": "node/7832851891"
       },
       "geometry": {
