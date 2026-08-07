@@ -37326,6 +37326,67 @@
     },
     {
       "type": "Feature",
+      "id": "way/243597373",
+      "properties": {
+        "access": "permit",
+        "leisure": "swimming_pool",
+        "sport": "scuba_diving",
+        "id": "way/243597373"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.1649101,
+              41.3693765
+            ],
+            [
+              2.1649115,
+              41.3695989
+            ],
+            [
+              2.164613,
+              41.3696
+            ],
+            [
+              2.1646128,
+              41.3695802
+            ],
+            [
+              2.1646125,
+              41.3695284
+            ],
+            [
+              2.1646289,
+              41.3695283
+            ],
+            [
+              2.1646284,
+              41.3694537
+            ],
+            [
+              2.1646115,
+              41.3694538
+            ],
+            [
+              2.1646112,
+              41.3694023
+            ],
+            [
+              2.164611,
+              41.3693775
+            ],
+            [
+              2.1649101,
+              41.3693765
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/244531732",
       "properties": {
         "boundary": "protected_area",
@@ -48306,11 +48367,14 @@
       "type": "Feature",
       "id": "way/824227244",
       "properties": {
+        "description": "Sentier de découverte sous-marine avec 5 stations d'observation, balisé, accessible en palmes-masque-tuba",
         "name": "Sentier sous-marin de Banyuls-Cerbère",
         "opening_hours": "24/7",
+        "scuba_diving:divespot": "yes",
         "scuba_diving:type": "snorkeling",
+        "scuba_diving:type:apnoe": "yes",
         "sport": "scuba_diving",
-        "tourism": "theme_park",
+        "tourism": "attraction",
         "website": "https://www.banyuls-sur-mer.com/tourisme/decouvrir/la-mer-et-ses-tresors/incontournables-de-la-mediterranee/sentier-sous-marin/",
         "id": "way/824227244"
       },
@@ -52703,6 +52767,81 @@
             [
               18.0400081,
               48.8993058
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1085357427",
+      "properties": {
+        "access": "permit",
+        "building": "tower",
+        "height": "10",
+        "lit": "yes",
+        "man_made": "tower",
+        "material": "concrete",
+        "platforms": "4",
+        "sport": "scuba_diving",
+        "tower:type": "diving",
+        "id": "way/1085357427"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.1645505,
+              41.3695802
+            ],
+            [
+              2.1645505,
+              41.3695281
+            ],
+            [
+              2.1645416,
+              41.3695281
+            ],
+            [
+              2.1645416,
+              41.3694517
+            ],
+            [
+              2.1645483,
+              41.3694517
+            ],
+            [
+              2.1645483,
+              41.3694023
+            ],
+            [
+              2.1646112,
+              41.3694023
+            ],
+            [
+              2.1646115,
+              41.3694538
+            ],
+            [
+              2.1646284,
+              41.3694537
+            ],
+            [
+              2.1646289,
+              41.3695283
+            ],
+            [
+              2.1646125,
+              41.3695284
+            ],
+            [
+              2.1646128,
+              41.3695802
+            ],
+            [
+              2.1645505,
+              41.3695802
             ]
           ]
         ]
@@ -75230,24 +75369,6 @@
         "coordinates": [
           6.77819,
           46.47415
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/663869988",
-      "properties": {
-        "name": "Plage Cully",
-        "scuba_diving:divespot": "yes",
-        "source": "www.dive-links.com",
-        "sport": "scuba_diving",
-        "id": "node/663869988"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.74141,
-          46.48895
         ]
       }
     },
