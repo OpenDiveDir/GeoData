@@ -12894,61 +12894,28 @@
         "coordinates": [
           [
             [
-              121.9197841,
-              11.9677955
+              121.9199142,
+              11.9678995
             ],
             [
-              121.9198693,
-              11.9677109
+              121.9199477,
+              11.9678523
             ],
             [
-              121.9200919,
-              11.9679064
+              121.9200646,
+              11.967921
             ],
             [
-              121.9200215,
-              11.9679936
+              121.9200693,
+              11.9679238
             ],
             [
-              121.9197841,
-              11.9677955
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/31780064",
-      "properties": {
-        "building": "yes",
-        "name": "New Wave Divers",
-        "sport": "scuba_diving",
-        "id": "way/31780064"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              121.9200409,
-              11.9675529
+              121.9200266,
+              11.9679799
             ],
             [
-              121.9200799,
-              11.9675123
-            ],
-            [
-              121.9201399,
-              11.96757
-            ],
-            [
-              121.920101,
-              11.9676106
-            ],
-            [
-              121.9200409,
-              11.9675529
+              121.9199142,
+              11.9678995
             ]
           ]
         ]
@@ -12969,12 +12936,12 @@
         "coordinates": [
           [
             [
-              121.9222491,
-              11.9650832
+              121.922291,
+              11.965118
             ],
             [
-              121.9223166,
-              11.9650044
+              121.9223694,
+              11.9650493
             ],
             [
               121.9224687,
@@ -12985,8 +12952,8 @@
               11.9652135
             ],
             [
-              121.9222491,
-              11.9650832
+              121.922291,
+              11.965118
             ]
           ]
         ]
@@ -58921,44 +58888,64 @@
             53.7002513
           ],
           [
-            9.1296264,
-            53.7003395
+            9.130026,
+            53.7004967
           ],
           [
             9.1301895,
             53.7009797
           ],
           [
-            9.1303712,
-            53.7013376
+            9.1302666,
+            53.7013741
           ],
           [
-            9.1305192,
-            53.7016599
+            9.1304012,
+            53.7017885
           ],
           [
-            9.1308786,
-            53.7016313
+            9.1307089,
+            53.7017593
           ],
           [
-            9.1305249,
-            53.7016861
+            9.1309725,
+            53.7016694
           ],
           [
-            9.130468,
-            53.7016729
+            9.1307893,
+            53.7016148
           ],
           [
-            9.130159,
-            53.7013829
+            9.1305705,
+            53.7015734
           ],
           [
-            9.1301151,
-            53.7010224
+            9.1303124,
+            53.7015411
           ],
           [
-            9.129611,
-            53.7005218
+            9.1300973,
+            53.7015131
+          ],
+          [
+            9.1299847,
+            53.7013433
+          ],
+          [
+            9.1299113,
+            53.7010875
+          ],
+          [
+            9.1295761,
+            53.7007298
+          ],
+          [
+            9.1295475,
+            53.7005716
+          ],
+          [
+            9.1295984,
+            53.6999523
           ],
           [
             9.1290983,
@@ -59071,20 +59058,20 @@
             53.7005808
           ],
           [
-            9.1352988,
-            53.7002322
+            9.1351942,
+            53.7004037
           ],
           [
-            9.1349502,
-            53.7002213
+            9.1345801,
+            53.7003579
           ],
           [
-            9.1344406,
-            53.7007993
+            9.1340034,
+            53.7009136
           ],
           [
-            9.1335233,
-            53.701282
+            9.1333704,
+            53.7012947
           ],
           [
             9.1333146,
@@ -103429,21 +103416,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/4024860935",
-      "properties": {
-        "amenity": "restaurant",
-        "id": "node/4024860935"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.9198693,
-          11.9677109
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/4025127654",
       "properties": {
         "depth": "0.5-5",
@@ -127302,8 +127274,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.1409137,
-          53.6958489
+          9.1405731,
+          53.6955138
         ]
       }
     },
@@ -127311,8 +127283,8 @@
       "type": "Feature",
       "id": "node/12530450051",
       "properties": {
-        "name": "Stollen",
-        "scuba_diving:depth": "25",
+        "name": "Eingestürzter Stollen",
+        "scuba_diving:depth": "7",
         "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
         "id": "node/12530450051"
@@ -127320,8 +127292,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.1397754,
-          53.6947826
+          9.1397271,
+          53.6942951
         ]
       }
     },
@@ -127348,7 +127320,7 @@
       "id": "node/12530450053",
       "properties": {
         "name": "Leuchtturm",
-        "scuba_diving:depth": "31",
+        "scuba_diving:depth": "26",
         "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
         "id": "node/12530450053"
@@ -127374,8 +127346,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.1364437,
-          53.6965621
+          9.1367039,
+          53.6965923
         ]
       }
     },
@@ -127463,8 +127435,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.13143,
-          53.6990761
+          9.1319986,
+          53.6996827
         ]
       }
     },
@@ -127499,8 +127471,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.1352988,
-          53.7002322
+          9.1351942,
+          53.7004037
         ]
       }
     },
@@ -127536,8 +127508,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.1349502,
-          53.7002213
+          9.1345801,
+          53.7003579
         ]
       }
     },
@@ -127555,8 +127527,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.1344406,
-          53.7007993
+          9.1340034,
+          53.7009136
         ]
       }
     },
@@ -127573,8 +127545,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.1335233,
-          53.701282
+          9.1333704,
+          53.7012947
         ]
       }
     },
@@ -127628,8 +127600,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.1305192,
-          53.7016599
+          9.1304012,
+          53.7017885
         ]
       }
     },
@@ -127664,8 +127636,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.1301151,
-          53.7010224
+          9.1299113,
+          53.7010875
         ]
       }
     },
@@ -127682,8 +127654,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.1303712,
-          53.7013376
+          9.1302666,
+          53.7013741
         ]
       }
     },
@@ -127700,8 +127672,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.129611,
-          53.7005218
+          9.1295761,
+          53.7007298
         ]
       }
     },
@@ -127798,7 +127770,7 @@
       "id": "node/12530577338",
       "properties": {
         "name": "Betonbombe II",
-        "scuba_diving:depth": "23",
+        "scuba_diving:depth": "24",
         "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
         "id": "node/12530577338"
@@ -127806,8 +127778,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.1317044,
-          53.698756
+          9.1320075,
+          53.6984876
         ]
       }
     },
@@ -127818,7 +127790,7 @@
         "name": "Rüttler und Briefkasten",
         "scuba_diving:depth": "20",
         "scuba_diving:divespot": "yes",
-        "scuba_diving:maxdepth": "32",
+        "scuba_diving:maxdepth": "35",
         "sport": "scuba_diving",
         "id": "node/12530577339"
       },
@@ -127852,7 +127824,7 @@
       "type": "Feature",
       "id": "node/12530577341",
       "properties": {
-        "name": "Holztreppe",
+        "name": "Holztreppen",
         "scuba_diving:depth": "42",
         "scuba_diving:divespot": "yes",
         "scuba_diving:maxdepth": "55",
@@ -127862,8 +127834,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.133364,
-          53.6983811
+          9.133541,
+          53.6983049
         ]
       }
     },
@@ -127880,8 +127852,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.1343283,
-          53.6978958
+          9.1343766,
+          53.6976782
         ]
       }
     },
@@ -127890,7 +127862,7 @@
       "id": "node/12530577343",
       "properties": {
         "name": "Steinschlagmatten",
-        "scuba_diving:depth": "10",
+        "scuba_diving:depth": "0",
         "scuba_diving:divespot": "yes",
         "scuba_diving:maxdepth": "20",
         "sport": "scuba_diving",
@@ -127899,8 +127871,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.1336489,
-          53.6978571
+          9.1337937,
+          53.6977015
         ]
       }
     },
@@ -127911,15 +127883,15 @@
         "name": "Versorgungsleitungen",
         "scuba_diving:depth": "20",
         "scuba_diving:divespot": "yes",
-        "scuba_diving:maxdepth": "55",
+        "scuba_diving:maxdepth": "56",
         "sport": "scuba_diving",
         "id": "node/12530577344"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.1350768,
-          53.6977355
+          9.1348408,
+          53.6977323
         ]
       }
     },
@@ -127954,8 +127926,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.1335131,
-          53.698927
+          9.1334541,
+          53.6991033
         ]
       }
     },
@@ -132413,6 +132385,61 @@
         "coordinates": [
           3.1865238,
           41.8625334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14079446332",
+      "properties": {
+        "name": "Scootermessstrecke",
+        "scuba_diving:depth": "12",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/14079446332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1352472,
+          53.6967938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14079446333",
+      "properties": {
+        "name": "Schwarzer Wohnwagen",
+        "scuba_diving:depth": "56",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/14079446333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1361296,
+          53.6974258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14079446339",
+      "properties": {
+        "name": "Versorgungsleitungen",
+        "scuba_diving:depth": "0",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:maxdepth": "20",
+        "sport": "scuba_diving",
+        "id": "node/14079446339"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.13459,
+          53.6974465
         ]
       }
     }
