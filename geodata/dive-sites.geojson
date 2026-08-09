@@ -87723,6 +87723,7 @@
       "type": "Feature",
       "id": "node/764536299",
       "properties": {
+        "drinking_water:signed": "no",
         "karst": "yes",
         "name": "Douix de Châtillon",
         "natural": "spring",
@@ -119230,6 +119231,28 @@
         "coordinates": [
           13.0436005,
           53.1508773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8196306262",
+      "properties": {
+        "addr:city": "Burgwedel",
+        "addr:housenumber": "9",
+        "addr:postcode": "30938",
+        "addr:street": "Dammstraße",
+        "club": "sport",
+        "name": "Altwarmbüchener Tauchclub eV",
+        "operator": "Altwarmbüchener Tauchclub eV",
+        "sport": "scuba_diving",
+        "id": "node/8196306262"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8491915,
+          52.4932084
         ]
       }
     },
