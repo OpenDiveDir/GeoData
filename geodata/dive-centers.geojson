@@ -6,7 +6,10 @@
       "id": "way/24920947",
       "properties": {
         "addr:city": "Grays",
-        "addr:postcode": "RM16 1ZN",
+        "addr:country": "GB",
+        "addr:hamlet": "Alexandra Lake South",
+        "addr:postcode": "RM20 2AB",
+        "addr:suburb": "West Thurrock",
         "building": "retail",
         "name": "Lakeside Diving and Watersport's Centre",
         "shop": "scuba_diving",
@@ -331,24 +334,24 @@
         "coordinates": [
           [
             [
-              121.920718,
-              11.9667598
+              121.9207517,
+              11.9668312
             ],
             [
-              121.9208502,
-              11.966601
+              121.9208495,
+              11.9667086
             ],
             [
-              121.920944,
-              11.9666742
+              121.9209047,
+              11.9667496
             ],
             [
-              121.9208063,
-              11.9668317
+              121.9208074,
+              11.9668719
             ],
             [
-              121.920718,
-              11.9667598
+              121.9207517,
+              11.9668312
             ]
           ]
         ]
@@ -49111,7 +49114,7 @@
         "addr:postcode": "83352",
         "addr:street": "Jalan Raya Trawangan",
         "name": "Aquaddiction Dive and Bungalows",
-        "opening_hours": "8:00-21:00",
+        "opening_hours": "08:00-21:00",
         "shop": "scuba_diving",
         "id": "node/2380049325"
       },
@@ -60803,8 +60806,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.9205337,
-          11.9670322
+          121.9209344,
+          11.9666427
         ]
       }
     },
@@ -84888,34 +84891,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/9275760413",
-      "properties": {
-        "addr:city": "Deggendorf",
-        "addr:housenumber": "4-6",
-        "addr:postcode": "94469",
-        "addr:street": "Sandnerhofweg",
-        "contact:email": "info@tauchsport-egginger.de",
-        "contact:facebook": "https://www.facebook.com/tauchsportegginger",
-        "contact:mobile": "+4916095792374",
-        "contact:website": "https://www.tauchsport-egginger.de/",
-        "name": "Tauchsport Egginger",
-        "opening_hours": "nach telefonischer Vereinbarung",
-        "operator": "Peter Krauß",
-        "scuba_diving:filling": "yes",
-        "scuba_diving:rental": "yes",
-        "shop": "scuba_diving",
-        "id": "node/9275760413"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          12.9093562,
-          48.8207446
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/9279697917",
       "properties": {
         "amenity": "dive_centre",
@@ -104307,6 +104282,38 @@
         "coordinates": [
           174.3223515,
           -35.7275177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14076912146",
+      "properties": {
+        "check_date": "2026-08-06",
+        "name": "Ocean Kimetics",
+        "shop": "scuba_diving",
+        "id": "node/14076912146"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1671233,
+          60.1665664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14081840618",
+      "properties": {
+        "amenity": "dive_centre",
+        "id": "node/14081840618"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.7245415,
+          34.6513433
         ]
       }
     }
