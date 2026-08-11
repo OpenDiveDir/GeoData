@@ -65467,27 +65467,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/5002525521",
-      "properties": {
-        "accommodation": "yes",
-        "addr:city": "Larena",
-        "addr:place": "Sandugan",
-        "amenity": "dive_centre",
-        "internet_access": "wlan",
-        "name": "Kiwi Dive Resort",
-        "name:en": "Kiwi Dive Resort",
-        "id": "node/5002525521"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          123.6008526,
-          9.2977667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/5002852970",
       "properties": {
         "addr:city": "Lido di Ostia",
