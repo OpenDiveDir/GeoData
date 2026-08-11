@@ -76950,10 +76950,14 @@
       "type": "Feature",
       "id": "node/663870141",
       "properties": {
-        "name": "Lago di Lugano-Relitto Milano",
+        "historic": "wreck",
+        "name": "Il vaporetto (Relitto di Milano)",
+        "scuba_diving:depth": "9",
         "scuba_diving:divespot": "yes",
+        "seamark:type": "wreck",
         "source": "www.dive-links.com",
         "sport": "scuba_diving",
+        "website": "https://subticino.webnode.page/products/il-vaporetto/",
         "id": "node/663870141"
       },
       "geometry": {
@@ -116082,23 +116086,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/7146796385",
-      "properties": {
-        "name": "Miyaru Faru",
-        "sport": "scuba_diving",
-        "tourism": "attraction",
-        "id": "node/7146796385"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.5112278,
-          3.989206
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/7146807585",
       "properties": {
         "name": "Guraidhoo Corner",
@@ -119242,9 +119229,11 @@
         "addr:housenumber": "9",
         "addr:postcode": "30938",
         "addr:street": "Dammstraße",
+        "amenity": "community_centre",
         "club": "sport",
-        "name": "Altwarmbüchener Tauchclub eV",
-        "operator": "Altwarmbüchener Tauchclub eV",
+        "community_centre": "club_home",
+        "name": "Altwarmbüchener Tauchclub",
+        "operator": "Altwarmbüchener Tauchclub e.V.",
         "sport": "scuba_diving",
         "id": "node/8196306262"
       },
