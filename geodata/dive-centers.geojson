@@ -99903,6 +99903,7 @@
         "email": "info@tauchmit.at",
         "name": "Tauchmit",
         "phone": "+43 660 263 0470",
+        "scuba_diving:courses": "yes",
         "website": "https://www.tauchmit.at",
         "id": "node/13039015318"
       },
