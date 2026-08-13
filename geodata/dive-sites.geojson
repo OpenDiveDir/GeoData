@@ -12881,6 +12881,7 @@
         "addr:housenumber": "Station 1, White Beach, Balabag",
         "addr:street": "Boracay Main Road",
         "building": "yes",
+        "building:levels": "3",
         "name": "WaterColors Boracay Dive Resort",
         "operator": "Watercolors Dive Resorts, Inc.",
         "phone": "+63 998 554 1675",
@@ -12898,16 +12899,20 @@
               11.9678995
             ],
             [
-              121.9199477,
-              11.9678523
+              121.9199512,
+              11.9678439
             ],
             [
-              121.9200646,
-              11.967921
+              121.9199557,
+              11.9678465
             ],
             [
-              121.9200693,
-              11.9679238
+              121.9200583,
+              11.967917
+            ],
+            [
+              121.9200649,
+              11.9679224
             ],
             [
               121.9200266,
