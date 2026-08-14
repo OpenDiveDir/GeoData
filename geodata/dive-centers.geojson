@@ -4101,6 +4101,8 @@
       "properties": {
         "amenity": "dive_centre",
         "building": "yes",
+        "check_date": "2026-08-13",
+        "name": "Tauchbasis Oberwald",
         "operator": "Tauchsportverein Sachsenluft e.V.",
         "website": "https://www.tauchsportverein-sachsenluft.de/",
         "id": "way/132224148"
@@ -49555,6 +49557,7 @@
       "properties": {
         "amenity": "dive_centre",
         "name": "DC MIHURIC",
+        "opening_hours": "Mo-Su 10:00-18:00",
         "phone": "+385 51 241 038",
         "sport": "scuba_diving",
         "website": "https://mihuric.hr/",
@@ -57869,30 +57872,6 @@
         "coordinates": [
           19.0266989,
           50.2701817
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4024860937",
-      "properties": {
-        "addr:city": "Boracay Island",
-        "addr:housenumber": "Beachfront, Station 1, White Beach, Balabag",
-        "addr:postcode": "5608",
-        "addr:street": "Boracay Main Road",
-        "amenity": "dive_centre",
-        "name": "WaterColors Boracay Diving Adventures - North",
-        "opening_hours": "08:00-22:00",
-        "operator": "WaterColors Dive Resorts, Inc.",
-        "phone": "+63362886746",
-        "scuba_diving:organization": "PADI",
-        "id": "node/4024860937"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.9198661,
-          11.9677402
         ]
       }
     },
@@ -91018,7 +90997,7 @@
         "addr:housename": "F. Hermanos Building",
         "addr:postcode": "8000",
         "addr:province": "Davao del Sur",
-        "addr:street": "2nd Avenue",
+        "addr:street": "T. Monteverde Avenue",
         "contact:facebook": "https://www.facebook.com/carabao.divers",
         "contact:phone": "+63 917 720 0270",
         "name": "Carabao Dive Center",
@@ -104294,6 +104273,72 @@
         "coordinates": [
           32.7245415,
           34.6513433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14089351475",
+      "properties": {
+        "addr:block_number": "４７１－3",
+        "addr:city": "和泊町",
+        "addr:county": "大島郡",
+        "addr:postcode": "891",
+        "addr:province": "9112",
+        "addr:quarter": "和泊",
+        "amenity": "dive_centre",
+        "name": "GTダイバーズ沖永良部島",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:hobby": "yes",
+        "id": "node/14089351475"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.6502886,
+          27.3943433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14091640154",
+      "properties": {
+        "addr:city": "Ajaccio",
+        "addr:postcode": "20000",
+        "addr:street": "Jetée de la Citadelle",
+        "amenity": "dive_centre",
+        "contact:facebook": "https://www.facebook.com/odyssee2a",
+        "contact:instagram": "https://www.instagram.com/odysseeplongee",
+        "name": "Odysée Plongée",
+        "phone": "+33 6 62 07 53 51",
+        "scuba_diving:air_filling": "yes",
+        "scuba_diving:courses": "yes",
+        "website": "https://www.odyssee-plongee.fr/",
+        "id": "node/14091640154"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7415197,
+          41.9175224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14092814924",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "Desert Drivers Dahab",
+        "website": "https://desert-divers.com/",
+        "id": "node/14092814924"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5203095,
+          28.5015088
         ]
       }
     }
