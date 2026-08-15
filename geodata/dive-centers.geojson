@@ -58620,22 +58620,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/4159726952",
-      "properties": {
-        "name": "Horseshoe",
-        "shop": "scuba_diving",
-        "id": "node/4159726952"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          146.1751919,
-          -16.8063898
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/4159831343",
       "properties": {
         "check_date": "2025-08-21",
@@ -61539,6 +61523,7 @@
         "name": "Ocean Sound and Dive + Yoga",
         "name:en": "Ocean Sound and Dive + Yoga",
         "name:th": "Ocean Sound and Dive + Yoga",
+        "opening_hours": "Mo-Su 09:00-18:00",
         "shop": "scuba_diving",
         "sport": "scuba_diving",
         "id": "node/4550160893"
