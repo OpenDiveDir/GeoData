@@ -49398,6 +49398,7 @@
       "type": "Feature",
       "id": "node/2386031399",
       "properties": {
+        "check_date": "2026-08-15",
         "created_by": "iLOE 1.9",
         "name": "Tauchschule Sorpesee",
         "shop": "scuba_diving",
@@ -75933,6 +75934,7 @@
       "id": "node/6510913283",
       "properties": {
         "amenity": "dive_centre",
+        "check_date": "2026-08-15",
         "name": "h2jo",
         "id": "node/6510913283"
       },
@@ -104324,6 +104326,47 @@
         "coordinates": [
           34.5203095,
           28.5015088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14097601203",
+      "properties": {
+        "addr:housenumber": "14",
+        "addr:street": "Береговая улица",
+        "check_date": "2026-08-15",
+        "name": "Батискаф",
+        "opening_hours": "Mo-Fr 11:00-18:00; Sa 11:00-15:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "591822; +7 921 615-37-77",
+        "shop": "scuba_diving",
+        "wheelchair": "no",
+        "id": "node/14097601203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.5244108,
+          54.7282071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14097930195",
+      "properties": {
+        "name": "Dive Club MaruMar",
+        "shop": "scuba_diving",
+        "id": "node/14097930195"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0791128,
+          20.6241117
         ]
       }
     }
