@@ -26840,24 +26840,52 @@
         "coordinates": [
           [
             [
-              12.3356812,
-              51.2338007
+              12.335689,
+              51.233809
             ],
             [
-              12.3356138,
-              51.2337271
+              12.33563,
+              51.233745
             ],
             [
-              12.3358048,
-              51.2336586
+              12.335647,
+              51.233738
             ],
             [
-              12.3358721,
-              51.2337323
+              12.335628,
+              51.233717
             ],
             [
-              12.3356812,
-              51.2338007
+              12.335805,
+              51.233654
+            ],
+            [
+              12.335824,
+              51.233676
+            ],
+            [
+              12.335855,
+              51.233665
+            ],
+            [
+              12.335913,
+              51.233729
+            ],
+            [
+              12.33588,
+              51.233741
+            ],
+            [
+              12.33579,
+              51.233773
+            ],
+            [
+              12.335745,
+              51.233789
+            ],
+            [
+              12.335689,
+              51.233809
             ]
           ]
         ]
@@ -41072,6 +41100,42 @@
     },
     {
       "type": "Feature",
+      "id": "way/1550260710",
+      "properties": {
+        "amenity": "dive_centre",
+        "building": "yes",
+        "id": "way/1550260710"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124.0019318,
+              10.286289
+            ],
+            [
+              124.0019318,
+              10.286388
+            ],
+            [
+              124.0018058,
+              10.286388
+            ],
+            [
+              124.0018058,
+              10.286289
+            ],
+            [
+              124.0019318,
+              10.286289
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/26772598",
       "properties": {
         "name": "Blue Ocean Diving",
@@ -48393,13 +48457,17 @@
       "type": "Feature",
       "id": "node/2179711609",
       "properties": {
+        "addr:city": "Rosenheim",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "83026",
+        "addr:street": "Georg-Aicher-Straße",
         "email": "info@bluesub.de",
         "fax": "+49 8031 9016344",
         "name": "bluesub",
-        "opening_hours": "Mo-Fr 12:00-20:00; Sa 09:00-18:00",
+        "opening_hours": "Th,Fr 11:30-19:00, Sa 11:00-18:00; Su-We,PH off",
         "phone": "+49 8031 9016340",
         "shop": "scuba_diving",
-        "sport": "scuba_diving",
         "website": "https://www.bluesub.de/",
         "id": "node/2179711609"
       },
@@ -68181,22 +68249,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/5359028471",
-      "properties": {
-        "name": "Pepe Dive Mahahual",
-        "shop": "scuba_diving",
-        "id": "node/5359028471"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.7081943,
-          18.7147775
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/5362535308",
       "properties": {
         "name": "Sea Store",
@@ -71413,6 +71465,7 @@
       "id": "node/5832877512",
       "properties": {
         "amenity": "dive_centre",
+        "check_date": "2026-08-16",
         "name": "University of Bristol Underwater Club (UBUC)",
         "operator": "UBUC",
         "website": "https://ubuc.org/",
@@ -104367,6 +104420,29 @@
         "coordinates": [
           -87.0791128,
           20.6241117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14098389561",
+      "properties": {
+        "contact:facebook": "https://www.facebook.com/Divewithus.Frankfurt/",
+        "contact:instagram": "https://www.instagram.com/dive__with__us/",
+        "email": "info@divewithus.de",
+        "name": "Dive with us",
+        "opening_hours": "We-Fr 16:00-19:30; Sa 10:00-16:00",
+        "operator": "Gabi Brüchert",
+        "phone": "+4917634615095",
+        "shop": "scuba_diving",
+        "website": "https://www.divewithus.de/",
+        "id": "node/14098389561"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6888654,
+          50.0544865
         ]
       }
     }
