@@ -9654,6 +9654,7 @@
         "language:en": "yes",
         "language:ja": "yes",
         "name": "Island staff",
+        "nohousenumber": "yes",
         "scuba_diving:education": "yes",
         "scuba_diving:guided_tours": "yes",
         "scuba_diving:rental": "yes",
@@ -60237,7 +60238,6 @@
       "properties": {
         "name": "Eurosub",
         "shop": "scuba_diving",
-        "website": "www.eurosub.it",
         "id": "node/4362506883"
       },
       "geometry": {
@@ -60856,23 +60856,6 @@
         "coordinates": [
           -28.3364138,
           38.5350737
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4442566283",
-      "properties": {
-        "name": "Amancay Freediving",
-        "shop": "scuba_diving",
-        "sport": "diving",
-        "id": "node/4442566283"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.0833038,
-          20.6293696
         ]
       }
     },
@@ -78312,7 +78295,7 @@
       "id": "node/7027236276",
       "properties": {
         "amenity": "dive_centre",
-        "name": "Family diving",
+        "name": "Family Diving",
         "id": "node/7027236276"
       },
       "geometry": {
@@ -99778,15 +99761,38 @@
       "type": "Feature",
       "id": "node/13019742146",
       "properties": {
+        "addr:floor": "-1",
+        "addr:housenumber": "29",
+        "addr:postcode": "85386",
+        "addr:street": "Erfurter Straße",
         "amenity": "dive_centre",
+        "check_date": "2026-08-17",
+        "email": "mail@abc-divers.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "level": "-1",
         "name": "ABC-Divers NG GmbH",
+        "opening_hours": "Mo 17:00-19:00; Tu-We,Su,PH off; Th 17:00-20:00; Fr 15:00-19:00; Sa 09:00-14:00 || \"Nach Vereinbarung\"",
+        "operator": "Dr. Christina Matthes, Stefan Matthes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+49 89 37000969",
+        "scuba_diving:air_filling": "yes",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:equipment": "yes",
+        "scuba_diving:guided_tours": "yes",
+        "scuba_diving:rental": "yes",
+        "scuba_diving:repair": "yes",
+        "website": "https://abc-divers.de/",
+        "wheelchair": "no",
         "id": "node/13019742146"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          11.621643,
-          48.3074666
+          11.6217396,
+          48.3072811
         ]
       }
     },
@@ -104443,6 +104449,86 @@
         "coordinates": [
           8.6888654,
           50.0544865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14101421524",
+      "properties": {
+        "name": "A.C Divers",
+        "shop": "scuba_diving",
+        "id": "node/14101421524"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0760328,
+          20.6344367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14101757934",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "Orca Diving",
+        "id": "node/14101757934"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1939388,
+          41.2379408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14101757939",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "Diving Mediterraneo",
+        "id": "node/14101757939"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.192114,
+          41.2379093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14104255568",
+      "properties": {
+        "name": "The Fives Dive Center",
+        "shop": "scuba_diving",
+        "id": "node/14104255568"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0758865,
+          20.6242048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14104255573",
+      "properties": {
+        "name": "Mayan Dive Center",
+        "shop": "scuba_diving",
+        "id": "node/14104255573"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0740932,
+          20.6228646
         ]
       }
     }
