@@ -313,52 +313,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/31780370",
-      "properties": {
-        "amenity": "dive_centre",
-        "building": "yes",
-        "contact:email": "milkymaming@yahoo.com",
-        "contact:fax": "+6336-288-2011",
-        "contact:phone": "+6336-288-2243;+63-947-9937850",
-        "contact:website": "http://www.boracayactiondive.com/",
-        "name": "Mikly's Dive Center",
-        "scuba_diving:education": "yes",
-        "scuba_diving:equipment": "yes",
-        "scuba_diving:organization": "PADI",
-        "scuba_diving:spoken_languages": "EN",
-        "scuba_diving:trimix": "no",
-        "id": "way/31780370"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              121.9207517,
-              11.9668312
-            ],
-            [
-              121.9208495,
-              11.9667086
-            ],
-            [
-              121.9209047,
-              11.9667496
-            ],
-            [
-              121.9208074,
-              11.9668719
-            ],
-            [
-              121.9207517,
-              11.9668312
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/31781445",
       "properties": {
         "amenity": "dive_centre",
@@ -60829,22 +60783,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/4437293053",
-      "properties": {
-        "amenity": "dive_centre",
-        "name": "Diamond Water Sports",
-        "id": "node/4437293053"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.9209344,
-          11.9666427
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/4442060708",
       "properties": {
         "name": "Twin Peaks Diving Centre",
@@ -104529,6 +104467,26 @@
         "coordinates": [
           -87.0740932,
           20.6228646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14104609478",
+      "properties": {
+        "amenity": "dive_centre",
+        "level": "0",
+        "name": "New Wave Divers",
+        "scuba_diving:education": "yes",
+        "scuba_diving:equipment": "yes",
+        "scuba_diving:organization": "PADI",
+        "id": "node/14104609478"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.9209071,
+          11.9666787
         ]
       }
     }
