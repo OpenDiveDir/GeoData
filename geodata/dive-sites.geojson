@@ -78783,6 +78783,7 @@
       "id": "node/663870290",
       "properties": {
         "name": "Chappeli",
+        "place": "locality",
         "scuba_diving:access_easyness": "1",
         "scuba_diving:depth": "30",
         "scuba_diving:difficulty": "1",
@@ -89613,16 +89614,22 @@
       "type": "Feature",
       "id": "node/838074365",
       "properties": {
+        "addr:city": "Scharendijke",
+        "addr:housenumber": "3",
+        "addr:postcode": "4322AK",
+        "addr:street": "Haven Kloosternol",
         "leisure": "pitch",
         "scuba_diving:name": "Scharendijke",
+        "source": "BAG",
+        "source:date": "2014-03-24",
         "sport": "scuba_diving",
         "id": "node/838074365"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.84351,
-          51.7395
+          3.8443755,
+          51.7393059
         ]
       }
     },
@@ -92465,8 +92472,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.9430429,
-          51.7344327
+          3.9431551,
+          51.734479
         ]
       }
     },
@@ -125870,27 +125877,6 @@
         "coordinates": [
           8.6116699,
           46.932611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/12049737504",
-      "properties": {
-        "leisure": "pitch",
-        "name": "82 Duikplaats Geersdijk",
-        "scuba_diving:access_easyness": "1",
-        "scuba_diving:entry": "shore",
-        "sport": "scuba_diving",
-        "url": "https://www.zeeland.com/nl-nl/visit/347_nl/duiklocatie-3a-geersdijk-82",
-        "website": "https://onderwatersport.org/",
-        "id": "node/12049737504"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.7599643,
-          51.5549896
         ]
       }
     },
