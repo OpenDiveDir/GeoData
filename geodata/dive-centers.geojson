@@ -16169,7 +16169,7 @@
       "id": "way/379474586",
       "properties": {
         "building": "yes",
-        "name": "Tamarindo Diving",
+        "name": "Buceo Tamarindo",
         "phone": "8583 5873",
         "shop": "scuba_diving",
         "source": "KG Ground Survey 2015",
@@ -52138,9 +52138,10 @@
       "type": "Feature",
       "id": "node/3019342405",
       "properties": {
+        "addr:place": "Cangbagsa",
         "amenity": "dive_centre",
-        "name": "Flora's Dive & Resort",
-        "tourism": "hotel",
+        "noname": "yes",
+        "operator": "Flora's Dive & Resort",
         "id": "node/3019342405"
       },
       "geometry": {
@@ -59748,11 +59749,11 @@
       "type": "Feature",
       "id": "node/4327577792",
       "properties": {
+        "addr:city": "Mambajao",
         "addr:housename": "Kurma",
         "addr:postcode": "9100",
         "addr:province": "Camiguin",
         "addr:street": "Camiguin Circumferential Road",
-        "addr:town": "Mambajao",
         "addr:village": "Yumbing",
         "amenity": "dive_centre",
         "contact:email": "live@kurmafreedive.com",
