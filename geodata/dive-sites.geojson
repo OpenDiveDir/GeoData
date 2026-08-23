@@ -14941,7 +14941,7 @@
         "operator": "Granite Diving",
         "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
-        "website": "www.granite-diving.de",
+        "website": "https://www.granite-diving.de",
         "id": "way/46946539"
       },
       "geometry": {
