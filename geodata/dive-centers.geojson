@@ -46447,9 +46447,9 @@
       "type": "Feature",
       "id": "node/1617098871",
       "properties": {
+        "amenity": "dive_centre",
         "name": "Phoenix Diver",
         "shop": "scuba_diving",
-        "sport": "scuba_diving",
         "id": "node/1617098871"
       },
       "geometry": {
@@ -57449,7 +57449,7 @@
       "properties": {
         "email": "cyrille@sub-odyssee.com",
         "name": "Sub Odyssée",
-        "opening_hours": "Mo 13:00-19:00; Tu-Sa 10:00-19:00",
+        "opening_hours": "Mo 10:00-18:00; Tu-Fr 10:00-19:00; Sa 10:00-18:00",
         "payment:cash": "yes",
         "payment:coins": "yes",
         "payment:mastercard": "yes",
@@ -78403,7 +78403,7 @@
         "addr:housenumber": "294A",
         "addr:street": "Joachimsthaler Straße",
         "amenity": "dive_centre",
-        "contact:website": "www.crottentaucher.de",
+        "contact:website": "http://www.crottentaucher.de",
         "name": "Crottentaucher e.V.",
         "sport": "scuba_diving",
         "id": "node/7104604455"
@@ -104473,7 +104473,7 @@
         "mobile": "+401745428223",
         "name": "Into Abyss Technical Diving",
         "official_name": "Into Abyss Technical Diving",
-        "opening_hours": "08 - 2000",
+        "opening_hours": "08:00 - 20:00",
         "scuba_diving:air_filling": "yes",
         "scuba_diving:courses": "yes",
         "scuba_diving:filling": "yes",
@@ -104517,6 +104517,23 @@
         "coordinates": [
           14.3814828,
           50.1309971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14112787313",
+      "properties": {
+        "contact:website": "https://goodvibesdiving.com/",
+        "name": "Good Vibes Diving",
+        "shop": "scuba_diving",
+        "id": "node/14112787313"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0755807,
+          20.626471
         ]
       }
     }
