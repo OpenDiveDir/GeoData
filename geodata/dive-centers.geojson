@@ -104536,6 +104536,26 @@
           20.626471
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14117755318",
+      "properties": {
+        "addr:city": "Moline",
+        "addr:postcode": "61265",
+        "addr:state": "IL",
+        "addr:street": "46th Avenue",
+        "name": "Sentry Scuba",
+        "shop": "scuba_diving",
+        "id": "node/14117755318"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5094561,
+          41.4672447
+        ]
+      }
     }
   ]
 }
