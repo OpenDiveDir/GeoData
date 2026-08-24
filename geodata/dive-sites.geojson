@@ -24699,6 +24699,53 @@
     },
     {
       "type": "Feature",
+      "id": "way/140998875",
+      "properties": {
+        "addr:city": "Bethlehem",
+        "addr:housenumber": "4733",
+        "addr:postcode": "18020",
+        "addr:state": "PA",
+        "addr:street": "Hanoverville Road",
+        "amenity": "food_court",
+        "building": "yes",
+        "name": "Lake Hydra Scuba",
+        "operator": "Dutch Springs",
+        "phone": "+14844642769",
+        "roof:shape": "gabled",
+        "sport": "scuba_diving",
+        "website": "https://www.lakehydra.com/",
+        "id": "way/140998875"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75.3572476,
+              40.6861362
+            ],
+            [
+              -75.3572599,
+              40.6858885
+            ],
+            [
+              -75.3571245,
+              40.6858846
+            ],
+            [
+              -75.3571121,
+              40.6861324
+            ],
+            [
+              -75.3572476,
+              40.6861362
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/141032274",
       "properties": {
         "addr:city": "Orlando",
@@ -59033,225 +59080,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1354094817",
-      "properties": {
-        "location": "underwater",
-        "name": "Route 1",
-        "route": "scuba_diving",
-        "sport": "scuba_diving",
-        "trailblazed": "no",
-        "id": "way/1354094817"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            9.1290983,
-            53.7000731
-          ],
-          [
-            9.1299026,
-            53.7002513
-          ],
-          [
-            9.130026,
-            53.7004967
-          ],
-          [
-            9.1301895,
-            53.7009797
-          ],
-          [
-            9.1302666,
-            53.7013741
-          ],
-          [
-            9.1304012,
-            53.7017885
-          ],
-          [
-            9.1307089,
-            53.7017593
-          ],
-          [
-            9.1309725,
-            53.7016694
-          ],
-          [
-            9.1307893,
-            53.7016148
-          ],
-          [
-            9.1305705,
-            53.7015734
-          ],
-          [
-            9.1303124,
-            53.7015411
-          ],
-          [
-            9.1300973,
-            53.7015131
-          ],
-          [
-            9.1299847,
-            53.7013433
-          ],
-          [
-            9.1299113,
-            53.7010875
-          ],
-          [
-            9.1295761,
-            53.7007298
-          ],
-          [
-            9.1295475,
-            53.7005716
-          ],
-          [
-            9.1295984,
-            53.6999523
-          ],
-          [
-            9.1290983,
-            53.7000731
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1354094819",
-      "properties": {
-        "location": "underwater",
-        "name": "Route 2",
-        "route": "scuba_diving",
-        "sport": "scuba_diving",
-        "trailblazed": "no",
-        "id": "way/1354094819"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            9.12922,
-            53.6994849
-          ],
-          [
-            9.1297839,
-            53.6992739
-          ],
-          [
-            9.1301511,
-            53.6992072
-          ],
-          [
-            9.1302208,
-            53.6991826
-          ],
-          [
-            9.1305843,
-            53.6991143
-          ],
-          [
-            9.1309419,
-            53.6990316
-          ],
-          [
-            9.1310297,
-            53.6988456
-          ],
-          [
-            9.1311484,
-            53.6988073
-          ],
-          [
-            9.1315129,
-            53.6987453
-          ],
-          [
-            9.1314057,
-            53.6986415
-          ],
-          [
-            9.1308675,
-            53.6987964
-          ],
-          [
-            9.130152,
-            53.699078
-          ],
-          [
-            9.1296418,
-            53.6992669
-          ],
-          [
-            9.12922,
-            53.6994849
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1354094824",
-      "properties": {
-        "location": "underwater",
-        "name": "Route 5",
-        "route": "scuba_diving",
-        "sport": "scuba_diving",
-        "trailblazed": "no",
-        "id": "way/1354094824"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            9.1329572,
-            53.7020519
-          ],
-          [
-            9.1334366,
-            53.7014088
-          ],
-          [
-            9.1346523,
-            53.7009109
-          ],
-          [
-            9.1351533,
-            53.7005808
-          ],
-          [
-            9.1351942,
-            53.7004037
-          ],
-          [
-            9.1345801,
-            53.7003579
-          ],
-          [
-            9.1340034,
-            53.7009136
-          ],
-          [
-            9.1333704,
-            53.7012947
-          ],
-          [
-            9.1333146,
-            53.7014268
-          ],
-          [
-            9.1329572,
-            53.7020519
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1455487077",
       "properties": {
         "sport": "scuba_diving",
@@ -62592,23 +62420,6 @@
         "coordinates": [
           13.7177235,
           52.9388523
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/412338381",
-      "properties": {
-        "name": "Lake Hydra",
-        "sport": "scuba_diving",
-        "website": "https://lakehydra.com/",
-        "id": "node/412338381"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.3555338,
-          40.6874129
         ]
       }
     },
@@ -127859,22 +127670,6 @@
         "coordinates": [
           9.1299282,
           53.7002266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/12530518352",
-      "properties": {
-        "name": "Boje Flieger",
-        "seamark:type": "buoy_special_purpose",
-        "id": "node/12530518352"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.1299026,
-          53.7002513
         ]
       }
     },
