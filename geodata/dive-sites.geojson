@@ -91477,8 +91477,10 @@
       "type": "Feature",
       "id": "node/859428681",
       "properties": {
+        "country": "ไทย",
         "name": "อ่าวลึก",
         "name:en": "Ao Luek",
+        "name:th": "อ่าวลึก",
         "natural": "bay",
         "scuba_diving:entry": "boat:shore",
         "scuba_diving:maxdepth": "10",
@@ -91633,6 +91635,7 @@
       "type": "Feature",
       "id": "node/859428997",
       "properties": {
+        "country": "ไทย",
         "name": "Shark Island",
         "scuba_diving:difficulty": "2",
         "scuba_diving:entry": "boat",
@@ -101537,8 +101540,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.2403258,
-          9.3385615
+          -82.2402363,
+          9.3385515
         ]
       }
     },
@@ -101757,8 +101760,10 @@
       "type": "Feature",
       "id": "node/3582426697",
       "properties": {
+        "country": "ไทย",
         "name": "อ่าวหินงาม",
         "name:en": "Ao Hin Ngam",
+        "name:th": "อ่าวหินงาม",
         "natural": "bay",
         "scuba_diving:maxdepth": "18",
         "scuba_diving:mindepth": "5",
@@ -101847,6 +101852,7 @@
       "id": "node/3582426705",
       "properties": {
         "alt_name:en": "Mango Bay",
+        "country": "ไทย",
         "name": "อ่าวม่วง",
         "name:en": "Mango Bay",
         "natural": "bay",
@@ -102079,13 +102085,13 @@
       "id": "node/3649148443",
       "properties": {
         "access": "permissive",
-        "direction": "Entry > 202°",
+        "direction": "22",
         "fee": "no",
         "name": "Émergence de Meyraguet",
         "natural": "cave_entrance",
         "scuba_diving:type": "cavern",
         "sport": "scuba_diving",
-        "url": "http://www.plongeesout.com/sites/roussilon-pyrenees/lot/meyraguet.htm",
+        "wikipedia": "de:Émergence de Meyraguet",
         "id": "node/3649148443"
       },
       "geometry": {
