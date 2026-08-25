@@ -104556,6 +104556,38 @@
           41.4672447
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14120171764",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "Bandol Plongée",
+        "id": "node/14120171764"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7525144,
+          43.1316886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14120561770",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "Deep Ocean Diver",
+        "id": "node/14120561770"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.3230614,
+          28.4027819
+        ]
+      }
     }
   ]
 }
