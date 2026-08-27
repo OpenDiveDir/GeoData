@@ -13119,47 +13119,10 @@
     },
     {
       "type": "Feature",
-      "id": "way/31780510",
-      "properties": {
-        "building": "yes",
-        "name": "Sea Gaia Diving Resort",
-        "sport": "scuba_diving",
-        "tourism": "hotel",
-        "id": "way/31780510"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              121.922291,
-              11.965118
-            ],
-            [
-              121.9223694,
-              11.9650493
-            ],
-            [
-              121.9224687,
-              11.9651347
-            ],
-            [
-              121.9224012,
-              11.9652135
-            ],
-            [
-              121.922291,
-              11.965118
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/31780513",
       "properties": {
         "building": "yes",
+        "building:levels": "1",
         "name": "Free Willly Diving",
         "sport": "scuba_diving",
         "id": "way/31780513"
@@ -13169,24 +13132,28 @@
         "coordinates": [
           [
             [
-              121.9225006,
-              11.964737
+              121.9227186,
+              11.9645408
             ],
             [
-              121.9225504,
-              11.9646569
+              121.9227421,
+              11.9644984
             ],
             [
-              121.9226867,
-              11.9647417
+              121.9228406,
+              11.9645494
             ],
             [
-              121.9226369,
-              11.9648218
+              121.9228147,
+              11.9645947
             ],
             [
-              121.9225006,
-              11.964737
+              121.9228094,
+              11.9645907
+            ],
+            [
+              121.9227186,
+              11.9645408
             ]
           ]
         ]
@@ -38597,46 +38564,6 @@
             [
               18.778713,
               54.6140159
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/284658689",
-      "properties": {
-        "access": "permissive",
-        "description": "Widoczność z brzegu zależna od poziomu morza. Wrak o aluminiowym kadłubie.",
-        "historic": "wreck",
-        "seamark:type": "wreck",
-        "sport": "scuba_diving",
-        "tourism": "attraction",
-        "id": "way/284658689"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              18.7786794,
-              54.6134001
-            ],
-            [
-              18.7785982,
-              54.6132008
-            ],
-            [
-              18.7787032,
-              54.6131864
-            ],
-            [
-              18.7787844,
-              54.6133858
-            ],
-            [
-              18.7786794,
-              54.6134001
             ]
           ]
         ]
@@ -95875,6 +95802,8 @@
         "wikipedia": "fr:France (bateau à aubes)",
         "wreck:date_sunk": "1971-03-12",
         "wreck:depth": "42",
+        "wreck:visible_at_high_tide": "no",
+        "wreck:visible_at_low_tide": "no",
         "id": "node/2366251593"
       },
       "geometry": {
