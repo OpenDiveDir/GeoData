@@ -13121,9 +13121,10 @@
       "type": "Feature",
       "id": "way/31780513",
       "properties": {
-        "building": "yes",
+        "building": "retail",
         "building:levels": "1",
         "name": "Free Willly Diving",
+        "nohousenumber": "yes",
         "sport": "scuba_diving",
         "id": "way/31780513"
       },
@@ -62148,6 +62149,7 @@
       "id": "node/384941960",
       "properties": {
         "name": "Xlendi Tunnel",
+        "name:mt": "L-Għar tax-Xlendi",
         "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
         "id": "node/384941960"
@@ -62181,7 +62183,8 @@
       "type": "Feature",
       "id": "node/387502484",
       "properties": {
-        "name": "The Washing Machine",
+        "name": "Il-Magna tal-Ħasil",
+        "name:en": "The Washing Machine",
         "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
         "website": "https://maltadives.com/sites/washingmachine-xwejnibay/en",
@@ -94475,22 +94478,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/1889229417",
-      "properties": {
-        "name": "Snorkeling",
-        "sport": "scuba_diving",
-        "id": "node/1889229417"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          119.7539356,
-          -8.504462
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/1897541326",
       "properties": {
         "name": "Coral Gardens",
@@ -102452,6 +102439,9 @@
         "scuba_diving:surface:sand": "yes",
         "scuba_diving:type:drift": "yes",
         "scuba_diving:type:sea": "yes",
+        "seamark:mooring:category": "buoy",
+        "seamark:name": "El Fanadir Dacht Dive Spot",
+        "seamark:type": "mooring",
         "sport": "scuba_diving",
         "survey:date": "2018-06-10",
         "id": "node/3755841121"
@@ -102495,6 +102485,9 @@
         "description": "mooring place for dive boats",
         "name": "Dorfa El Fanus West",
         "note": "alt_name:source \"Red Sea Partner\"",
+        "seamark:mooring:category": "buoy",
+        "seamark:name": "Dorfa El Fanus West",
+        "seamark:type": "mooring",
         "sport": "scuba_diving",
         "survey:date": "2015-09-18",
         "id": "node/3756288582"
@@ -105712,7 +105705,8 @@
       "type": "Feature",
       "id": "node/4159831394",
       "properties": {
-        "name": "Lantern Point West Dive Site",
+        "name": "Ras l-Irqiqa Punent (Għadis)",
+        "name:en": "Lantern Point West Dive Site",
         "sport": "scuba_diving",
         "tourism": "attraction",
         "wheelchair": "no",
@@ -105730,7 +105724,8 @@
       "type": "Feature",
       "id": "node/4159831395",
       "properties": {
-        "name": "Lantern Point Dive Site",
+        "name": "Ras l-Irqiqa (Għadis)",
+        "name:en": "Lantern Point Dive Site",
         "natural": "reef",
         "sport": "scuba_diving",
         "wheelchair": "no",
@@ -105821,6 +105816,7 @@
       "id": "node/4159831400",
       "properties": {
         "name": "Fessej Rock",
+        "name:mt": "Ġebel Fessej",
         "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
         "id": "node/4159831400"
@@ -105838,7 +105834,8 @@
       "id": "node/4159831401",
       "properties": {
         "alt_name": "Middle Finger",
-        "name": "Ras il-Ħobż (Dive Site)",
+        "name": "Ras il-Ħobż (Għadis)",
+        "name:en": "Ras il-Ħobż (Dive Site)",
         "natural": "reef",
         "scuba_diving:depth": "30",
         "sport": "scuba_diving",
@@ -105937,7 +105934,8 @@
       "type": "Feature",
       "id": "node/4159831405",
       "properties": {
-        "name": "Xatt l-Aħmar Reef",
+        "name": "Sikka tax-Xatt l-Aħmar",
+        "name:en": "Xatt l-Aħmar Reed",
         "natural": "reef",
         "sport": "scuba_diving",
         "id": "node/4159831405"
@@ -113801,7 +113799,8 @@
       "type": "Feature",
       "id": "node/6239720385",
       "properties": {
-        "name": "Billinghurst Cave",
+        "name": "Għar Billinghurst",
+        "name:en": "Billinghurst Cave",
         "natural": "cave_entrance",
         "scuba_diving:depth": "20",
         "scuba_diving:entry": "ladder",
@@ -131425,7 +131424,8 @@
       "type": "Feature",
       "id": "node/13624763580",
       "properties": {
-        "name": "Xwejni Bay",
+        "name": "Il-Bajja tax-Xwejni",
+        "name:en": "Xwejni Bay",
         "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
         "id": "node/13624763580"
@@ -131442,7 +131442,8 @@
       "type": "Feature",
       "id": "node/13624763581",
       "properties": {
-        "name": "Qbajjar Reef",
+        "name": "Is-Sikka tal-Qbajjar",
+        "name:en": "Qbajjar Reef",
         "scuba_diving:divespot": "yes",
         "shower": "yes",
         "sport": "scuba_diving",
