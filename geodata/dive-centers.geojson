@@ -18977,6 +18977,7 @@
         "addr:street": "Víctor Emilio Estrada S",
         "building": "yes",
         "name": "Ocean Reef",
+        "opening_hours": "Mo-Fr 09:30-18:30; Sa 09:30-13:30; Su off",
         "shop": "scuba_diving",
         "source": "Reconocimiento cartográfico por KG 2016",
         "id": "way/434301244"
@@ -43507,11 +43508,17 @@
       "type": "Feature",
       "id": "node/706171535",
       "properties": {
+        "addr:city": "Denkendorf",
+        "addr:housenumber": "5",
+        "addr:postcode": "73770",
+        "addr:street": "Marie-Curie-Straße",
         "amenity": "dive_centre",
+        "email": "info@tsc-esslingen.de",
         "name": "Tauchsportcenter Esslingen",
-        "phone": "+49 711 9183222",
+        "opening_hours": "Mo-Fr 10:00-19:00; Sa 10:00-16:00; Su off; PH off; Dec 24 off; Dec 31 off",
+        "phone": "+497119183222",
         "shop": "scuba_diving",
-        "website": "https://www.tauchturm.com/",
+        "website": "https://tsc-esslingen.de/",
         "id": "node/706171535"
       },
       "geometry": {
@@ -47383,6 +47390,22 @@
         "coordinates": [
           167.1757777,
           -15.5148588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/1889229417",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "Snorkeling",
+        "id": "node/1889229417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.7539356,
+          -8.504462
         ]
       }
     },
@@ -51317,6 +51340,22 @@
         "coordinates": [
           14.4988733,
           35.9180032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2805317086",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "Snorkling Spot",
+        "id": "node/2805317086"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.8393247,
+          -8.4836402
         ]
       }
     },
@@ -61114,27 +61153,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/4486242190",
-      "properties": {
-        "addr:city": "Malay",
-        "addr:island": "Boracay",
-        "addr:place": "Station 1",
-        "addr:postcode": "5608",
-        "addr:province": "Aklan",
-        "amenity": "dive_centre",
-        "name": "Viking Dive Center",
-        "id": "node/4486242190"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          121.9233567,
-          11.9636882
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/4486360579",
       "properties": {
         "addr:housenumber": "1",
@@ -63730,8 +63748,8 @@
         "contact:facebook": "KesamDiveBoracay",
         "email": "scuba3439@gmail.com",
         "mobile": "+639062618427",
-        "name": "BORACAY KESAM DIVE",
-        "name:en": "Boracay KESAM DIVE",
+        "name": "KESAM DIVE",
+        "name:en": "Kesam Dive",
         "name:ko": "보라카이 케삼 다이브",
         "opening_hours": "Mo-Su 08:00-17:00",
         "operator": "Ke&Sam Dive Corporation",
@@ -63745,8 +63763,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.9231582,
-          11.9644306
+          121.9229769,
+          11.9645461
         ]
       }
     },
@@ -66296,7 +66314,7 @@
         "addr:unit": "Deep Turtle Sàrl",
         "email": "info@deep-turtle.com",
         "name": "Deep Turtle",
-        "opening_hours": "Mo off, Tu-We 14:00-18:30, Th 14:00-19:30, Fr 14:00-18:30, Sa 9:00-17:00, Su off",
+        "opening_hours": "Tu-Fr 14:00-18:30; Sa 09:00-17:00",
         "operator": "Deep Turtle",
         "phone": "+41 21 802 57 43",
         "shop": "scuba_diving",
@@ -70317,8 +70335,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          81.2187706,
-          8.6138974
+          81.2187974,
+          8.6139849
         ]
       }
     },
@@ -83287,6 +83305,9 @@
       "type": "Feature",
       "id": "node/8777987193",
       "properties": {
+        "addr:housenumber": "2",
+        "addr:street": "Oatley Court",
+        "addr:unit": "2",
         "check_date": "2026-05-13",
         "name": "In depth Scuba",
         "shop": "scuba_diving",
@@ -87659,12 +87680,17 @@
         "addr:state": "CA",
         "addr:street": "West Tower Avenue",
         "alt_name": "DOER",
+        "check_date": "2026-08-27",
         "name": "Deep Ocean Explore Store",
         "opening_hours": "Mo-Fr 14:00-18:00; Sa 12:00-18:00; Su 15:00-18:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
         "phone": "+1-510-626-9044",
         "scuba_diving:courses": "yes",
         "shop": "scuba_diving",
         "website": "https://www.deepoceanexplorestore.com/",
+        "wheelchair": "yes",
         "id": "node/9993808051"
       },
       "geometry": {
@@ -104586,6 +104612,120 @@
         "coordinates": [
           -16.3230614,
           28.4027819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14122856842",
+      "properties": {
+        "addr:housenumber": "6",
+        "addr:street": "Av. Colón",
+        "amenity": "dive_centre",
+        "name": "Macaronesian Divers",
+        "phone": "+34922102911",
+        "website": "https://macaronesiandivers.com/",
+        "id": "node/14122856842"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.3236575,
+          28.4017608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14131419678",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "MDQ Buceo",
+        "id": "node/14131419678"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.5578293,
+          -38.0588889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14131656896",
+      "properties": {
+        "addr:city": "Ilsfeld",
+        "addr:housenumber": "39",
+        "addr:postcode": "74360",
+        "addr:street": "Eisenbahnstraße",
+        "amenity": "dive_centre",
+        "email": "mail@scubaonline.de",
+        "name": "scubaonline",
+        "opening_hours": "We-Fr 12:00-17:00; PH off",
+        "operator": "Fred Hartmann & Tobias Döring GbR",
+        "phone": "+4970626649913",
+        "scuba_diving:air_filling": "yes",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:rental": "yes",
+        "website": "https://scubaonline.de/",
+        "wheelchair": "yes",
+        "id": "node/14131656896"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2780524,
+          49.0553407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14132303890",
+      "properties": {
+        "name": "Scuba Price",
+        "shop": "scuba_diving",
+        "id": "node/14132303890"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0890786,
+          20.6213401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14132303896",
+      "properties": {
+        "description": "cave diving",
+        "name": "Zotz Scuba Diving",
+        "shop": "scuba_diving",
+        "id": "node/14132303896"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0912616,
+          20.6209859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14132338837",
+      "properties": {
+        "name": "Dive Rite",
+        "shop": "scuba_diving",
+        "id": "node/14132338837"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0911769,
+          20.6210384
         ]
       }
     }
