@@ -63763,8 +63763,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.9229769,
-          11.9645461
+          121.9229538,
+          11.964528
         ]
       }
     },
@@ -104708,8 +104708,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.0912616,
-          20.6209859
+          -87.091269,
+          20.620969
         ]
       }
     },
@@ -104724,8 +104724,73 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.0911769,
-          20.6210384
+          -87.0911347,
+          20.6210004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14132967048",
+      "properties": {
+        "addr:city": "Linardići",
+        "addr:housenumber": "128",
+        "addr:postcode": "51500",
+        "addr:street": "Linardići",
+        "amenity": "dive_centre",
+        "contact:facebook": "https://www.facebook.com/buborekbuvarkozpont",
+        "email": "buborek@buborek.hu",
+        "mobile": "+36 70 469 9314",
+        "name": "Buborék Búvárbázis",
+        "nat_name": "Buborek Dive Center",
+        "opening_hours": "Mo-Su 08:00-22:00",
+        "operator": "Buborék",
+        "scuba_diving:air_filling": "yes",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:filling": "yes",
+        "scuba_diving:hobby": "yes",
+        "scuba_diving:nitrox_filling": "yes",
+        "scuba_diving:rental": "yes",
+        "website": "https://buborek.hu",
+        "id": "node/14132967048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4657226,
+          45.0769692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14134171370",
+      "properties": {
+        "name": "Ocean Therapy Scuba",
+        "shop": "scuba_diving",
+        "id": "node/14134171370"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.862647,
+          21.3084093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14134356973",
+      "properties": {
+        "name": "Universal Diver",
+        "shop": "scuba_diving",
+        "id": "node/14134356973"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.7383826,
+          5.8944637
         ]
       }
     }
