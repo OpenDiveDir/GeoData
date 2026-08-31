@@ -77773,7 +77773,8 @@
       "id": "node/6925293630",
       "properties": {
         "amenity": "dive_centre",
-        "name": "H20 Dive center",
+        "check_date": "2026-08-30",
+        "name": "H20 Lisbon Dive Club",
         "id": "node/6925293630"
       },
       "geometry": {
@@ -96419,7 +96420,6 @@
         "addr:city": "Playa del Carmen",
         "addr:postcode": "77720",
         "addr:street": "Calle Flamingos",
-        "amenity": "dive_centre",
         "contact:facebook": "https://www.facebook.com/xicodivecenter/",
         "email": "info@xicodivecenter.com",
         "name": "Xico Dive Center",
@@ -96431,6 +96431,7 @@
         "scuba_diving:nitrox_filling": "yes",
         "scuba_diving:rental": "yes",
         "scuba_diving:repair": "yes",
+        "shop": "scuba_diving",
         "website": "https://xicodivecenter.com/",
         "id": "node/12152140525"
       },
@@ -104724,8 +104725,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.0911347,
-          20.6210004
+          -87.0911058,
+          20.6209753
         ]
       }
     },
