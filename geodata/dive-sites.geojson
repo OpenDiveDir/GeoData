@@ -105952,7 +105952,8 @@
       "type": "Feature",
       "id": "node/4159831406",
       "properties": {
-        "name": "Ta' Ċenċ Dive Site",
+        "name": "Ta' Ċenċ (Għadis)",
+        "name:en": "Ta' Ċenċ Dive Site",
         "sport": "scuba_diving",
         "tourism": "attraction",
         "id": "node/4159831406"
@@ -105987,7 +105988,8 @@
       "type": "Feature",
       "id": "node/4159831409",
       "properties": {
-        "name": "Cirkewwa - Right Arch (Dive Site)",
+        "name": "Iċ-Ċirkewwa - Arkata Leminija (Għadis)",
+        "name:en": "Ċirkewwa - Right Arch (Dive Site)",
         "natural": "reef",
         "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
