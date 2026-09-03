@@ -19501,28 +19501,24 @@
         "coordinates": [
           [
             [
-              3.4616753,
-              39.7203705
+              3.4616772,
+              39.7203567
             ],
             [
-              3.4615852,
-              39.7203457
+              3.4615957,
+              39.7203323
             ],
             [
-              3.4616815,
-              39.7201526
+              3.4616958,
+              39.7201341
             ],
             [
-              3.4617351,
-              39.7201652
+              3.4617773,
+              39.7201584
             ],
             [
-              3.4617652,
-              39.7201722
-            ],
-            [
-              3.4616753,
-              39.7203705
+              3.4616772,
+              39.7203567
             ]
           ]
         ]
@@ -42039,22 +42035,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/299664596",
-      "properties": {
-        "amenity": "dive_centre",
-        "name": "CB Seadive",
-        "id": "node/299664596"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -16.3233895,
-          28.4017358
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/306090905",
       "properties": {
         "name": "Extra Divers Gozo",
@@ -47135,8 +47115,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -25.4298917,
-          37.7154688
+          -25.4299161,
+          37.7154809
         ]
       }
     },
@@ -48306,6 +48286,35 @@
         "coordinates": [
           -16.7357446,
           28.0783533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2112308446",
+      "properties": {
+        "addr:city": "Zielona Góra",
+        "addr:housenumber": "2a",
+        "addr:street": "Fabryczna",
+        "amenity": "dive_centre",
+        "contact:facebook": "https://www.facebook.com/p/DiveFlow-szko%C5%82a-nurkowania-i-wyprawy-61581843010378/",
+        "contact:instagram": "https://www.instagram.com/diveflow.nurkowanie",
+        "contact:youtube": "https://www.youtube.com/@diveflow_com_pl",
+        "email": "info@diveflow.com.pl",
+        "image": "https://photos.app.goo.gl/7VL1ztcRMEiLk2XR8",
+        "name": "DiveFlow -szkoła nurkowania i wyprawy",
+        "name:pl": "Nurkowanie-szkoła nurkowania i wyprawy",
+        "phone": "+48 881 181 881",
+        "source": "UM Zielona Góra",
+        "url": "https://lubuskie.fotopolska.eu/Owocowa_3_Zielona_Gora?map_z=18",
+        "website": "https://diveflow.com.pl/",
+        "id": "node/2112308446"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5021228,
+          51.9354719
         ]
       }
     },
@@ -94750,12 +94759,16 @@
         "addr:postcode": "96813",
         "addr:state": "HI",
         "addr:street": "Aloha Tower Drive",
-        "addr:unit": "Suite 1123",
+        "addr:unit": "1123",
+        "check_date": "2026-09-02",
         "contact:facebook": "https://www.facebook.com/tridentadventures/",
         "contact:instagram": "https://www.instagram.com/tridentadventureshawaii/",
-        "description:en": "Trident Adventures offers unparalleled scuba diving and snorkeling experiences in Oahu, Hawaii, under the guidance of highly-trained professionals, including former Navy SEALs.",
+        "contact:tiktok": "https://tiktok.com/@tridentadventures",
+        "contact:yelp": "https://www.yelp.com/biz/trident-adventures-honolulu",
+        "contact:youtube": "https://www.youtube.com/@TridentAdventures",
+        "email": "dive@tridentadventures.com",
         "name": "Trident Adventures",
-        "opening_hours": "Tu-Sa 09:00-18:00",
+        "opening_hours": "Mo-Sa 09:00-18:00; Su 09:00-15:00",
         "phone": "+1-808-762-3483",
         "shop": "scuba_diving",
         "website": "https://tridentadventures.com/",
@@ -104497,7 +104510,7 @@
         "contact:instagram": "https://www.instagram.com/intoabyss.de/",
         "email": "Diving@intobyss.de",
         "image": "https://lh3.googleusercontent.com/SnWlPZ7vbpvpLzw7dkZYFczIhPPVIFaAxjlH3bPrxkbSFQPYBMpJdxX5tYrmNJ1V4JjumSpbtvDj27jEaA=w1694",
-        "mobile": "+401745428223",
+        "mobile": "+49 174 5428223",
         "name": "Into Abyss Technical Diving",
         "official_name": "Into Abyss Technical Diving",
         "opening_hours": "08:00 - 20:00",
@@ -104624,6 +104637,7 @@
         "addr:street": "Av. Colón",
         "amenity": "dive_centre",
         "name": "Macaronesian Divers",
+        "opening_hours": "Mo-Fr 09:00-13:30,16:00-19:00; Sa 08:30-14:30",
         "phone": "+34922102911",
         "website": "https://macaronesiandivers.com/",
         "id": "node/14122856842"
@@ -104782,7 +104796,7 @@
         "email": "Info@Oceantherapycharters.com",
         "level": "0",
         "name": "Ocean Therapy Scuba",
-        "phone": "+1 (808) 336-2194",
+        "phone": "+1-808-336-2194",
         "shop": "scuba_diving",
         "website": "https://www.oceantherapycharters.com/",
         "id": "node/14134171370"
@@ -104808,6 +104822,22 @@
         "coordinates": [
           102.7383826,
           5.8944637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14143099899",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "Diving Canarias",
+        "id": "node/14143099899"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.3235918,
+          28.4018416
         ]
       }
     }
