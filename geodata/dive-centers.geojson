@@ -48658,27 +48658,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/2246548184",
-      "properties": {
-        "addr:city": "Sharm-el-Sheikh",
-        "addr:street": "King Abdullah Street",
-        "amenity": "dive_centre",
-        "name": "Emperor Divers Sharm El Sheikh",
-        "operator": "Emperor Divers",
-        "phone": "012 23502433",
-        "website": "https://www.emperordivers.com/",
-        "id": "node/2246548184"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          34.3210084,
-          27.9096799
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/2261288290",
       "properties": {
         "addr:city": "Potsdam",
@@ -104827,6 +104806,31 @@
     },
     {
       "type": "Feature",
+      "id": "node/14140806101",
+      "properties": {
+        "addr:street": "El-Amir Abd Allah, Sharm El Sheikh  South Sinai Governorate,",
+        "amenity": "dive_centre",
+        "image": "https://disk.yandex.ru/d/q_3IHV4b7vo2Gw",
+        "name": "EASY DIVERS",
+        "name:en": "EASY DIVERS",
+        "name:ru": "EASY DIVERS",
+        "opening_hours": "Mo-Su 09:00-19:00",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "phone": "+201228779788",
+        "website": "http://www.eazydivers.com",
+        "id": "node/14140806101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.3210424,
+          27.9097318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/14143099899",
       "properties": {
         "amenity": "dive_centre",
@@ -104838,6 +104842,107 @@
         "coordinates": [
           -16.3235918,
           28.4018416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14148751149",
+      "properties": {
+        "name": "Subacqua supplies services",
+        "shop": "scuba_diving",
+        "id": "node/14148751149"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4896966,
+          35.9010875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14152518030",
+      "properties": {
+        "addr:city": "La Paz",
+        "addr:postcode": "23010",
+        "addr:state": "Baja California Sur",
+        "addr:street": "Marina Palmira, Carretera a Pichilingue km 2.5-Local 6,  La Paz, B.C.S., México",
+        "amenity": "dive_centre",
+        "contact:facebook": "https://www.facebook.com/sealionsdive/",
+        "contact:instagram": "https://www.instagram.com/sealionsdive/",
+        "email": "info@sealionsdive.com",
+        "name": "La Paz Sea Lions Dive Center",
+        "phone": "+526121516998",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:hobby": "yes",
+        "website": "https://sealionsdive.com/",
+        "id": "node/14152518030"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.3024417,
+          24.1839595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14152526100",
+      "properties": {
+        "addr:city": "La Paz",
+        "addr:housenumber": "km2,5",
+        "addr:neighbourhood": "Local 1 & 2 Marina Palmira",
+        "addr:postcode": "23010",
+        "addr:state": "Baja California Sur",
+        "addr:street": "Carretera La Paz-Pichilingue",
+        "amenity": "dive_centre",
+        "contact:facebook": "https://www.facebook.com/thedivegurus",
+        "contact:instagram": "https://www.instagram.com/thedivegurusmex/",
+        "email": "info@thedivegurus.com",
+        "name": "The Dive Gurus",
+        "phone": "+52 612 141 9895",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:hobby": "yes",
+        "website": "https://www.thedivegurus.com/",
+        "id": "node/14152526100"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.3022679,
+          24.1839734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14152574679",
+      "properties": {
+        "addr:city": "La Paz",
+        "addr:housenumber": "3040",
+        "addr:neighbourhood": "Marina La Paz",
+        "addr:postcode": "23000",
+        "addr:state": "Baja California Sur",
+        "addr:street": "Calle Topete",
+        "amenity": "dive_centre",
+        "contact:facebook": "https://es-la.facebook.com/buceocarey/",
+        "contact:instagram": "https://www.instagram.com/carey.divecenter/?hl=es",
+        "email": "info@buceocarey.com",
+        "name": "Carey Dive Center",
+        "phone": "+52 624 125 0011",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:hobby": "yes",
+        "website": "https://buceocarey.com.mx/",
+        "id": "node/14152574679"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.3253439,
+          24.1545874
         ]
       }
     }
