@@ -12840,7 +12840,7 @@
         "building:colour": "blue",
         "building:levels": "5",
         "changing_table": "yes",
-        "check_date": "2025-02-25",
+        "check_date": "2026-09-05",
         "contact:facebook": "georgiaaquarium",
         "contact:instagram": "georgiaaquarium",
         "contact:linkedin": "https://www.linkedin.com/company/georgia-aquarium",
@@ -37516,23 +37516,27 @@
         "coordinates": [
           [
             [
-              2.1649101,
-              41.3693765
+              2.1649161,
+              41.3693702
             ],
             [
-              2.1649115,
-              41.3695989
+              2.1649188,
+              41.3696036
             ],
             [
-              2.164613,
-              41.3696
+              2.1646079,
+              41.3696058
             ],
             [
-              2.1646128,
-              41.3695802
+              2.1646083,
+              41.3695798
             ],
             [
-              2.1646125,
+              2.164614,
+              41.3695797
+            ],
+            [
+              2.1646134,
               41.3695284
             ],
             [
@@ -37540,24 +37544,28 @@
               41.3695283
             ],
             [
-              2.1646284,
-              41.3694537
+              2.1646294,
+              41.3694528
             ],
             [
               2.1646115,
-              41.3694538
+              41.3694529
             ],
             [
-              2.1646112,
-              41.3694023
+              2.1646116,
+              41.3694017
             ],
             [
-              2.164611,
-              41.3693775
+              2.164606,
+              41.3694018
             ],
             [
-              2.1649101,
-              41.3693765
+              2.1646061,
+              41.3693732
+            ],
+            [
+              2.1649161,
+              41.3693702
             ]
           ]
         ]
@@ -52919,6 +52927,7 @@
         "access": "permit",
         "building": "tower",
         "height": "10",
+        "layer": "1",
         "lit": "yes",
         "man_made": "tower",
         "material": "concrete",
@@ -52932,8 +52941,8 @@
         "coordinates": [
           [
             [
-              2.1645505,
-              41.3695802
+              2.1645506,
+              41.3695797
             ],
             [
               2.1645505,
@@ -52944,44 +52953,52 @@
               41.3695281
             ],
             [
-              2.1645416,
-              41.3694517
+              2.1645419,
+              41.3694512
+            ],
+            [
+              2.1645492,
+              41.3694511
             ],
             [
               2.1645483,
-              41.3694517
+              41.3694024
             ],
             [
-              2.1645483,
-              41.3694023
+              2.164606,
+              41.3694018
             ],
             [
-              2.1646112,
-              41.3694023
+              2.1646116,
+              41.3694017
             ],
             [
               2.1646115,
-              41.3694538
+              41.3694529
             ],
             [
-              2.1646284,
-              41.3694537
+              2.1646294,
+              41.3694528
             ],
             [
               2.1646289,
               41.3695283
             ],
             [
-              2.1646125,
+              2.1646134,
               41.3695284
             ],
             [
-              2.1646128,
-              41.3695802
+              2.164614,
+              41.3695797
             ],
             [
-              2.1645505,
-              41.3695802
+              2.1646083,
+              41.3695798
+            ],
+            [
+              2.1645506,
+              41.3695797
             ]
           ]
         ]
@@ -62091,7 +62108,8 @@
       "id": "node/384934491",
       "properties": {
         "description": "entry/exit ladder",
-        "name": "Billinghurst Cave",
+        "name": "Għar Ħanżira",
+        "name:en": "Billinghurst Cave",
         "natural": "cliff",
         "sport": "scuba_diving",
         "id": "node/384934491"
@@ -62108,7 +62126,7 @@
       "type": "Feature",
       "id": "node/384935638",
       "properties": {
-        "name": "Għar il-Katidral",
+        "name": "Għar ir-Riħ",
         "name:en": "Cathedral Cave",
         "natural": "cave_entrance",
         "scuba_diving:divespot": "yes",
@@ -102529,7 +102547,8 @@
       "type": "Feature",
       "id": "node/3767235079",
       "properties": {
-        "name": "Santa Marija Caves Dive Site",
+        "name": "L-Għerien tal-Imnieri (Għadis)",
+        "name:en": "Santa Marija Caves (Dive Site)",
         "natural": "reef",
         "sport": "scuba_diving",
         "tourism": "attraction",
@@ -105670,7 +105689,8 @@
       "type": "Feature",
       "id": "node/4159831392",
       "properties": {
-        "name": "Crystal Lagoon Dive Site",
+        "name": "Il-Bejta tal-Fenek (Għadis)",
+        "name:en": "Crystal Lagoon (Dive Site)",
         "natural": "reef",
         "sport": "scuba_diving",
         "id": "node/4159831392"
@@ -105779,7 +105799,8 @@
       "type": "Feature",
       "id": "node/4159831398",
       "properties": {
-        "name": "Santa Marija Reef Dive Site",
+        "name": "Sikka ta' Santa Marija (Għadis)",
+        "name:en": "Santa Maria Reef (Dive Site)",
         "sport": "scuba_diving",
         "tourism": "attraction",
         "id": "node/4159831398"
@@ -113801,7 +113822,7 @@
       "type": "Feature",
       "id": "node/6239720385",
       "properties": {
-        "name": "Għar Billinghurst",
+        "name": "Għar Ħanżira",
         "name:en": "Billinghurst Cave",
         "natural": "cave_entrance",
         "scuba_diving:depth": "20",
