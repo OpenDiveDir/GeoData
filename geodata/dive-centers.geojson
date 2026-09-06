@@ -19490,42 +19490,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/448654308",
-      "properties": {
-        "building": "yes",
-        "shop": "scuba_diving",
-        "id": "way/448654308"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              3.4616772,
-              39.7203567
-            ],
-            [
-              3.4615957,
-              39.7203323
-            ],
-            [
-              3.4616958,
-              39.7201341
-            ],
-            [
-              3.4617773,
-              39.7201584
-            ],
-            [
-              3.4616772,
-              39.7203567
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/451281679",
       "properties": {
         "addr:housenumber": "1571",
@@ -41979,6 +41943,7 @@
         "scuba_diving:education": "yes",
         "scuba_diving:equipment": "yes",
         "scuba_diving:spoken_languages": "EN",
+        "shop": "scuba_diving",
         "sport": "water_sports",
         "id": "node/298617619"
       },
@@ -104182,8 +104147,8 @@
         "addr:street": "Boulevard Kukulcán",
         "amenity": "dive_centre",
         "name": "Manta Dive & Snorkel Cancun",
-        "opening_hours": "Mo-Sa 08:00-18:00",
-        "phone": "+52 998 842 9368",
+        "opening_hours": "Mo-Su 08:00-18:00",
+        "phone": "+52 998 238 2116",
         "scuba_diving:air_filling": "yes",
         "scuba_diving:courses": "yes",
         "website": "https://www.mantadivers.com",
