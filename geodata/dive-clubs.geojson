@@ -1880,6 +1880,40 @@
     },
     {
       "type": "Feature",
+      "id": "node/5017720023",
+      "properties": {
+        "addr:city": "Cambrils",
+        "addr:housenumber": "38",
+        "addr:postcode": "43850",
+        "addr:street": "Avinguda de la Diputació",
+        "addr:unit": "2",
+        "check_date": "2026-09-06",
+        "club": "scuba_diving",
+        "contact:facebook": "https://es-es.facebook.com/glupsdiving/",
+        "contact:twitter": "GLUPSDIVING",
+        "email": "buceo@glupsdiving.com",
+        "mobile": "+34 605 820 107",
+        "name": "Glups Diving",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 09:00-14:00, 17:00-19:00",
+        "phone": "+34 977 79 18 28",
+        "sport": "scuba_diving",
+        "start_date": "1998",
+        "website": "https://glupsdiving.com/",
+        "wheelchair": "limited",
+        "wheelchair:description": "Entrant-hi des dol vorera de l'Av.Diputació hi ha unes escales sense rampa. Aquestes escales es poden salvar a través d'un parell de rampes que hi ha al C/N.Sra. del Pilar, però es força tomb... A més, hi ha un petit escaló just abans d'entrar al local.",
+        "wheelchair:description:ca": "Entrant-hi des dol vorera de l'Av.Diputació hi ha unes escales sense rampa. Aquestes escales es poden salvar a través d'un parell de rampes que hi ha al C/N.Sra. del Pilar, però es força tomb... A més, hi ha un petit escaló just abans d'entrar al local.",
+        "id": "node/5017720023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0780043,
+          41.0649409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/5074133015",
       "properties": {
         "club": "scuba_diving",
