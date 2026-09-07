@@ -104910,6 +104910,34 @@
           24.1545874
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14157698968",
+      "properties": {
+        "addr:city": "宜野湾市",
+        "addr:housenumber": "558-16",
+        "addr:neighbourhood": "宇地泊三丁目",
+        "addr:postcode": "901-2227",
+        "addr:province": "沖縄県",
+        "contact:phone": "+81-98-963-9345",
+        "contact:website": "https://www.pirates-okinawa.com",
+        "level": "0",
+        "level:ref": "1F",
+        "name": "パイレーツおきなわ",
+        "name:en": "Pirates Okinawa",
+        "name:ja": "パイレーツおきなわ",
+        "official_name": "株式会社　パイレーツ",
+        "shop": "scuba_diving",
+        "id": "node/14157698968"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7281462,
+          26.2727567
+        ]
+      }
     }
   ]
 }
