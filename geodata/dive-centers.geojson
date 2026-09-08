@@ -18817,6 +18817,8 @@
       "type": "Feature",
       "id": "way/429918950",
       "properties": {
+        "addr:housenumber": "52",
+        "addr:street": "Luke",
         "amenity": "dive_centre",
         "building": "yes",
         "name": "Aquanaut Diving Centar Murter",
@@ -41045,6 +41047,71 @@
             [
               124.0019318,
               10.286289
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1556816251",
+      "properties": {
+        "amenity": "dive_centre",
+        "building": "yes",
+        "email": "divingc@inter.net.il",
+        "fax": "04-6361507",
+        "name": "מועדון צלילה קיסריה העתיקה",
+        "name:en": "Old Caesarea Diving Center",
+        "name:he": "מועדון צלילה קיסריה העתיקה",
+        "phone": "04-6265898",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:hobby": "yes",
+        "website": "http://caesarea-diving.com/",
+        "id": "way/1556816251"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              34.88948,
+              32.502047
+            ],
+            [
+              34.8893442,
+              32.5021006
+            ],
+            [
+              34.8893029,
+              32.5021169
+            ],
+            [
+              34.8892778,
+              32.5020716
+            ],
+            [
+              34.8893058,
+              32.5020605
+            ],
+            [
+              34.8892941,
+              32.5020395
+            ],
+            [
+              34.8893748,
+              32.5019622
+            ],
+            [
+              34.8894225,
+              32.5019434
+            ],
+            [
+              34.8894464,
+              32.5019865
+            ],
+            [
+              34.88948,
+              32.502047
             ]
           ]
         ]
