@@ -3174,7 +3174,8 @@
         "addr:postcode": "8610",
         "addr:street": "Apothekerstrasse",
         "building": "commercial",
-        "check_date": "2025-05-28",
+        "check_date": "2026-09-11",
+        "check_date:opening_hours": "2026-09-11",
         "contact:website": "https://www.tauchsportuster.ch/",
         "level": "0",
         "name": "Tauchsport Uster",
@@ -98831,23 +98832,6 @@
         "coordinates": [
           -115.2774663,
           36.0216351
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/12784228708",
-      "properties": {
-        "amenity": "dive_centre",
-        "check_date": "2025-04-24",
-        "name": "Mares Diving Center",
-        "id": "node/12784228708"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -9.1154936,
-          38.4350703
         ]
       }
     },
