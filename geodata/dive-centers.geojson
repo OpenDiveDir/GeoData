@@ -41120,6 +41120,48 @@
     },
     {
       "type": "Feature",
+      "id": "way/1558369914",
+      "properties": {
+        "addr:city": "Altea",
+        "addr:housenumber": "9",
+        "addr:postcode": "03590",
+        "addr:street": "Carrer Comte d'Altea",
+        "building": "yes",
+        "name": "NORAY SPORT - Buceo y pesca",
+        "opening_hours": "10:00 a 14:00 y 17:00 a 20:30",
+        "shop": "scuba_diving",
+        "id": "way/1558369914"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.0475347,
+              38.6007289
+            ],
+            [
+              -0.0475815,
+              38.6006792
+            ],
+            [
+              -0.0474574,
+              38.600616
+            ],
+            [
+              -0.0474127,
+              38.6006641
+            ],
+            [
+              -0.0475347,
+              38.6007289
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/26772598",
       "properties": {
         "name": "Blue Ocean Diving",
