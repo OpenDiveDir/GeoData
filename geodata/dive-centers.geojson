@@ -80268,8 +80268,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.9748202,
-          32.8667468
+          -79.9745194,
+          32.8668072
         ]
       }
     },
@@ -105074,6 +105074,35 @@
         "coordinates": [
           23.7037526,
           37.950435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14177504579",
+      "properties": {
+        "addr:district": "Koh Phangan",
+        "addr:housenumber": "68",
+        "addr:postcode": "84360",
+        "addr:province": "Surat Thani",
+        "addr:street": "Sairee Rd",
+        "addr:subdistrict": "Ko Tao",
+        "amenity": "dive_centre",
+        "contact:facebook": "https://www.facebook.com/FlowDiversKohTao",
+        "contact:instagram": "https://www.instagram.com/flowdiverskohtao/",
+        "email": "info@flowdivers.com",
+        "mobile": "+66 82 679 2382",
+        "name": "Flow Divers",
+        "opening_hours": "08:00-18:00",
+        "scuba_diving:courses": "yes",
+        "website": "https://flowdivers.com/",
+        "id": "node/14177504579"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.8375233,
+          10.0969296
         ]
       }
     }
