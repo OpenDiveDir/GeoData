@@ -35209,7 +35209,23 @@
       "properties": {
         "amenity": "dive_centre",
         "building": "yes",
-        "name": "Sea Soul by Omadhoo dive",
+        "contact:instagram": "https://www.instagram.com/omadhoodivetours",
+        "description": "🌊 Omadhoo Dive Tours: Your Underwater Sanctuary in the Maldives\nDiscover the secrets of the Indian Ocean with a premium, exclusive diving experience tailored to your own pace.\n✨ Who We Are\nOmadhoo Dive Tours is a PADI 5 Star Instructor Development Center",
+        "email": "omadhoodivetours@gmail.com",
+        "image": "https://www.omadhoodivetours.com/wp-content/uploads/2026/07/omadhoodivetours-logo_redefinido-150x150.png",
+        "mobile": "+9609194924",
+        "name": "Omadhoo Dive Tours",
+        "operator": "Ismail Thoha",
+        "scuba_diving:air_filling": "yes",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:dive_trips": "yes",
+        "scuba_diving:divevolk": "yes",
+        "scuba_diving:manta_safari": "yes",
+        "scuba_diving:open_water_diver": "yes",
+        "scuba_diving:padi": "yes",
+        "scuba_diving:repair": "yes",
+        "scuba_diving:scubapro": "yes",
+        "scuba_diving:turtle_safari": "yes",
         "id": "way/1133986313"
       },
       "geometry": {
@@ -105120,6 +105136,23 @@
         "coordinates": [
           25.7154006,
           35.2035413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14184463328",
+      "properties": {
+        "name": "NAUTILUS",
+        "shop": "scuba_diving",
+        "source": "survey",
+        "id": "node/14184463328"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0421154,
+          48.1812801
         ]
       }
     }
