@@ -102627,8 +102627,8 @@
       "type": "Feature",
       "id": "node/3767235079",
       "properties": {
-        "name": "L-Għerien tal-Imnieri (Għadis)",
-        "name:en": "Santa Marija Caves (Dive Site)",
+        "name": "L-Għerien tal-Imnieri",
+        "name:en": "Santa Marija Caves",
         "natural": "reef",
         "sport": "scuba_diving",
         "tourism": "attraction",
@@ -126058,14 +126058,17 @@
         "scuba_diving:divespot": "yes",
         "scuba_diving:entry": "boat",
         "scuba_diving:maxdepth": "40",
+        "seamark:mooring:category": "buoy",
+        "seamark:status": "seasonal",
+        "seamark:type": "mooring",
         "sport": "scuba_diving",
         "id": "node/12132826559"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.2335401,
-          41.9628965
+          3.2331281,
+          41.9624236
         ]
       }
     },
@@ -126087,8 +126090,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.2367038,
-          41.9576006
+          3.2369798,
+          41.9575979
         ]
       }
     },
@@ -126108,8 +126111,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.232246,
-          41.9655825
+          3.2349835,
+          41.9695092
         ]
       }
     },
@@ -126117,19 +126120,22 @@
       "type": "Feature",
       "id": "node/12132826565",
       "properties": {
-        "name": "Cala de Cap sa Sal",
-        "natural": "bay",
+        "name": "Cap sa Sal (Buceig)",
+        "natural": "rock",
         "scuba_diving:difficulty": "2",
+        "scuba_diving:divespot": "yes",
         "scuba_diving:entry": "boat;shore",
         "scuba_diving:maxdepth": "31",
+        "seamark:rock:water_level": "submerged",
+        "seamark:type": "rock",
         "sport": "scuba_diving",
         "id": "node/12132826565"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.2309582,
-          41.9656764
+          3.2325731,
+          41.9655287
         ]
       }
     },
