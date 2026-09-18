@@ -16638,6 +16638,75 @@
     },
     {
       "type": "Feature",
+      "id": "way/388899423",
+      "properties": {
+        "addr:city": "Taviano",
+        "addr:housenumber": "2",
+        "addr:postcode": "73057",
+        "addr:street": "Via G. Leopardi",
+        "building": "yes",
+        "email": "info@centrosubsalento.com",
+        "name": "C.S.S. Centro Sub Salento",
+        "opening_hours": "Mo-Sa 08:00-13:00,16:00-20:00",
+        "phone": "+39 0833 914580",
+        "shop": "scuba_diving",
+        "website": "https://centrosubsalento.it/",
+        "id": "way/388899423"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              18.0823905,
+              39.9798776
+            ],
+            [
+              18.0824589,
+              39.9799019
+            ],
+            [
+              18.0823865,
+              39.9800224
+            ],
+            [
+              18.082264,
+              39.9799788
+            ],
+            [
+              18.0822883,
+              39.9799384
+            ],
+            [
+              18.0822523,
+              39.9799256
+            ],
+            [
+              18.082291,
+              39.9798613
+            ],
+            [
+              18.0823233,
+              39.9798728
+            ],
+            [
+              18.0823435,
+              39.9798394
+            ],
+            [
+              18.0824012,
+              39.9798599
+            ],
+            [
+              18.0823905,
+              39.9798776
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/388939021",
       "properties": {
         "building": "retail",
@@ -41083,7 +41152,7 @@
         "phone": "04-6265898",
         "scuba_diving:courses": "yes",
         "scuba_diving:hobby": "yes",
-        "website": "http://caesarea-diving.com/",
+        "website": "https://caesarea-diving.com/",
         "id": "way/1556816251"
       },
       "geometry": {
@@ -41144,7 +41213,7 @@
         "addr:street": "Carrer Comte d'Altea",
         "building": "yes",
         "name": "NORAY SPORT - Buceo y pesca",
-        "opening_hours": "10:00 a 14:00 y 17:00 a 20:30",
+        "opening_hours": "10:00 - 14:00 , 17:00 - 20:30",
         "shop": "scuba_diving",
         "id": "way/1558369914"
       },
@@ -64842,8 +64911,8 @@
       "properties": {
         "amenity": "dive_centre",
         "contact:email": "paradise@diving-center.gr",
-        "contact:fax": "+30 28310-20464",
-        "contact:phone": "+30 28310-26317",
+        "contact:fax": "+30 2831 020464",
+        "contact:phone": "+30 2831 026317",
         "contact:website": "http://www.diving-center.gr",
         "name": "Paradise Diving Center",
         "id": "node/4915104394"
@@ -66150,6 +66219,23 @@
         "coordinates": [
           9.0271993,
           44.382561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/5080397421",
+      "properties": {
+        "name": "Seattle Scuba",
+        "name:en": "Seattle Scuba",
+        "shop": "scuba_diving",
+        "id": "node/5080397421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.3399758,
+          47.6368107
         ]
       }
     },
@@ -101648,6 +101734,11 @@
       "properties": {
         "amenity": "dive_centre",
         "name": "TGI Diving",
+        "scuba_diving:air_filling": "yes",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:nitrox_filling": "yes",
+        "scuba_diving:rental": "yes",
+        "sport": "scuba_diving",
         "id": "node/13434147996"
       },
       "geometry": {
