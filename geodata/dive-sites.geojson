@@ -69176,9 +69176,9 @@
       "type": "Feature",
       "id": "node/663869533",
       "properties": {
+        "access": "permit",
         "historic": "wreck",
         "name": "Edmund Fitzgerald",
-        "permit": "yes",
         "seamark:type": "wreck",
         "sport": "scuba_diving",
         "wikidata": "Q1286267",
