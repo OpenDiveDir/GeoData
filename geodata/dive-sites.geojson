@@ -105769,9 +105769,11 @@
       "type": "Feature",
       "id": "node/4159831392",
       "properties": {
-        "name": "Il-Bejta tal-Fenek (Għadis)",
-        "name:en": "Crystal Lagoon (Dive Site)",
+        "name": "Il-Bejta tal-Fenek",
+        "name:en": "Crystal Lagoon",
+        "name:mt": "Il-Bejta tal-Fenek",
         "natural": "reef",
+        "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
         "id": "node/4159831392"
       },
@@ -105805,8 +105807,10 @@
       "type": "Feature",
       "id": "node/4159831394",
       "properties": {
-        "name": "Ras l-Irqiqa Punent (Għadis)",
-        "name:en": "Lantern Point West Dive Site",
+        "name": "Ras l-Irqiqa Punent",
+        "name:en": "Lantern Point West",
+        "name:mt": "Ras l-Irqiqa Punent",
+        "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
         "tourism": "attraction",
         "wheelchair": "no",
@@ -105824,9 +105828,11 @@
       "type": "Feature",
       "id": "node/4159831395",
       "properties": {
-        "name": "Ras l-Irqiqa (Għadis)",
-        "name:en": "Lantern Point Dive Site",
+        "name": "Ras l-Irqiqa",
+        "name:en": "Lantern Point",
+        "name:mt": "Ras l-Irqiqa",
         "natural": "reef",
+        "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
         "wheelchair": "no",
         "id": "node/4159831395"
@@ -105879,8 +105885,10 @@
       "type": "Feature",
       "id": "node/4159831398",
       "properties": {
-        "name": "Sikka ta' Santa Marija (Għadis)",
-        "name:en": "Santa Maria Reef (Dive Site)",
+        "name": "Is-Sikka ta' Santa Marija",
+        "name:en": "Santa Maria Reef",
+        "name:mt": "Is-Sikka ta' Santa Marija",
+        "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
         "tourism": "attraction",
         "id": "node/4159831398"
@@ -105934,11 +105942,12 @@
       "type": "Feature",
       "id": "node/4159831401",
       "properties": {
-        "alt_name": "Middle Finger",
-        "name": "Ras il-Ħobż (Għadis)",
-        "name:en": "Ras il-Ħobż (Dive Site)",
+        "alt_name:en": "Middle Finger",
+        "name": "Ras il-Ħobż",
+        "name:mt": "Ras il-Ħobż",
         "natural": "reef",
         "scuba_diving:depth": "30",
+        "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
         "id": "node/4159831401"
       },
@@ -106053,8 +106062,10 @@
       "type": "Feature",
       "id": "node/4159831406",
       "properties": {
-        "name": "Ta' Ċenċ (Għadis)",
-        "name:en": "Ta' Ċenċ Dive Site",
+        "name": "Ta' Ċenċ",
+        "name:en": "Ta' Ċenċ",
+        "name:mt": "Ta' Ċenċ",
+        "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
         "tourism": "attraction",
         "id": "node/4159831406"
@@ -106087,10 +106098,31 @@
     },
     {
       "type": "Feature",
+      "id": "node/4159831408",
+      "properties": {
+        "name": "L-Aħrax",
+        "name:en": "Aħrax",
+        "name:mt": "L-Aħrax",
+        "natural": "reef",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/4159831408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3684043,
+          35.9975949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4159831409",
       "properties": {
-        "name": "Iċ-Ċirkewwa - Arkata Leminija (Għadis)",
-        "name:en": "Ċirkewwa - Right Arch (Dive Site)",
+        "name": "Iċ-Ċirkewwa - Arkata Leminija",
+        "name:en": "Ċirkewwa - Right Arch",
+        "name:mt": "Iċ-Ċirkewwa - Arkata Leminija",
         "natural": "reef",
         "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
@@ -106101,6 +106133,28 @@
         "coordinates": [
           14.3273216,
           35.9899194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/4159831410",
+      "properties": {
+        "artwork_type": "statue",
+        "name": "Statwa tal-Madonna",
+        "name:en": "Madonna Statue",
+        "name:mt": "Statwa tal-Madonna",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "tourism": "artwork",
+        "wheelchair": "no",
+        "id": "node/4159831410"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3275591,
+          35.9887449
         ]
       }
     },
@@ -131562,6 +131616,267 @@
         "coordinates": [
           14.2351266,
           36.0830993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13614875987",
+      "properties": {
+        "name": "Il-Qawra",
+        "name:en": "Qawra",
+        "name:mt": "Il-Qawra",
+        "natural": "reef",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/13614875987"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1909433,
+          36.0540139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13614875988",
+      "properties": {
+        "alt_name": "Il-Ħofra l-Blu",
+        "name": "Il-Ħofra tal-Bidwin",
+        "name:en": "Blue Hole",
+        "name:mt": "Il-Ħofra tal-Bidwin",
+        "natural": "reef",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/13614875988"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.1886884,
+          36.0531105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13614878290",
+      "properties": {
+        "name": "Sikka Leminija Żurrieq",
+        "name:en": "Żurrieq - Right Reef",
+        "name:mt": "Sikka Leminija Żurrieq",
+        "natural": "reef",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/13614878290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4501834,
+          35.8195861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13614878291",
+      "properties": {
+        "name": "Sikka Xellugija Żurrieq",
+        "name:en": "Żurrieq - Left Reef",
+        "name:mt": "Sikka Xellugija Żurrieq",
+        "natural": "reef",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/13614878291"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4520291,
+          35.8191652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13614878292",
+      "properties": {
+        "name": "Wied iż-Żurrieq",
+        "name:en": "Żurrieq Valley",
+        "name:mt": "Wied iż-Żurrieq",
+        "natural": "reef",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/13614878292"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4514997,
+          35.8200294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13614906768",
+      "properties": {
+        "name": "Sant' Iermu - Sikka Xellugija",
+        "name:en": "Saint Elmo - Left Reef",
+        "name:mt": "Sant' Iermu - Sikka Xellugija",
+        "natural": "reef",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/13614906768"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5161895,
+          35.9028072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13614906769",
+      "properties": {
+        "name": "Sant' Iermu - Sikka Leminija",
+        "name:en": "Saint Elmo - Right Reef",
+        "name:mt": "Sant' Iermu - Sikka Leminija",
+        "natural": "reef",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/13614906769"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5175274,
+          35.9038826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13614926336",
+      "properties": {
+        "name": "Qawra Tramuntana",
+        "name:en": "Qawra North",
+        "name:mt": "Qawra Tramuntana",
+        "natural": "reef",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/13614926336"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4262325,
+          35.9604427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13614926337",
+      "properties": {
+        "name": "Qawra Nofsinhar",
+        "name:en": "Qawra South",
+        "name:mt": "Qawra Nofsinhar",
+        "natural": "reef",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/13614926337"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4261969,
+          35.9590998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13614926338",
+      "properties": {
+        "name": "Il-Prajjet",
+        "name:en": "Anchor Bay",
+        "name:mt": "Il-Prajjet",
+        "natural": "reef",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/13614926338"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3405804,
+          35.9598731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13614926339",
+      "properties": {
+        "name": "Għar l-Iskorpjun",
+        "name:en": "Scorpion Cave",
+        "name:mt": "Għar l-Iskorpjun",
+        "natural": "reef",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/13614926339"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3388424,
+          35.9588394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13614926341",
+      "properties": {
+        "name": "Iċ-Ċirkewwa - Sikka ta' Barra",
+        "name:en": "Ċirkewwa - Outer Reef",
+        "name:mt": "Iċ-Ċirkewwa - Sikka ta' Barra",
+        "natural": "reef",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/13614926341"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3278706,
+          35.9908691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13614926342",
+      "properties": {
+        "name": "Iċ-Ċirkewwa - Għar u Sikket Susie",
+        "name:en": "Ċirkewwa - Susie's Pool and Reef",
+        "name:mt": "Iċ-Ċirkewwa - Għar u Sikket Susie",
+        "natural": "reef",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/13614926342"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.3279996,
+          35.9887528
         ]
       }
     },
