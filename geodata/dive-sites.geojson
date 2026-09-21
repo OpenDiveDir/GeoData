@@ -63072,19 +63072,23 @@
       "properties": {
         "allowed_depth": "40",
         "difficulty": "expert",
+        "historic": "wreck",
         "maxdepth": "60",
         "mindepth": "30",
         "name": "Lina wreck",
+        "seamark:type": "wreck",
+        "source": "www.dive-links.com",
         "sport": "scuba_diving",
         "tourism": "attraction",
         "type": "wreck",
+        "website": "http://www.dive-links.com/tauchplatz.php?id=294",
         "id": "node/495589635"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.2790667,
-          45.1024305
+          14.2789212,
+          45.1025256
         ]
       }
     },
@@ -83334,27 +83338,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/663870764",
-      "properties": {
-        "historic": "wreck",
-        "name": "Wrack Lina",
-        "seamark:type": "wreck",
-        "source": "www.dive-links.com",
-        "sport": "scuba_diving",
-        "verified": "no, please check and del this tag",
-        "website": "http://www.dive-links.com/tauchplatz.php?id=294",
-        "id": "node/663870764"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          14.2785167,
-          45.1027
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/663870765",
       "properties": {
         "name": "Grotta",
@@ -88318,8 +88301,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.2249746,
-          42.0465633
+          3.2247225,
+          42.0466629
         ]
       }
     },
@@ -96867,29 +96850,6 @@
         "coordinates": [
           6.1020049,
           45.7371476
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/2503273148",
-      "properties": {
-        "addr:city": "Munro",
-        "addr:postcode": "1605",
-        "addr:street": "Armenia",
-        "building": "school",
-        "contact:email": "info@alpinarsub.com",
-        "name": "ALPINARSUB Escuela de Buceo",
-        "phone": "+54 11 6966-9893",
-        "sport": "scuba_diving",
-        "website": "http://www.alpinarsub.com",
-        "id": "node/2503273148"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -58.5228178,
-          -34.5289014
         ]
       }
     },
