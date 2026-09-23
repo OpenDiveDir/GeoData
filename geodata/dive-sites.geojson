@@ -81850,7 +81850,10 @@
       "type": "Feature",
       "id": "node/663870622",
       "properties": {
+        "addr:city": "Wilhelmshaven",
+        "addr:country": "DE",
         "addr:housenumber": "15",
+        "addr:postcode": "26382",
         "addr:street": "Henschelstraße",
         "club": "scuba_diving",
         "name": "Banter See - UWC Heim",
@@ -119522,7 +119525,7 @@
         "scuba_diving:depth": "24",
         "seamark:type": "wreck",
         "sport": "scuba_diving",
-        "website": "https://www.diving.org.il/%D7%94%D7%A1%D7%98%D7%99%D7%9C-%D7%A1%D7%95%D7%A4%D7%94",
+        "website": "https://www.diving.org.il/הסטיל-סופה",
         "id": "node/8577535117"
       },
       "geometry": {
