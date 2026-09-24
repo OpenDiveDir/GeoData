@@ -24515,6 +24515,49 @@
     },
     {
       "type": "Feature",
+      "id": "way/607216620",
+      "properties": {
+        "building": "yes",
+        "name": "Blue Marlin Dive Gili Air",
+        "opening_hours": "07:30-19:30",
+        "operator": "Blue Marlin Dive",
+        "shop": "scuba_diving",
+        "id": "way/607216620"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              116.0771132,
+              -8.3543687
+            ],
+            [
+              116.0772848,
+              -8.3545831
+            ],
+            [
+              116.0773536,
+              -8.3545293
+            ],
+            [
+              116.0773673,
+              -8.3545185
+            ],
+            [
+              116.0771958,
+              -8.3543041
+            ],
+            [
+              116.0771132,
+              -8.3543687
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/613956045",
       "properties": {
         "amenity": "dive_centre",
@@ -35714,7 +35757,7 @@
         "amenity": "dive_centre",
         "building": "yes",
         "email": "info@safaga-paradise.de",
-        "name": "Paradise Divers",
+        "name": "Volkert Dive Center",
         "operator": "Volkert",
         "phone": "+201068056464",
         "sport": "scuba_diving",
@@ -47259,8 +47302,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -25.4299161,
-          37.7154809
+          -25.4299269,
+          37.7154949
         ]
       }
     },
@@ -54687,7 +54730,7 @@
         "name": "Sea Safety Scandinavia",
         "opening_hours": "Mo-Fr 10:00-18:00, Sa 10:00-14:00",
         "operator": "Oy Sea Safety Scandinavia Ltd",
-        "phone": "09 454 4600",
+        "phone": "+358 9 4544600",
         "shop": "scuba_diving",
         "wheelchair": "yes",
         "id": "node/3463984125"
@@ -57319,24 +57362,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/3927188979",
-      "properties": {
-        "name": "Blue Marlin Dive Gili Air",
-        "opening_hours": "07:30-19:30",
-        "operator": "Blue Marlin Dive",
-        "shop": "scuba_diving",
-        "id": "node/3927188979"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          116.0772784,
-          -8.3545312
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/3929897749",
       "properties": {
         "addr:street": "Ardi Beltza Path",
@@ -59510,8 +59535,9 @@
       "type": "Feature",
       "id": "node/4275202143",
       "properties": {
+        "amenity": "dive_centre",
         "name": "Hercules Marine Activities",
-        "shop": "scuba_diving",
+        "scuba_diving:courses": "yes",
         "sport": "scuba_diving",
         "website": "http://www.hercules-scuba.gr/#",
         "id": "node/4275202143"
@@ -59519,8 +59545,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          19.9859905,
-          39.4130912
+          19.9865793,
+          39.4127297
         ]
       }
     },
@@ -60337,22 +60363,6 @@
         "coordinates": [
           114.6574142,
           -8.1463691
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4361984077",
-      "properties": {
-        "name": "Dive Concepts",
-        "shop": "scuba_diving",
-        "id": "node/4361984077"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          115.4482883,
-          -8.673061
         ]
       }
     },
@@ -65553,7 +65563,7 @@
         "name:en": "Oceano Scuba Dive Center",
         "name:es": "Oceano Centro de Buceo",
         "opening_hours": "Mo-Su 08:00-12:00, 14:00-20:00",
-        "phone": "+57(5)4219004",
+        "phone": "+57 605 4219004",
         "shop": "scuba_diving",
         "sport": "scuba_diving",
         "website": "https://www.oceanoscuba.com.co/",
@@ -69932,7 +69942,7 @@
         "addr:postcode": "10365",
         "addr:street": "Coppistraße",
         "addr:suburb": "Lichtenberg",
-        "check_date": "2026-06-24",
+        "check_date": "2026-09-24",
         "check_date:opening_hours": "2024-02-11",
         "contact:email": "info@atlantis-berlin.de",
         "contact:phone": "+49 30 4252626",
@@ -97275,8 +97285,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.452302,
-          42.6965503
+          9.4521859,
+          42.6963155
         ]
       }
     },
@@ -105192,6 +105202,41 @@
         "coordinates": [
           17.0421154,
           48.1812801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14197403055",
+      "properties": {
+        "addr:housenumber": "703",
+        "addr:street": "North Wilcox Street",
+        "check_date": "2026-09-19",
+        "name": "Planet Scuba",
+        "shop": "scuba_diving",
+        "id": "node/14197403055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8603796,
+          39.3766276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14203374200",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "Espace Mer",
+        "id": "node/14203374200"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1561191,
+          43.0284481
         ]
       }
     }
