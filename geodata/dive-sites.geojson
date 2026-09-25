@@ -12849,6 +12849,7 @@
         "contact:twitter": "georgiaaquarium",
         "description": "Opening hours highly variable, check on website.",
         "end_date": "2005",
+        "fee": "yes",
         "name": "Georgia Aquarium",
         "opening_hours": "Jun-Aug 09:00-21:00; Sep-Mar Mo-Th 09:00-18:00; Sep-May Fr,Su 09:00-20:00; Sep-Mar Sa 09:00-21:00",
         "payment:cash": "yes",
@@ -13133,28 +13134,28 @@
         "coordinates": [
           [
             [
-              121.9226964,
-              11.9645179
+              121.9226662,
+              11.9645038
             ],
             [
-              121.9227157,
-              11.9644821
+              121.9226855,
+              11.964468
             ],
             [
-              121.9228176,
-              11.9645314
+              121.9227874,
+              11.9645173
             ],
             [
-              121.9227935,
-              11.9645762
+              121.9227633,
+              11.9645621
             ],
             [
-              121.9227873,
-              11.9645732
+              121.9227571,
+              11.9645591
             ],
             [
-              121.9226964,
-              11.9645179
+              121.9226662,
+              11.9645038
             ]
           ]
         ]
@@ -102188,7 +102189,7 @@
       "id": "node/3671051394",
       "properties": {
         "amenity": "tourism",
-        "name": "Los Mantas Dive Center",
+        "name": "Planet Ocean",
         "sport": "scuba_diving",
         "id": "node/3671051394"
       },
@@ -119525,7 +119526,7 @@
         "scuba_diving:depth": "24",
         "seamark:type": "wreck",
         "sport": "scuba_diving",
-        "website": "https://www.diving.org.il/%D7%94%D7%A1%D7%98%D7%99%D7%9C-%D7%A1%D7%95%D7%A4%D7%94",
+        "website": "https://www.diving.org.il/הסטיל-סופה",
         "id": "node/8577535117"
       },
       "geometry": {
@@ -132792,6 +132793,25 @@
         "coordinates": [
           39.5529272,
           -6.3323412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14209321110",
+      "properties": {
+        "name": "León Dormido",
+        "name:en": "Kicker Rock",
+        "natural": "reef",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/14209321110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5203084,
+          -0.7779723
         ]
       }
     }
