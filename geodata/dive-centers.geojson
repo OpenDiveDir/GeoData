@@ -63902,8 +63902,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.9229538,
-          11.964528
+          121.9229337,
+          11.9645162
         ]
       }
     },
@@ -84709,6 +84709,7 @@
         "contact:email": "info@shark-bay.com",
         "contact:phone": "+593 99 689 2201",
         "contact:website": "https://shark-bay.com",
+        "internet_access": "wlan",
         "league": "PADI",
         "name": "Shark Bay",
         "scuba_diving:courses": "yes",
@@ -90153,7 +90154,6 @@
       "type": "Feature",
       "id": "node/10821441504",
       "properties": {
-        "addr:postcode": "85104",
         "email": "juraj@plutvy.sk",
         "name": "Plutvy.sk",
         "opening_hours": "Mo-Fr 08:30-17:00",
@@ -105237,6 +105237,23 @@
         "coordinates": [
           6.1561191,
           43.0284481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14212997233",
+      "properties": {
+        "amenity": "dive_centre",
+        "check_date": "2026-09-24",
+        "name": "Odisseia Azul",
+        "id": "node/14212997233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1154422,
+          38.4374784
         ]
       }
     }
