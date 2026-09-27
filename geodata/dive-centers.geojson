@@ -89068,25 +89068,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/10262315749",
-      "properties": {
-        "name": "Gone Diving",
-        "opening_hours": "Mo-Fr 12:00-18:00",
-        "phone": "+1-360-738-2042",
-        "shop": "scuba_diving",
-        "website": "https://gonediving.org/",
-        "id": "node/10262315749"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.4519049,
-          48.755505
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/10271000038",
       "properties": {
         "amenity": "dive_centre",
@@ -105192,7 +105173,7 @@
       "type": "Feature",
       "id": "node/14184463328",
       "properties": {
-        "name": "NAUTILUS",
+        "name": "Nautilus",
         "shop": "scuba_diving",
         "source": "survey",
         "id": "node/14184463328"
@@ -105254,6 +105235,48 @@
         "coordinates": [
           -9.1154422,
           38.4374784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14216528871",
+      "properties": {
+        "name": "Scuba Refill",
+        "scuba_diving:filling": "yes",
+        "shop": "scuba_diving",
+        "id": "node/14216528871"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0772983,
+          20.6383201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14221075873",
+      "properties": {
+        "addr:city": "Woodstock",
+        "addr:housenumber": "168",
+        "addr:postcode": "30188",
+        "addr:state": "GA",
+        "addr:street": "Towne Lake Parkway",
+        "email": "info@divegeorgia.com",
+        "name": "Dive Georgia",
+        "opening_hours": "Mo-Sa 10:00-18:00; Su 12:00-18:00",
+        "phone": "+1-404-285-8600",
+        "shop": "scuba_diving",
+        "website": "https://www.divegeorgia.com/",
+        "id": "node/14221075873"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5227506,
+          34.1023188
         ]
       }
     }
