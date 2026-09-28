@@ -53022,31 +53022,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/3155001026",
-      "properties": {
-        "addr:city": "Bad Karlshafen",
-        "addr:country": "DE",
-        "addr:housenumber": "1",
-        "addr:postcode": "34385",
-        "addr:street": "An der Saline",
-        "name": "Tauchsportverein Bad Karlshafen",
-        "opening_hours": "Fr 19:00-20:00",
-        "operator": "Tauchsportverein Bad Karlshafen e.V.",
-        "shop": "scuba_diving",
-        "website": "https://www.tauchsportverein.org/",
-        "wheelchair": "no",
-        "id": "node/3155001026"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.4502585,
-          51.6451256
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/3155937461",
       "properties": {
         "amenity": "dive_centre",
@@ -105277,6 +105252,22 @@
         "coordinates": [
           -84.5227506,
           34.1023188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14221298393",
+      "properties": {
+        "name": "Diving Center Calheta",
+        "shop": "scuba_diving",
+        "id": "node/14221298393"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.1770167,
+          32.720482
         ]
       }
     }
