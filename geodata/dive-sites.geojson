@@ -11714,12 +11714,12 @@
         "coordinates": [
           [
             [
-              8.4763673,
-              51.2428379
+              8.4763297,
+              51.2428421
             ],
             [
-              8.4761935,
-              51.2427802
+              8.4762029,
+              51.2428062
             ],
             [
               8.4761075,
@@ -11738,24 +11738,24 @@
               51.2425778
             ],
             [
-              8.476245,
-              51.2424828
+              8.4762329,
+              51.2424971
             ],
             [
               8.4761618,
               51.2424101
             ],
             [
-              8.4760587,
-              51.2423387
+              8.4759541,
+              51.2423538
             ],
             [
-              8.4757818,
-              51.2422553
+              8.4757657,
+              51.2422864
             ],
             [
-              8.4756667,
-              51.2422419
+              8.475668,
+              51.2422579
             ],
             [
               8.4755784,
@@ -11818,20 +11818,28 @@
               51.2411353
             ],
             [
-              8.4757718,
-              51.2411906
+              8.4757986,
+              51.2411788
             ],
             [
-              8.4761915,
-              51.2413472
+              8.4759763,
+              51.2413042
             ],
             [
-              8.4764043,
-              51.2415211
+              8.4761211,
+              51.241311
             ],
             [
-              8.4764676,
-              51.241648
+              8.4761808,
+              51.2413556
+            ],
+            [
+              8.4762514,
+              51.2414791
+            ],
+            [
+              8.4763362,
+              51.2416211
             ],
             [
               8.4764586,
@@ -11846,12 +11854,16 @@
               51.2419551
             ],
             [
-              8.4765712,
-              51.2420426
+              8.4765919,
+              51.2420086
             ],
             [
-              8.4765225,
-              51.2420679
+              8.4765578,
+              51.2420493
+            ],
+            [
+              8.4765292,
+              51.2420797
             ],
             [
               8.4765341,
@@ -11870,16 +11882,28 @@
               51.2421614
             ],
             [
+              8.4768051,
+              51.2421531
+            ],
+            [
+              8.47697,
+              51.2421866
+            ],
+            [
               8.477154,
               51.2422241
+            ],
+            [
+              8.4771793,
+              51.2423042
             ],
             [
               8.4771472,
               51.2423611
             ],
             [
-              8.4770269,
-              51.2424401
+              8.4770303,
+              51.242454
             ],
             [
               8.4770254,
@@ -11894,24 +11918,44 @@
               51.2426537
             ],
             [
-              8.4772079,
-              51.2427006
+              8.4771625,
+              51.2426874
+            ],
+            [
+              8.4771931,
+              51.242735
+            ],
+            [
+              8.4772094,
+              51.2427819
             ],
             [
               8.4772161,
               51.2428197
             ],
             [
+              8.4771873,
+              51.2428692
+            ],
+            [
               8.4771555,
               51.242902
+            ],
+            [
+              8.4771236,
+              51.2429255
             ],
             [
               8.477094,
               51.2429388
             ],
             [
-              8.4770144,
+              8.4770425,
               51.2429448
+            ],
+            [
+              8.4769641,
+              51.2429452
             ],
             [
               8.4768864,
@@ -11930,8 +11974,8 @@
               51.2428653
             ],
             [
-              8.4763673,
-              51.2428379
+              8.4763297,
+              51.2428421
             ]
           ]
         ]
@@ -64372,7 +64416,7 @@
       "type": "Feature",
       "id": "node/663452031",
       "properties": {
-        "name": "Pumpwerk Horgen",
+        "name": "Seewasser-Pumpwerk Horgen",
         "scuba_diving:divespot": "yes",
         "source": "www.dive-links.com",
         "sport": "scuba_diving",
@@ -77384,11 +77428,12 @@
       "type": "Feature",
       "id": "node/663870182",
       "properties": {
+        "alt_name": "Amslerbecken",
         "name": "Pozzo della Misura",
         "scuba_diving:divespot": "yes",
-        "source": "www.dive-links.com",
+        "source": "https://www.swiss-divers.ch/informationen/tauchplaetze/andere-gewaesser-tauchplaetze/amslerbecken-lavertezzo-verzasca/",
         "sport": "scuba_diving",
-        "website": "http://www.dive-links.com/tauchplatz.php?id=2501",
+        "website": "https://www.swiss-divers.ch/informationen/tauchplaetze/andere-gewaesser-tauchplaetze/amslerbecken-lavertezzo-verzasca/",
         "id": "node/663870182"
       },
       "geometry": {
@@ -81055,6 +81100,7 @@
       "type": "Feature",
       "id": "node/663870556",
       "properties": {
+        "fixme": "Name sollte nicht \"Wisseler See\" sein. Die URL ist nicht abrufbar. Wenn es ein Dienstleister ist sollte ggf. Das Büro oder ein ähnlicher Startpunkt zum tauchen markiert sein.",
         "name": "Wisseler See",
         "scuba_diving:divespot": "yes",
         "source": "www.dive-links.com",
@@ -96317,25 +96363,6 @@
         "coordinates": [
           116.0436158,
           -8.3465756
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/2403443727",
-      "properties": {
-        "description": "Tageskarte 5€",
-        "fee": "yes",
-        "scuba_diving:divespot": "yes",
-        "sport": "scuba_diving",
-        "website": "http://www.dive-buddy.de/rotter%20see.html",
-        "id": "node/2403443727"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.1109302,
-          50.8110777
         ]
       }
     },
@@ -115369,9 +115396,9 @@
       "properties": {
         "name": "K.K Bay",
         "name:en": "K.K Bay",
+        "natural": "bay",
         "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
-        "tourism": "attraction",
         "id": "node/6717759185"
       },
       "geometry": {
