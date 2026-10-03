@@ -10585,6 +10585,7 @@
         "addr:street": "Port Gallanach",
         "amenity": "dive_centre",
         "building": "yes",
+        "check_date": "2026-10-01",
         "name": "Puffin Dive Centre",
         "operator": "Puffin Dive Centre",
         "payment:cash": "yes",
@@ -16324,61 +16325,6 @@
             [
               -85.6978517,
               10.5512517
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/380032645",
-      "properties": {
-        "addr:block_number": "1",
-        "addr:city": "沼津市",
-        "addr:housenumber": "17",
-        "addr:postcode": "410-0104",
-        "addr:province": "静岡県",
-        "addr:quarter": "獅子浜",
-        "building": "retail",
-        "name": "獅子浜ダイビングサービス",
-        "name:en": "Shishihama diving service",
-        "opening_hours": "May-Oct Mo-Su 08:00-17:30; Nov-Apr Mo-Su 08:00-16:30",
-        "phone": "+81-055-933-2024",
-        "shop": "scuba_diving",
-        "website": "http://www.shishihama.com/",
-        "id": "way/380032645"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              138.885868,
-              35.0483182
-            ],
-            [
-              138.8859472,
-              35.0481118
-            ],
-            [
-              138.8860773,
-              35.048148
-            ],
-            [
-              138.8860276,
-              35.0482688
-            ],
-            [
-              138.8859673,
-              35.04826
-            ],
-            [
-              138.8859364,
-              35.0483313
-            ],
-            [
-              138.885868,
-              35.0483182
             ]
           ]
         ]
@@ -27261,7 +27207,6 @@
       "id": "way/714442481",
       "properties": {
         "building": "retail",
-        "layer": "-1",
         "name": "シギラ ビーチハウス",
         "shop": "scuba_diving",
         "id": "way/714442481"
@@ -40330,9 +40275,9 @@
       "type": "Feature",
       "id": "way/1499656920",
       "properties": {
-        "amenity": "dive_centre",
         "building": "yes",
         "name": "Back House",
+        "shop": "scuba_diving",
         "id": "way/1499656920"
       },
       "geometry": {
@@ -41268,6 +41213,54 @@
             [
               -0.0475347,
               38.6007289
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1563833388",
+      "properties": {
+        "addr:city": "Lefkoyia",
+        "addr:country": "GR",
+        "addr:place": "Ammoudi",
+        "addr:postcode": "74060",
+        "amenity": "dive_centre",
+        "building": "hotel",
+        "email": "ammoudi@otenet.gr",
+        "mobile": "+30 6972 835113",
+        "name": "Ammoudi Hotel",
+        "nohousenumber": "yes",
+        "phone": "+30 2832 031355",
+        "stars": "2",
+        "tourism": "hotel",
+        "website": "https://ammoudi.gr/en.html",
+        "id": "way/1563833388"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.42412,
+              35.1711356
+            ],
+            [
+              24.4242793,
+              35.1709138
+            ],
+            [
+              24.4244707,
+              35.1710057
+            ],
+            [
+              24.4243114,
+              35.1712275
+            ],
+            [
+              24.42412,
+              35.1711356
             ]
           ]
         ]
@@ -42611,9 +42604,9 @@
         "addr:postcode": "36041",
         "addr:street": "Neuenberger Straße",
         "check_date": "2025-07-19",
-        "check_date:opening_hours": "2025-07-19",
+        "check_date:opening_hours": "2026-09-30",
         "name": "Fuldas Tauchertreff",
-        "opening_hours": "Tu 15:00-18:00; We 14:00-16:30; Fr 15:00-18:00; Sa 11:30-13:00; Mo,Th off",
+        "opening_hours": "Mo,Th off; Tu,Fr 15:00-18:00; We 14:30-17:00; Sa 11:30-13:00",
         "shop": "scuba_diving",
         "website": "https://www.fuldas-tauchertreff.de/",
         "id": "node/432864080"
@@ -58974,7 +58967,12 @@
       "type": "Feature",
       "id": "node/4186734159",
       "properties": {
+        "addr:country": "Thailand",
+        "addr:district": "เมืองกระบี่",
+        "addr:postcode": "81000",
+        "addr:province": "Krabi",
         "addr:street": "Walking Street",
+        "addr:subdistrict": "Ao Nang",
         "amenity": "dive_centre",
         "check_date": "2025-02-19",
         "email": "sami@railaydivecenter.com",
@@ -64297,9 +64295,9 @@
         "addr:city": "Ruislip",
         "addr:country": "GB",
         "addr:housenumber": "2A",
-        "addr:place": "Eastcote",
         "addr:postcode": "HA4 8PD",
         "addr:street": "Elm Avenue",
+        "addr:suburb": "Eastcote",
         "level": "0",
         "name": "Scuba Tech",
         "phone": "+44 330 555 0011",
@@ -68941,6 +68939,8 @@
       "type": "Feature",
       "id": "node/5437070083",
       "properties": {
+        "addr:district": "Ko Lanta",
+        "addr:province": "Krabi",
         "name": "Anti gravity Divers",
         "shop": "scuba_diving",
         "sport": "scuba_diving",
@@ -77927,8 +77927,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.115519,
-          38.4371424
+          -9.1154841,
+          38.4371256
         ]
       }
     },
@@ -77944,8 +77944,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.1154519,
-          38.4375595
+          -9.1154251,
+          38.4375574
         ]
       }
     },
@@ -79506,14 +79506,15 @@
       "id": "node/7340697933",
       "properties": {
         "amenity": "dive_centre",
-        "name": "OCTOPUS Ecole et club de plongée",
+        "contact:website": "https://octopus-plongee.asso.fr",
+        "name": "Octopus",
         "id": "node/7340697933"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.9295755,
-          43.5251859
+          3.929667,
+          43.5251538
         ]
       }
     },
@@ -104251,8 +104252,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.9283217,
-          11.9648095
+          121.9283113,
+          11.9647852
         ]
       }
     },
@@ -104737,6 +104738,7 @@
         "addr:postcode": "74360",
         "addr:street": "Eisenbahnstraße",
         "amenity": "dive_centre",
+        "building": "retail",
         "email": "mail@scubaonline.de",
         "name": "scubaonline",
         "opening_hours": "We-Fr 12:00-17:00; PH off",
@@ -104745,6 +104747,7 @@
         "scuba_diving:air_filling": "yes",
         "scuba_diving:courses": "yes",
         "scuba_diving:rental": "yes",
+        "shop": "sports",
         "website": "https://scubaonline.de/",
         "wheelchair": "yes",
         "id": "node/14131656896"
@@ -105208,8 +105211,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.1154422,
-          38.4374784
+          -9.1154274,
+          38.4374747
         ]
       }
     },
@@ -105268,6 +105271,94 @@
         "coordinates": [
           -17.1770167,
           32.720482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14228509615",
+      "properties": {
+        "amenity": "dive_centre",
+        "contact:website": "https://clubdelamer.org/",
+        "name": "Club de la mer",
+        "id": "node/14228509615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9295931,
+          43.5251752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14229164070",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "Globe Dive Clubs",
+        "website": "https://globe-diveclubs.com/",
+        "id": "node/14229164070"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6893324,
+          25.4380598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14235998993",
+      "properties": {
+        "addr:housenumber": "44921",
+        "addr:street": "George Washington Boulevard",
+        "addr:unit": "115",
+        "check_date": "2026-09-30",
+        "name": "Diventures",
+        "phone": "+1 703-421-3483",
+        "shop": "scuba_diving",
+        "id": "node/14235998993"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4469655,
+          39.0585055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14240515683",
+      "properties": {
+        "addr:city": "Johannesburg South",
+        "addr:postcode": "2190",
+        "addr:street": "Biggarsberg Street",
+        "addr:suburb": "Glenvista",
+        "addr:unit": "U44",
+        "contact:facebook": "https://www.facebook.com/scubaevolutionJHB",
+        "contact:instagram": "https://www.instagram.com/scuba_evolution/",
+        "contact:whatsapp": "+27 82 557 3822",
+        "email": "shop@scubaevolution.co.za",
+        "name": "Scuba Evolution",
+        "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-16:00; Su 09:00-13:00",
+        "phone": "+27 10 335 1000",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:filling:air": "yes",
+        "scuba_diving:filling:nitrox": "yes",
+        "scuba_diving:rental": "no",
+        "scuba_diving:repair": "yes",
+        "shop": "scuba_diving",
+        "website": "https://scubaevolution.co.za",
+        "id": "node/14240515683"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.053123,
+          -26.2864798
         ]
       }
     }
