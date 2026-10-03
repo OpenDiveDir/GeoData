@@ -93120,24 +93120,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/1486024677",
-      "properties": {
-        "leisure": "sports_centre",
-        "name": "Société Nautique Estaque Mourepiane",
-        "sport": "scuba_diving",
-        "website": "http://snemplongee.zeblog.com/",
-        "id": "node/1486024677"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.3192391,
-          43.3570369
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/1493048050",
       "properties": {
         "name": "El Sheig Malik",
