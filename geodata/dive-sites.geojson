@@ -123999,7 +123999,7 @@
       "type": "Feature",
       "id": "node/11026523224",
       "properties": {
-        "name": "Le Sec Aux Murennes",
+        "name": "Le Sec des Murènes",
         "natural": "reef",
         "sport": "scuba_diving",
         "id": "node/11026523224"
@@ -132821,6 +132821,23 @@
         "coordinates": [
           -89.5203084,
           -0.7779723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14246494010",
+      "properties": {
+        "club": "sport",
+        "name": "Océanium",
+        "sport": "scuba_diving",
+        "id": "node/14246494010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4325254,
+          14.6609064
         ]
       }
     }
