@@ -42325,8 +42325,9 @@
         "addr:housename": "Calleja Building",
         "addr:postcode": "XLN 1101",
         "addr:street": "Triq ir-Rabat",
+        "check_date": "2026-10-03",
         "mobile": "+356 7955 0514",
-        "name": "Utina Diving College",
+        "name": "Utina",
         "opening_hours": "Mo-Su 08:00-17:00",
         "shop": "scuba_diving",
         "website": "https://www.utinadiving.com/",
@@ -66190,8 +66191,12 @@
       "type": "Feature",
       "id": "node/5080397421",
       "properties": {
-        "name": "Seattle Scuba",
-        "name:en": "Seattle Scuba",
+        "addr:city": "Seattle",
+        "addr:housenumber": "2000",
+        "addr:postcode": "98109",
+        "addr:street": "Westlake Avenue North",
+        "name": "Seattle Scuba School",
+        "name:en": "Seattle Scuba School",
         "shop": "scuba_diving",
         "id": "node/5080397421"
       },
@@ -72186,7 +72191,11 @@
       "type": "Feature",
       "id": "node/5923262396",
       "properties": {
-        "name": "Discount Divers",
+        "addr:city": "Seattle",
+        "addr:housenumber": "2520",
+        "addr:postcode": "98109",
+        "addr:street": "Westlake Avenue North",
+        "name": "Discount Divers Supply",
         "shop": "scuba_diving",
         "website": "https://discountdivers.com/",
         "id": "node/5923262396"
@@ -105359,6 +105368,26 @@
         "coordinates": [
           28.053123,
           -26.2864798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14247008724",
+      "properties": {
+        "amenity": "dive_centre",
+        "contact:facebook": "https://www.facebook.com/100077978382719/",
+        "contact:instagram": "https://www.instagram.com/cabopulmoexpeditions",
+        "name": "Cabo Pulmo Expeditions",
+        "phone": "+52 624 242 2614",
+        "website": "https://cabopulmoexpeditions.com/",
+        "id": "node/14247008724"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.4273152,
+          23.4358481
         ]
       }
     }
