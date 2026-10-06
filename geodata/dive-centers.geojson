@@ -98596,13 +98596,18 @@
       "type": "Feature",
       "id": "node/12697217301",
       "properties": {
+        "addr:city": "La Habana",
+        "addr:street": "1ra Avenida y 96",
         "amenity": "dive_centre",
         "email": "linuxadmin.molina@gmail.com",
         "name": "Centro de buceo Caballeros de Mar",
-        "name:en": "Divercenter Knights of the sea",
-        "opening_hours": "Mo-Su 09:00-18:00",
-        "phone": "+53 53 511227",
-        "website": "https://sites.google.com/view/cscaballerosdelmar/inicio",
+        "opening_hours": "Mo-Su 09:00-16:00",
+        "operator": "GSCMAR",
+        "phone": "+53 53 511227 +53 5 5975913",
+        "scuba_diving:air_filling": "yes",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:rental": "yes",
+        "website": "https://caballerosdelmar.org",
         "id": "node/12697217301"
       },
       "geometry": {
@@ -105388,6 +105393,28 @@
         "coordinates": [
           -109.4273152,
           23.4358481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14250677672",
+      "properties": {
+        "addr:block_number": "1245-15",
+        "addr:city": "沼津市",
+        "addr:postcode": "410-0102",
+        "addr:province": "静岡県",
+        "addr:quarter": "口野",
+        "name": "静浦ダイビングセンター",
+        "name:ko": "시즈우라 다이빙 센터",
+        "shop": "scuba_diving",
+        "id": "node/14250677672"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.8984166,
+          35.0432901
         ]
       }
     }
