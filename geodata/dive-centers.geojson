@@ -11801,6 +11801,8 @@
       "type": "Feature",
       "id": "way/320648978",
       "properties": {
+        "addr:housenumber": "6",
+        "addr:street": "Arrenway Drive",
         "building": "retail",
         "contact:facebook": "https://facebook.com/Wettie.NZ/",
         "contact:instagram": "https://instagram.com/wettie.spearfishing/",
@@ -14107,6 +14109,48 @@
             [
               93.0063299,
               12.0206589
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/362148812",
+      "properties": {
+        "amenity": "dive_centre",
+        "building": "yes",
+        "contact:phone": "+34 607911523",
+        "name": "Bahia-Sub",
+        "source": "PNOA;survey",
+        "source:date": "2007",
+        "sport": "scuba_diving",
+        "website": "https://www.bahiasub.com/",
+        "id": "way/362148812"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8.8884123,
+              42.4901638
+            ],
+            [
+              -8.8884025,
+              42.4901085
+            ],
+            [
+              -8.8882984,
+              42.4901186
+            ],
+            [
+              -8.8883082,
+              42.4901739
+            ],
+            [
+              -8.8884123,
+              42.4901638
             ]
           ]
         ]
@@ -44371,7 +44415,9 @@
       "type": "Feature",
       "id": "node/863771816",
       "properties": {
+        "check_date": "2026-10-06",
         "name": "Phocéa Riviera",
+        "note": "details",
         "phone": "+52 984 8731 210",
         "shop": "scuba_diving",
         "id": "node/863771816"
@@ -44388,7 +44434,9 @@
       "type": "Feature",
       "id": "node/863771952",
       "properties": {
+        "contact:website": "scubaplaya.com",
         "name": "Scuba Playa",
+        "note": "details",
         "phone": "+52 984 873 1210",
         "shop": "scuba_diving",
         "id": "node/863771952"
@@ -44732,7 +44780,9 @@
       "type": "Feature",
       "id": "node/920559689",
       "properties": {
+        "check_date": "2026-10-07",
         "name": "Scuba Libre",
+        "note": "details",
         "shop": "scuba_diving",
         "id": "node/920559689"
       },
@@ -55292,24 +55342,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/3658911326",
-      "properties": {
-        "amenity": "dive_centre",
-        "name": "Centro de buceo Agua Amarga",
-        "shop": "scuba_diving",
-        "website": "http://www.buceoaguaamarga.com",
-        "id": "node/3658911326"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.9331895,
-          36.9397424
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/3663334474",
       "properties": {
         "amenity": "dive_centre",
@@ -55344,26 +55376,6 @@
         "coordinates": [
           -9.2648565,
           42.9077406
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3665128843",
-      "properties": {
-        "amenity": "dive_centre",
-        "contact:phone": "+34 607911523",
-        "name": "Bahia-Sub",
-        "source": "survey",
-        "sport": "scuba_diving",
-        "website": "https://www.bahiasub.com/",
-        "id": "node/3665128843"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -8.8883611,
-          42.4901472
         ]
       }
     },
@@ -75236,8 +75248,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -9.1152645,
-          38.4357046
+          -9.1152555,
+          38.4356931
         ]
       }
     },
@@ -104527,7 +104539,10 @@
       "type": "Feature",
       "id": "node/14104255568",
       "properties": {
+        "check_date": "2026-10-07",
+        "description": "obsolete ?",
         "name": "The Fives Dive Center",
+        "note": "details",
         "shop": "scuba_diving",
         "id": "node/14104255568"
       },
@@ -104543,6 +104558,7 @@
       "type": "Feature",
       "id": "node/14104255573",
       "properties": {
+        "check_date": "2026-10-07",
         "name": "Mayan Dive Center",
         "shop": "scuba_diving",
         "id": "node/14104255573"
@@ -105415,6 +105431,60 @@
         "coordinates": [
           138.8984166,
           35.0432901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14256499264",
+      "properties": {
+        "name": "Phantom Divers",
+        "note": "details",
+        "shop": "scuba_diving",
+        "id": "node/14256499264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0704527,
+          20.6281874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14259544649",
+      "properties": {
+        "check_date": "2026-10-07",
+        "name": "SSI Scuba Schools",
+        "note": "details",
+        "shop": "scuba_diving",
+        "street_vendor": "yes",
+        "id": "node/14259544649"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0769914,
+          20.6248724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14262199126",
+      "properties": {
+        "check_date": "2026-10-07",
+        "name": "Dune",
+        "note": "details",
+        "shop": "scuba_diving",
+        "id": "node/14262199126"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0725078,
+          20.6255666
         ]
       }
     }
