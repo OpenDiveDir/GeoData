@@ -118961,7 +118961,6 @@
       "id": "node/7853835793",
       "properties": {
         "addr:city": "Landéda",
-        "addr:country": "FR",
         "addr:hamlet": "Port de l'Aber Wrac'h",
         "addr:postcode": "29870",
         "check_date": "2025-07-21",
@@ -132839,6 +132838,22 @@
         "coordinates": [
           -17.4325254,
           14.6609064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14269618312",
+      "properties": {
+        "name": "Atlantis",
+        "sport": "scuba_diving",
+        "id": "node/14269618312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -61.7755967,
+          16.1663359
         ]
       }
     }
