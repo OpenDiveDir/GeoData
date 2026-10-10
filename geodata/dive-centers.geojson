@@ -3520,7 +3520,6 @@
       "id": "way/120215398",
       "properties": {
         "addr:city": "Bouillante",
-        "addr:country": "FR",
         "addr:postcode": "97125",
         "addr:street": "Plage de Malendure",
         "amenity": "dive_centre",
@@ -3567,7 +3566,6 @@
       "id": "way/120217275",
       "properties": {
         "addr:city": "Bouillante",
-        "addr:country": "FR",
         "addr:postcode": "97125",
         "addr:street": "Plage de Malendure",
         "amenity": "dive_centre",
@@ -45726,7 +45724,6 @@
       "id": "node/1305757871",
       "properties": {
         "addr:city": "Frontignan",
-        "addr:country": "FR",
         "addr:housenumber": "1",
         "addr:postcode": "34110",
         "addr:street": "Avenue Ferdinand de Lesseps",
@@ -53432,8 +53429,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.5070729,
-          35.9144329
+          14.5070421,
+          35.9144535
         ]
       }
     },
@@ -56898,7 +56895,6 @@
       "id": "node/3863300512",
       "properties": {
         "addr:city": "Bouillante",
-        "addr:country": "FR",
         "addr:postcode": "97125",
         "addr:street": "Plage de Malendure",
         "amenity": "dive_centre",
@@ -68811,7 +68807,6 @@
       "id": "node/5422736922",
       "properties": {
         "addr:city": "Rennes",
-        "addr:country": "FR",
         "addr:housenumber": "102",
         "addr:postcode": "35000",
         "addr:street": "Rue Eugène Pottier",
@@ -97017,6 +97012,7 @@
         "addr:postcode": "07750",
         "addr:street": "Passeig del Riu",
         "amenity": "dive_centre",
+        "check_date": "2026-10-07",
         "name": "Blue Islands Diving",
         "phone": "+34 633 56 35 26",
         "id": "node/12215478118"
@@ -105485,6 +105481,25 @@
         "coordinates": [
           -87.0725078,
           20.6255666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14265323028",
+      "properties": {
+        "check_date": "2026-10-08",
+        "level": "0",
+        "name": "Scuba 10",
+        "note": "details",
+        "shop": "scuba_diving",
+        "id": "node/14265323028"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0727793,
+          20.627561
         ]
       }
     }
