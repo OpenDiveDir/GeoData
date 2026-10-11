@@ -35301,8 +35301,7 @@
       "properties": {
         "amenity": "dive_centre",
         "building": "yes",
-        "contact:instagram": "https://www.instagram.com/omadhoodivetours",
-        "description": "🌊 Omadhoo Dive Tours: Your Underwater Sanctuary in the Maldives\nDiscover the secrets of the Indian Ocean with a premium, exclusive diving experience tailored to your own pace.\n✨ Who We Are\nOmadhoo Dive Tours is a PADI 5 Star Instructor Development Center",
+        "contact:instagram": "omadhoodivetours",
         "email": "omadhoodivetours@gmail.com",
         "image": "https://www.omadhoodivetours.com/wp-content/uploads/2026/07/omadhoodivetours-logo_redefinido-150x150.png",
         "mobile": "+9609194924",
@@ -35310,14 +35309,10 @@
         "operator": "Ismail Thoha",
         "scuba_diving:air_filling": "yes",
         "scuba_diving:courses": "yes",
-        "scuba_diving:dive_trips": "yes",
-        "scuba_diving:divevolk": "yes",
-        "scuba_diving:manta_safari": "yes",
-        "scuba_diving:open_water_diver": "yes",
+        "scuba_diving:guided_tours": "yes",
         "scuba_diving:padi": "yes",
         "scuba_diving:repair": "yes",
-        "scuba_diving:scubapro": "yes",
-        "scuba_diving:turtle_safari": "yes",
+        "scuba_diving:scuba": "yes",
         "id": "way/1133986313"
       },
       "geometry": {
@@ -41303,6 +41298,84 @@
             [
               24.42412,
               35.1711356
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1567062965",
+      "properties": {
+        "addr:city": "Thoddoo",
+        "addr:postcode": "09010",
+        "addr:street": "Huravee Magu",
+        "amenity": "dive_centre",
+        "building": "commercial",
+        "building:levels": "2",
+        "height": "10",
+        "name": "Maldivsk Divers",
+        "id": "way/1567062965"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              72.9619085,
+              4.4391547
+            ],
+            [
+              72.9620401,
+              4.4390884
+            ],
+            [
+              72.9620932,
+              4.4391639
+            ],
+            [
+              72.9619615,
+              4.4392295
+            ],
+            [
+              72.9619085,
+              4.4391547
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1567190527",
+      "properties": {
+        "amenity": "dive_centre",
+        "building": "yes",
+        "id": "way/1567190527"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              33.9096224,
+              35.2591607
+            ],
+            [
+              33.9096464,
+              35.2591256
+            ],
+            [
+              33.9097703,
+              35.2591822
+            ],
+            [
+              33.9097463,
+              35.2592172
+            ],
+            [
+              33.9096224,
+              35.2591607
             ]
           ]
         ]
@@ -53581,10 +53654,9 @@
         "name": "Desert Divers",
         "opening_hours": "Mo-Su 08:30-18:00",
         "phone": "+201004040181, desert-divers.com",
-        "scuba_diving:PADI_courses": "yes",
-        "scuba_diving:camel_diving_safaris": "yes",
         "scuba_diving:freediving": "yes",
         "scuba_diving:guided_diving": "yes",
+        "scuba_diving:padi": "yes",
         "shop": "scuba_diving",
         "id": "node/3237506152"
       },
@@ -54802,6 +54874,7 @@
         "addr:housenumber": "39",
         "addr:street": "Via Amerigo Vespucci",
         "amenity": "dive_centre",
+        "check_date": "2026-10-10",
         "name": "Nettuno Diving",
         "phone": "+39 081 8081051",
         "website": "https://www.divingsorrento.com/",
@@ -74150,42 +74223,6 @@
         "coordinates": [
           130.0500369,
           -4.5855083
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6278542403",
-      "properties": {
-        "addr:city": "thoddoo",
-        "addr:housenumber": "Nanreethige",
-        "addr:street": "Nooali, Alikilegefaanu magu Thoddoo, 09010",
-        "amenity": "dive_centre",
-        "email": "info@divethoddoo.com",
-        "name": "Thoddoo Diving Center",
-        "name:en": "Thoddoo Diving Center (PDH Maldives)",
-        "name:ru": "Русский дайв-центр на Тодду",
-        "opening_hours": "Mo-Su 09:00-20:30",
-        "operator": "PDH Maldives",
-        "phone": "+9609180350",
-        "scuba_diving:air_filling": "yes",
-        "scuba_diving:filling": "yes",
-        "scuba_diving:mantadiving": "yes",
-        "scuba_diving:scuba": "yes",
-        "scuba_diving:scuba_diving": "yes",
-        "scuba_diving:sharkdiving": "yes",
-        "scuba_diving:ssi": "yes",
-        "scuba_diving:training": "yes",
-        "scuba_diving:turtlediving": "yes",
-        "shop": "outdoor",
-        "website": "https://www.divethoddoo.com",
-        "id": "node/6278542403"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          72.963588,
-          4.4388491
         ]
       }
     },
@@ -105500,6 +105537,62 @@
         "coordinates": [
           -87.0727793,
           20.627561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14270167347",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "lijo-sub",
+        "id": "node/14270167347"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0516116,
+          36.8148284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14270358176",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "sea & sun",
+        "id": "node/14270358176"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.0539253,
+          36.8150355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14270555489",
+      "properties": {
+        "addr:city": "Thoddoo",
+        "addr:street": "Huravee Magu",
+        "amenity": "dive_centre",
+        "name": "Maldivsk Divers",
+        "name:ru": "Русский дайвинг центр и экскурсии",
+        "opening_hours": "Пн-Вс 8:00- 22:00",
+        "scuba_diving:air_filling": "yes",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:fun_diving": "yes",
+        "scuba_diving:rental": "yes",
+        "id": "node/14270555489"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9620413,
+          4.4391364
         ]
       }
     }
