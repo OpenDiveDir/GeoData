@@ -102495,8 +102495,9 @@
       "type": "Feature",
       "id": "node/13695486630",
       "properties": {
+        "addr:city": "München",
         "addr:housenumber": "24",
-        "addr:postcode": "Stefan-George-Ring 24, 81929 München",
+        "addr:postcode": "81929",
         "addr:street": "Stefan-George-Ring",
         "name": "Dive Support",
         "shop": "scuba_diving",
