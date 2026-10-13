@@ -132856,6 +132856,40 @@
           16.1663359
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14275454372",
+      "properties": {
+        "leisure": "sports_centre",
+        "name": "島スノーケリングセンター",
+        "sport": "scuba_diving",
+        "id": "node/14275454372"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.1689125,
+          35.0420951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14275454522",
+      "properties": {
+        "leisure": "sports_centre",
+        "name": "初島ダイビングセンター",
+        "sport": "scuba_diving",
+        "id": "node/14275454522"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.1719756,
+          35.0423344
+        ]
+      }
     }
   ]
 }
