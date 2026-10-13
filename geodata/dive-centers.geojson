@@ -34072,6 +34072,58 @@
     },
     {
       "type": "Feature",
+      "id": "way/1066958490",
+      "properties": {
+        "addr:city": "Anacortes",
+        "addr:country": "US",
+        "addr:housenumber": "2502",
+        "addr:postcode": "98221",
+        "addr:state": "WA",
+        "addr:street": "Commercial Avenue",
+        "building": "yes",
+        "email": "info@anacortesdiving.com",
+        "fax": "+1 360-293-8822",
+        "name": "Anacortes Diving & Supply",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "phone": "+1 360-293-2070",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:fill:air": "yes",
+        "scuba_diving:fill:nitrox": "yes",
+        "scuba_diving:rental": "yes",
+        "shop": "scuba_diving",
+        "website": "https://www.anacortesdiving.com/",
+        "id": "way/1066958490"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.6131821,
+              48.501962
+            ],
+            [
+              -122.6131836,
+              48.5018044
+            ],
+            [
+              -122.6129191,
+              48.5018033
+            ],
+            [
+              -122.6129176,
+              48.5019609
+            ],
+            [
+              -122.6131821,
+              48.501962
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1067554310",
       "properties": {
         "addr:city": "Fuvahmulah",
@@ -42719,10 +42771,10 @@
         "addr:housenumber": "30",
         "addr:postcode": "36041",
         "addr:street": "Neuenberger Straße",
-        "check_date": "2025-07-19",
+        "check_date": "2026-10-12",
         "check_date:opening_hours": "2026-09-30",
         "name": "Fuldas Tauchertreff",
-        "opening_hours": "Mo,Th off; Tu,Fr 15:00-18:00; We 14:30-17:00; Sa 11:30-13:00",
+        "opening_hours": "Mo,Th off; Tu,We,Fr 15:00-18:00; Sa 11:30-13:00",
         "shop": "scuba_diving",
         "website": "https://www.fuldas-tauchertreff.de/",
         "id": "node/432864080"
