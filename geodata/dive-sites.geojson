@@ -44677,6 +44677,271 @@
     },
     {
       "type": "Feature",
+      "id": "way/514431572",
+      "properties": {
+        "name": "Kalkbruchsee Hunsfels",
+        "natural": "water",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:entry": "pier",
+        "scuba_diving:maxdepth": "56",
+        "sport": "scuba_diving",
+        "water": "lake",
+        "id": "way/514431572"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              7.768264,
+              49.9479056
+            ],
+            [
+              7.7682216,
+              49.9477972
+            ],
+            [
+              7.7682057,
+              49.9477451
+            ],
+            [
+              7.7681559,
+              49.9476771
+            ],
+            [
+              7.7681475,
+              49.9475968
+            ],
+            [
+              7.7682115,
+              49.9475078
+            ],
+            [
+              7.7683206,
+              49.9473768
+            ],
+            [
+              7.7683545,
+              49.9473294
+            ],
+            [
+              7.7681758,
+              49.9472499
+            ],
+            [
+              7.7681702,
+              49.9472112
+            ],
+            [
+              7.7682101,
+              49.9470853
+            ],
+            [
+              7.7683117,
+              49.9469755
+            ],
+            [
+              7.7684834,
+              49.9468694
+            ],
+            [
+              7.7685668,
+              49.9467904
+            ],
+            [
+              7.7686992,
+              49.946758
+            ],
+            [
+              7.7688547,
+              49.9466621
+            ],
+            [
+              7.7690536,
+              49.9465688
+            ],
+            [
+              7.7692447,
+              49.9464777
+            ],
+            [
+              7.7694666,
+              49.9464755
+            ],
+            [
+              7.7696615,
+              49.9465147
+            ],
+            [
+              7.7698166,
+              49.9465769
+            ],
+            [
+              7.7699277,
+              49.9466352
+            ],
+            [
+              7.7701113,
+              49.9467037
+            ],
+            [
+              7.7702203,
+              49.9467514
+            ],
+            [
+              7.7703679,
+              49.9468292
+            ],
+            [
+              7.7705111,
+              49.9469103
+            ],
+            [
+              7.7706398,
+              49.946981
+            ],
+            [
+              7.7708548,
+              49.9470324
+            ],
+            [
+              7.7710279,
+              49.9471673
+            ],
+            [
+              7.771219,
+              49.9473197
+            ],
+            [
+              7.7714315,
+              49.9474156
+            ],
+            [
+              7.771602,
+              49.947511
+            ],
+            [
+              7.7717503,
+              49.9475778
+            ],
+            [
+              7.771906,
+              49.9476684
+            ],
+            [
+              7.7720542,
+              49.9477829
+            ],
+            [
+              7.7721654,
+              49.9478878
+            ],
+            [
+              7.7722099,
+              49.9480309
+            ],
+            [
+              7.7722247,
+              49.9481502
+            ],
+            [
+              7.7722099,
+              49.9482504
+            ],
+            [
+              7.772158,
+              49.9483648
+            ],
+            [
+              7.7720913,
+              49.9484698
+            ],
+            [
+              7.7719875,
+              49.9486081
+            ],
+            [
+              7.7718244,
+              49.9487321
+            ],
+            [
+              7.7717236,
+              49.9488806
+            ],
+            [
+              7.7714916,
+              49.9489966
+            ],
+            [
+              7.7712836,
+              49.9490305
+            ],
+            [
+              7.7711202,
+              49.9489563
+            ],
+            [
+              7.7709497,
+              49.9488562
+            ],
+            [
+              7.7706383,
+              49.948818
+            ],
+            [
+              7.7704159,
+              49.9488228
+            ],
+            [
+              7.7701491,
+              49.9488705
+            ],
+            [
+              7.7699786,
+              49.9488991
+            ],
+            [
+              7.7697932,
+              49.9488705
+            ],
+            [
+              7.7695634,
+              49.9487894
+            ],
+            [
+              7.7692669,
+              49.9486415
+            ],
+            [
+              7.7690074,
+              49.9484793
+            ],
+            [
+              7.7687776,
+              49.9483315
+            ],
+            [
+              7.7686145,
+              49.948236
+            ],
+            [
+              7.7683699,
+              49.9481073
+            ],
+            [
+              7.7682958,
+              49.9480309
+            ],
+            [
+              7.768264,
+              49.9479056
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/517772804",
       "properties": {
         "leisure": "sports_centre",
@@ -61365,6 +61630,7 @@
         "addr:country": "DE",
         "name": "Brechtsee",
         "scuba_diving:divespot": "yes",
+        "scuba_diving:entry": "shore",
         "sport": "scuba_diving",
         "id": "node/291209539"
       },
@@ -80926,6 +81192,7 @@
       "properties": {
         "name": "Gänsedrecksee (Taucheinstieg Nord)",
         "scuba_diving:divespot": "yes",
+        "scuba_diving:entry": "shore",
         "sport": "scuba_diving",
         "website": "http://www.binsfeld.xl-network.de",
         "id": "node/663870537"
@@ -80944,17 +81211,17 @@
       "properties": {
         "name": "Rheinauer See",
         "scuba_diving:divespot": "yes",
+        "scuba_diving:entry": "shore",
         "source": "www.dive-links.com",
         "sport": "scuba_diving",
-        "verified": "no, please check and del this tag",
         "website": "http://www.dive-links.com/tauchplatz.php?id=458",
         "id": "node/663870538"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.5336,
-          49.4133333
+          8.5366384,
+          49.4149853
         ]
       }
     },
@@ -81152,6 +81419,7 @@
         "name": "Indoor-Tauchcenter dive4life",
         "opening_hours": "Mo-Su 10:00-22:00",
         "operator": "dive4life GmbH",
+        "scuba_diving:divespot": "yes",
         "scuba_diving:type": "pool",
         "source": "https://www.dive4life.de/",
         "sport": "scuba_diving",
@@ -85519,7 +85787,6 @@
         "source": "www.dive-links.com",
         "sport": "scuba_diving",
         "verified": "no, please check and del this tag",
-        "website": "http://www.dive-links.com/tauchplatz.php?id=1118",
         "id": "node/663871105"
       },
       "geometry": {
@@ -91943,8 +92210,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.4829375,
-          22.6769164
+          121.4823065,
+          22.6774386
         ]
       }
     },
@@ -102646,8 +102913,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.4929505,
-          22.6392711
+          121.4926435,
+          22.6389969
         ]
       }
     },
@@ -106406,8 +106673,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.4740829,
-          22.6550943
+          121.4740507,
+          22.6549458
         ]
       }
     },
@@ -132686,6 +132953,7 @@
       "id": "node/14071055214",
       "properties": {
         "name": "Le Cap Ferrat",
+        "name:it": "Capo Ferrato",
         "scuba_diving:divespot": "yes",
         "scuba_diving:entry": "boat",
         "scuba_diving:maxdepth": "10",
@@ -132888,6 +133156,96 @@
         "coordinates": [
           139.1719756,
           35.0423344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14289547448",
+      "properties": {
+        "name": "Apostelsee",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:entry": "shore",
+        "sport": "scuba_diving",
+        "id": "node/14289547448"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7883422,
+          48.2617133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14289667630",
+      "properties": {
+        "name": "Baggersee Giesen",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:entry": "shore",
+        "sport": "scuba_diving",
+        "id": "node/14289667630"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3878239,
+          49.1510222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14289677745",
+      "properties": {
+        "name": "Althäusersee",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:entry": "shore",
+        "sport": "scuba_diving",
+        "id": "node/14289677745"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6333159,
+          49.210454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14289700169",
+      "properties": {
+        "name": "Unterer Vogelstangsee",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:entry": "shore",
+        "sport": "scuba_diving",
+        "id": "node/14289700169"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5402244,
+          49.5050676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14290329209",
+      "properties": {
+        "name": "Dive Horizons",
+        "phone": "+255749823416",
+        "sport": "scuba_diving",
+        "website": "https://divehorizonszanzibar.com/",
+        "id": "node/14290329209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.4648267,
+          -6.442972
         ]
       }
     }
