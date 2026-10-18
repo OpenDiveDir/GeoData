@@ -44539,9 +44539,9 @@
       "id": "node/863771816",
       "properties": {
         "check_date": "2026-10-06",
-        "name": "Phocéa Riviera",
-        "note": "details",
-        "phone": "+52 984 8731 210",
+        "contact:email": "info@phocea-mexico.com",
+        "contact:phone": "+52 984 873 1210",
+        "name": "Phocéa Mexico",
         "shop": "scuba_diving",
         "id": "node/863771816"
       },
@@ -48172,27 +48172,6 @@
         "coordinates": [
           33.8509738,
           27.2000935
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/1993794133",
-      "properties": {
-        "addr:city": "Portorož",
-        "addr:housenumber": "3",
-        "addr:postcode": "6320",
-        "addr:street": "Obala",
-        "amenity": "dive_centre",
-        "building": "yes",
-        "name": "Nemo diving center",
-        "id": "node/1993794133"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          13.5731612,
-          45.5149332
         ]
       }
     },
@@ -59818,8 +59797,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          121.4749711,
-          22.6550388
+          121.4749315,
+          22.6550413
         ]
       }
     },
@@ -62632,11 +62611,13 @@
       "type": "Feature",
       "id": "node/4686831653",
       "properties": {
-        "email": "info@eleutheraboradiving.com",
-        "name": "Eleuthera Bora Diving Center",
+        "check_date": "2026-10-14",
+        "email": "info@boradiving.com",
+        "name": "Bora Diving Center",
         "phone": "+68987776746",
         "shop": "scuba_diving",
         "sport": "scuba_diving",
+        "website": "http://boradiving.com",
         "id": "node/4686831653"
       },
       "geometry": {
@@ -98278,8 +98259,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          98.7714283,
-          7.7625148
+          98.7714918,
+          7.7625008
         ]
       }
     },
@@ -101779,8 +101760,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.0882889,
-          24.7043621
+          35.0883325,
+          24.7043251
         ]
       }
     },
@@ -105524,16 +105505,16 @@
       "type": "Feature",
       "id": "node/14256499264",
       "properties": {
+        "check_date": "2026-10-06",
         "name": "Phantom Divers",
-        "note": "details",
         "shop": "scuba_diving",
         "id": "node/14256499264"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.0704527,
-          20.6281874
+          -87.0704607,
+          20.6281774
         ]
       }
     },
@@ -105646,6 +105627,106 @@
         "coordinates": [
           72.9620413,
           4.4391364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14282886991",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "Vrakdykarpensionatet",
+        "id": "node/14282886991"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.4163804,
+          59.143661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14283801875",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "Västerorts kompressorer",
+        "opening_hours": "Mo-Th 12:00-17:00; Fr 12:00-16:00",
+        "id": "node/14283801875"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9216756,
+          59.3692979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14292761986",
+      "properties": {
+        "amenity": "dive_centre",
+        "contact:website": "https://www.scubacaribe.com/watersport-centers/scubacaribe-riu-funana/",
+        "name": "ScubaCaribe RIU Funana",
+        "opening_hours": "Mo-Su 09:00-17:00",
+        "operator": "ScubaCaribe",
+        "id": "node/14292761986"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.927251,
+          16.5948197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14294247172",
+      "properties": {
+        "addr:city": "Orem",
+        "addr:housenumber": "350",
+        "addr:postcode": "84097",
+        "addr:state": "UT",
+        "addr:street": "East 800 South",
+        "amenity": "dive_centre",
+        "email": "info@nadivers.com",
+        "name": "North American Divers",
+        "phone": "+1-801-491-3483",
+        "website": "https://nadivers.com/",
+        "id": "node/14294247172"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6865583,
+          40.2819885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14295524413",
+      "properties": {
+        "amenity": "dive_centre",
+        "contact:mobile": "+33 7 85 12 30 81",
+        "language:de": "yes",
+        "language:en": "yes",
+        "name": "Divin' Giens",
+        "phone": "+33 4 98 04 50 28",
+        "scuba_diving:air_filling": "yes",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:rental": "yes",
+        "website": "https://divingiens.fr",
+        "id": "node/14295524413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1271967,
+          43.0411377
         ]
       }
     }
