@@ -696,16 +696,28 @@
               51.4782394
             ],
             [
-              10.8141843,
-              51.4783316
+              10.8142151,
+              51.4783166
             ],
             [
               10.814218,
               51.4784034
             ],
             [
-              10.8142341,
-              51.4788255
+              10.8142604,
+              51.4787093
+            ],
+            [
+              10.8142529,
+              51.4788205
+            ],
+            [
+              10.8142,
+              51.4789065
+            ],
+            [
+              10.8140686,
+              51.4790443
             ],
             [
               10.8138515,
@@ -716,28 +728,88 @@
               51.4796351
             ],
             [
+              10.8130199,
+              51.4797258
+            ],
+            [
+              10.8128133,
+              51.4797567
+            ],
+            [
               10.812647,
               51.4797824
             ],
             [
-              10.8125016,
-              51.480146
+              10.8124895,
+              51.4801389
+            ],
+            [
+              10.8124238,
+              51.480184
+            ],
+            [
+              10.8121555,
+              51.4802917
             ],
             [
               10.8120802,
               51.4803349
             ],
             [
-              10.8117375,
-              51.4805921
+              10.8120328,
+              51.4804049
             ],
             [
-              10.8114331,
-              51.4806382
+              10.8119658,
+              51.4804633
             ],
             [
-              10.8111307,
-              51.480858
+              10.8118189,
+              51.4805702
+            ],
+            [
+              10.8117214,
+              51.4806063
+            ],
+            [
+              10.811597,
+              51.4806458
+            ],
+            [
+              10.8114783,
+              51.4806546
+            ],
+            [
+              10.8114177,
+              51.4806624
+            ],
+            [
+              10.8113475,
+              51.4807306
+            ],
+            [
+              10.8112892,
+              51.4807899
+            ],
+            [
+              10.8112054,
+              51.4808338
+            ],
+            [
+              10.8111327,
+              51.4808726
+            ],
+            [
+              10.8109412,
+              51.4809202
+            ],
+            [
+              10.8107829,
+              51.4809461
+            ],
+            [
+              10.8106837,
+              51.4809549
             ],
             [
               10.8105935,
@@ -748,44 +820,148 @@
               51.4809665
             ],
             [
-              10.8103272,
-              51.4810277
+              10.8105151,
+              51.4809697
+            ],
+            [
+              10.8104416,
+              51.4809862
+            ],
+            [
+              10.8103922,
+              51.4810298
+            ],
+            [
+              10.8104141,
+              51.4810584
+            ],
+            [
+              10.810455,
+              51.4810864
+            ],
+            [
+              10.8105013,
+              51.4811461
             ],
             [
               10.8104902,
               51.4811764
             ],
             [
-              10.8097885,
-              51.4813177
+              10.810282,
+              51.4812271
             ],
             [
-              10.8095126,
-              51.4813304
+              10.810115,
+              51.4812885
             ],
             [
-              10.8092204,
-              51.4812709
+              10.8099702,
+              51.4813223
             ],
             [
-              10.8089704,
-              51.4813916
+              10.8098737,
+              51.4813119
             ],
             [
-              10.8086361,
-              51.4814423
+              10.8097543,
+              51.4813311
             ],
             [
-              10.8081426,
-              51.4813569
+              10.8096316,
+              51.4813574
             ],
             [
-              10.8077652,
-              51.4812219
+              10.8095032,
+              51.4813567
             ],
             [
-              10.8076838,
-              51.4813234
+              10.8094009,
+              51.4813453
+            ],
+            [
+              10.8092889,
+              51.4813278
+            ],
+            [
+              10.8092238,
+              51.4813093
+            ],
+            [
+              10.8091903,
+              51.4813065
+            ],
+            [
+              10.8090301,
+              51.4813741
+            ],
+            [
+              10.8089389,
+              51.4814112
+            ],
+            [
+              10.8088376,
+              51.4814384
+            ],
+            [
+              10.8086535,
+              51.4814469
+            ],
+            [
+              10.8084983,
+              51.4814422
+            ],
+            [
+              10.8083528,
+              51.4814025
+            ],
+            [
+              10.8081912,
+              51.4813867
+            ],
+            [
+              10.8081312,
+              51.481374
+            ],
+            [
+              10.8080951,
+              51.481365
+            ],
+            [
+              10.8079834,
+              51.4813219
+            ],
+            [
+              10.807872,
+              51.4812965
+            ],
+            [
+              10.8078238,
+              51.4812789
+            ],
+            [
+              10.8078001,
+              51.4812653
+            ],
+            [
+              10.8077748,
+              51.4812618
+            ],
+            [
+              10.8077513,
+              51.4812777
+            ],
+            [
+              10.8076872,
+              51.4813347
+            ],
+            [
+              10.8076186,
+              51.4813871
+            ],
+            [
+              10.8075938,
+              51.4814084
             ],
             [
               10.8075461,
@@ -796,32 +972,68 @@
               51.4813584
             ],
             [
-              10.8070499,
-              51.4812568
+              10.8072692,
+              51.4813249
             ],
             [
-              10.8070789,
-              51.4812149
+              10.80719,
+              51.4812672
             ],
             [
-              10.8070984,
-              51.4811802
+              10.807134,
+              51.4811991
+            ],
+            [
+              10.8071158,
+              51.4811681
             ],
             [
               10.8071327,
               51.481126
             ],
             [
-              10.807622,
-              51.4806516
+              10.8073785,
+              51.4808972
             ],
             [
-              10.8075995,
-              51.4804906
+              10.8074865,
+              51.4807377
             ],
             [
-              10.8078355,
-              51.4799413
+              10.8075382,
+              51.4806374
+            ],
+            [
+              10.8075817,
+              51.4805556
+            ],
+            [
+              10.8075975,
+              51.4805031
+            ],
+            [
+              10.8075777,
+              51.4804533
+            ],
+            [
+              10.80763,
+              51.4803472
+            ],
+            [
+              10.8077064,
+              51.480252
+            ],
+            [
+              10.8077466,
+              51.4800983
+            ],
+            [
+              10.8077815,
+              51.480014
+            ],
+            [
+              10.8078462,
+              51.4799304
             ],
             [
               10.8081237,
@@ -103552,19 +103764,20 @@
     },
     {
       "type": "Feature",
-      "id": "node/3973083162",
+      "id": "node/3973083039",
       "properties": {
         "leisure": "water_park",
-        "name": "Tauchereinstieg 2",
+        "name": "Taucheinstieg 1",
         "scuba_diving:divespot": "yes",
+        "scuba_diving:entry": "steps",
         "sport": "scuba_diving",
-        "id": "node/3973083162"
+        "id": "node/3973083039"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.8080882,
-          51.4813328
+          10.8103966,
+          51.48088
         ]
       }
     },
@@ -118704,37 +118917,20 @@
     },
     {
       "type": "Feature",
-      "id": "node/7580910798",
+      "id": "node/7580910802",
       "properties": {
         "leisure": "water_park",
         "name": "Taucheinstieg 2a",
         "scuba_diving:divespot": "yes",
+        "scuba_diving:entry": "stair",
         "sport": "scuba_diving",
-        "id": "node/7580910798"
+        "id": "node/7580910802"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.8073234,
-          51.4811736
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/7580910800",
-      "properties": {
-        "leisure": "water_park",
-        "name": "Taucheinstieg 1",
-        "scuba_diving:divespot": "yes",
-        "sport": "scuba_diving",
-        "id": "node/7580910800"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          10.8103949,
-          51.480879
+          10.8073464,
+          51.481182
         ]
       }
     },
@@ -118794,14 +118990,15 @@
         "leisure": "water_park",
         "name": "Taucheinstieg 3",
         "scuba_diving:divespot": "yes",
+        "scuba_diving:entry": "steps",
         "sport": "scuba_diving",
         "id": "node/7671384191"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.8125688,
-          51.4798212
+          10.8125849,
+          51.4798099
         ]
       }
     },
@@ -118847,6 +119044,7 @@
       "properties": {
         "historic": "wreck",
         "name": "Charlotte I",
+        "scuba_diving:depth": "15",
         "scuba_diving:divespot": "yes",
         "scuba_diving:type": "wreck",
         "seamark:type": "wreck",
@@ -118858,8 +119056,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.8085128,
-          51.4809297
+          10.8083519,
+          51.4810007
         ]
       }
     },
@@ -118869,6 +119067,7 @@
       "properties": {
         "historic": "wreck",
         "name": "Charlotte IV",
+        "scuba_diving:depth": "15",
         "scuba_diving:divespot": "yes",
         "scuba_diving:type": "wreck",
         "seamark:type": "wreck",
@@ -118879,8 +119078,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.8082771,
-          51.4802361
+          10.808312,
+          51.480566
         ]
       }
     },
@@ -118890,6 +119089,7 @@
       "properties": {
         "historic": "wreck",
         "name": "Charlotte II",
+        "scuba_diving:depth": "20",
         "scuba_diving:divespot": "yes",
         "scuba_diving:type": "wreck",
         "seamark:type": "wreck",
@@ -118901,8 +119101,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.8104183,
-          51.4801551
+          10.810016,
+          51.4803054
         ]
       }
     },
@@ -118912,6 +119112,7 @@
       "properties": {
         "historic": "wreck",
         "name": "Charlotte III",
+        "scuba_diving:depth": "18",
         "scuba_diving:divespot": "yes",
         "scuba_diving:type": "wreck",
         "seamark:type": "wreck",
@@ -118925,8 +119126,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.8132506,
-          51.4785047
+          10.8131862,
+          51.4786066
         ]
       }
     },
@@ -120623,6 +120824,25 @@
         "coordinates": [
           -16.4388455,
           28.1418218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/8909579855",
+      "properties": {
+        "leisure": "water_park",
+        "name": "Tauchereinstieg 2",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:entry": "steps",
+        "sport": "scuba_diving",
+        "id": "node/8909579855"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8081056,
+          51.4813211
         ]
       }
     },
@@ -128454,8 +128674,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.038333,
-          26.562778
+          -80.0383711,
+          26.5629948
         ]
       }
     },
@@ -129383,6 +129603,7 @@
         "historic": "wreck",
         "name": "Sundi",
         "scuba_diving:divespot": "yes",
+        "scuba_diving:type": "attraction",
         "seamark:type": "wreck",
         "sport": "scuba_diving",
         "wreck:visible_at_low_tide": "no",
@@ -129391,8 +129612,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          10.80941,
-          51.4805059
+          10.8091445,
+          51.4803054
         ]
       }
     },
@@ -133246,6 +133467,439 @@
         "coordinates": [
           39.4648267,
           -6.442972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14297113626",
+      "properties": {
+        "amenity": "table",
+        "sport": "scuba_diving",
+        "id": "node/14297113626"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8103531,
+          51.4816971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14297113627",
+      "properties": {
+        "amenity": "table",
+        "sport": "scuba_diving",
+        "id": "node/14297113627"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8103025,
+          51.4816925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14297113628",
+      "properties": {
+        "amenity": "table",
+        "sport": "scuba_diving",
+        "id": "node/14297113628"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8103152,
+          51.4817155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14297113632",
+      "properties": {
+        "amenity": "table",
+        "sport": "scuba_diving",
+        "id": "node/14297113632"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8127684,
+          51.4801153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14297113633",
+      "properties": {
+        "amenity": "table",
+        "sport": "scuba_diving",
+        "id": "node/14297113633"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8109063,
+          51.4811244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14297113634",
+      "properties": {
+        "amenity": "table",
+        "sport": "scuba_diving",
+        "id": "node/14297113634"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8084149,
+          51.4815174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14297113635",
+      "properties": {
+        "amenity": "table",
+        "sport": "scuba_diving",
+        "id": "node/14297113635"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8079083,
+          51.4814739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14297113636",
+      "properties": {
+        "amenity": "table",
+        "sport": "scuba_diving",
+        "id": "node/14297113636"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.807198,
+          51.4814505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14297113674",
+      "properties": {
+        "name": "Plattform 1 4m",
+        "scuba_diving:depth": "4",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:type": "training",
+        "sport": "scuba_diving",
+        "id": "node/14297113674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8102113,
+          51.4809471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14297434106",
+      "properties": {
+        "name": "Figur \"Oma mit Rollator\"",
+        "scuba_diving:depth": "6",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:type": "attraction",
+        "sport": "scuba_diving",
+        "id": "node/14297434106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8104932,
+          51.4797225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14297434107",
+      "properties": {
+        "name": "Figur \"Mann mit Armbanduhr\"",
+        "scuba_diving:depth": "6",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:type": "attraction",
+        "sport": "scuba_diving",
+        "id": "node/14297434107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8105147,
+          51.4798662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14297434108",
+      "properties": {
+        "name": "Figur \"Frau mit Hund\"",
+        "scuba_diving:depth": "4",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:type": "attraction",
+        "sport": "scuba_diving",
+        "id": "node/14297434108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8105469,
+          51.479991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14297434109",
+      "properties": {
+        "name": "Figur \"Frau mit Perlenkette\"",
+        "scuba_diving:depth": "5",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:type": "attraction",
+        "sport": "scuba_diving",
+        "id": "node/14297434109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8107319,
+          51.4800674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14297434110",
+      "properties": {
+        "name": "Figur \"Olaf mit Fotoapparat\"",
+        "scuba_diving:depth": "10",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:type": "attraction",
+        "sport": "scuba_diving",
+        "id": "node/14297434110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8109224,
+          51.4801668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14297434111",
+      "properties": {
+        "name": "Figur \"Mann mit Aktentasche\"",
+        "scuba_diving:depth": "12",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:type": "attraction",
+        "sport": "scuba_diving",
+        "id": "node/14297434111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8111209,
+          51.4802838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14297434112",
+      "properties": {
+        "name": "Figur \"Mädchen mit Handy\"",
+        "scuba_diving:depth": "10",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:type": "attraction",
+        "sport": "scuba_diving",
+        "id": "node/14297434112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.811263,
+          51.480399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14297434113",
+      "properties": {
+        "name": "Amphore",
+        "scuba_diving:depth": "10",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:type": "attraction",
+        "sport": "scuba_diving",
+        "id": "node/14297434113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8137012,
+          51.4791278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14297434114",
+      "properties": {
+        "name": "Unterwasserstadt \"Nordhusia\"",
+        "scuba_diving:depth": "12",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:type": "attraction",
+        "sport": "scuba_diving",
+        "id": "node/14297434114"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8094874,
+          51.4809436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14297434115",
+      "properties": {
+        "name": "Galgen",
+        "scuba_diving:depth": "11",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:type": "attraction",
+        "sport": "scuba_diving",
+        "id": "node/14297434115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8093332,
+          51.4807598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14297434116",
+      "properties": {
+        "historic": "wreck",
+        "name": "Galileo",
+        "scuba_diving:depth": "7",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:type": "wreck",
+        "sport": "scuba_diving",
+        "id": "node/14297434116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8098173,
+          51.4811891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14297434117",
+      "properties": {
+        "name": "Brunnen",
+        "scuba_diving:depth": "10",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:type": "attraction",
+        "sport": "scuba_diving",
+        "id": "node/14297434117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8091897,
+          51.4808074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14297434118",
+      "properties": {
+        "name": "Plattform 4 5m",
+        "scuba_diving:depth": "5",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:type": "training",
+        "sport": "scuba_diving",
+        "id": "node/14297434118"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8127242,
+          51.479692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14297434119",
+      "properties": {
+        "name": "Plattform 3 30m",
+        "scuba_diving:depth": "30",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:type": "training",
+        "sport": "scuba_diving",
+        "id": "node/14297434119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8106729,
+          51.4804207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14297434120",
+      "properties": {
+        "name": "Plattform 2 8m",
+        "scuba_diving:depth": "8",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:type": "training",
+        "sport": "scuba_diving",
+        "id": "node/14297434120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8099501,
+          51.4810705
         ]
       }
     }
