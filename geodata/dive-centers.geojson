@@ -2402,6 +2402,7 @@
         "shop": "scuba_diving",
         "website": "https://www.lorenc.at",
         "wheelchair": "no",
+        "wikidata": "Q139384504",
         "id": "way/92674148"
       },
       "geometry": {
@@ -41435,6 +41436,51 @@
     },
     {
       "type": "Feature",
+      "id": "way/1569692944",
+      "properties": {
+        "addr:city": "Fuvahmulah",
+        "addr:housenumber": "10",
+        "addr:postcode": "18012",
+        "addr:street": "Husnuheenaa magu",
+        "amenity": "dive_centre",
+        "building": "yes",
+        "name": "Scuba Channel Fuvahmulah",
+        "operator": "Scuba Channel fuvahmulah",
+        "scuba_diving:air_filling": "yes",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:filling": "yes",
+        "id": "way/1569692944"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              73.4287515,
+              -0.3032914
+            ],
+            [
+              73.4288198,
+              -0.3033814
+            ],
+            [
+              73.4289494,
+              -0.3032978
+            ],
+            [
+              73.4288719,
+              -0.3031882
+            ],
+            [
+              73.4287515,
+              -0.3032914
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/26772598",
       "properties": {
         "name": "Blue Ocean Diving",
@@ -55291,8 +55337,12 @@
       "type": "Feature",
       "id": "node/3611555023",
       "properties": {
+        "check_date": "2026-10-19",
+        "email": "info@atlantis-creta.com",
         "name": "Atlantis Diving Center",
+        "phone": "+30 697 750 6093",
         "shop": "scuba_diving",
+        "website": "https://www.atlantis-creta.com/",
         "id": "node/3611555023"
       },
       "geometry": {
@@ -71034,23 +71084,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/5762666170",
-      "properties": {
-        "amenity": "dive_centre",
-        "name": "Edgewater Dive & Spa Resort",
-        "tourism": "hotel",
-        "id": "node/5762666170"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          120.9707768,
-          13.5139965
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/5766711237",
       "properties": {
         "name": "SARL Neptune Store",
@@ -82208,6 +82241,7 @@
       "id": "node/8279185190",
       "properties": {
         "amenity": "dive_centre",
+        "check_date": "2026-10-18",
         "name": "Sub Evolution",
         "id": "node/8279185190"
       },
@@ -90501,13 +90535,13 @@
       "properties": {
         "brand": "Au Vieux Campeur",
         "brand:wikidata": "Q2409646",
+        "check_date": "2026-10-18",
         "description": "Tout pour la plongée",
         "description:en": "Scuba diving shop",
         "name": "Au Vieux Campeur",
         "opening_hours": "Mo-We,Fr 11:00-19:30; Th 11:00-21:00; Sa 10:00-19:30; PH 10:00-21:00 unknown \"check website\"",
         "phone": "+33 1 53 10 48 26",
         "shop": "scuba_diving",
-        "survey:date": "2024-05-23",
         "website": "https://www.auvieuxcampeur.fr/boutiques/Paris/plongee/vetements-et-materiel",
         "id": "node/10886215996"
       },
@@ -105727,6 +105761,21 @@
         "coordinates": [
           6.1271967,
           43.0411377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14300929538",
+      "properties": {
+        "shop": "scuba_diving",
+        "id": "node/14300929538"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.5206037,
+          36.5956787
         ]
       }
     }
