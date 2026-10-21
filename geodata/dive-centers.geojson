@@ -39849,6 +39849,49 @@
     },
     {
       "type": "Feature",
+      "id": "way/1453486254",
+      "properties": {
+        "addr:city": "Duluth",
+        "addr:housenumber": "3028",
+        "addr:postcode": "55806",
+        "addr:state": "MN",
+        "addr:street": "West 3rd Street",
+        "building": "commercial",
+        "name": "Lake Superior Divers Supply",
+        "shop": "scuba_diving",
+        "source": "esri_USDOT_St.LouisCountyMN",
+        "id": "way/1453486254"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -92.1395874,
+              46.7596428
+            ],
+            [
+              -92.1397242,
+              46.7595436
+            ],
+            [
+              -92.1395592,
+              46.7595454
+            ],
+            [
+              -92.1395592,
+              46.7596401
+            ],
+            [
+              -92.1395874,
+              46.7596428
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1457813291",
       "properties": {
         "addr:city": "Ciboure",
@@ -59299,6 +59342,7 @@
         "addr:housenumber": "54",
         "addr:postcode": "17676",
         "addr:street": "Ελευθερίου Βενιζέλου",
+        "check_date": "2026-10-20",
         "name": "Big Blue Center",
         "phone": "+30 21 0957 9484",
         "shop": "scuba_diving",
@@ -99038,10 +99082,11 @@
       "type": "Feature",
       "id": "node/12788654943",
       "properties": {
-        "addr:city": "Ripley",
+        "addr:city": "Woking",
         "addr:housenumber": "67",
         "addr:postcode": "GU23 6AN",
         "addr:street": "High Street",
+        "addr:suburb": "Ripley",
         "amenity": "dive_centre",
         "name": "Surrey Dive Centre",
         "phone": "+44 1483 225699",
@@ -103579,27 +103624,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/13911312669",
-      "properties": {
-        "addr:city": "Duluth",
-        "addr:housenumber": "3028",
-        "addr:postcode": "55806",
-        "addr:state": "MN",
-        "addr:street": "West 3rd Street",
-        "name": "Lake Superior Divers Supply and School",
-        "shop": "scuba_diving",
-        "id": "node/13911312669"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -92.1395864,
-          46.7596022
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/13912643619",
       "properties": {
         "addr:city": "Београд",
@@ -105776,6 +105800,24 @@
         "coordinates": [
           -4.5206037,
           36.5956787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14304837402",
+      "properties": {
+        "check_date": "2026-10-20",
+        "name": "The Reef Diveshop",
+        "note": "details",
+        "shop": "scuba_diving",
+        "id": "node/14304837402"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0671475,
+          20.6320125
         ]
       }
     }
