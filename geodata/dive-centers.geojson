@@ -44666,14 +44666,14 @@
       "id": "node/863772004",
       "properties": {
         "addr:city": "Playa del Carmen",
-        "addr:housenumber": "Local 2",
         "addr:neighbourhood": "Centro",
         "addr:postcode": "77710",
-        "addr:street": "Av 1 Norte entre calles 22 y 24",
+        "addr:unit": "Local 2",
+        "check_date": "2026-10-21",
+        "description": "SDI 5-Star Dive Center. PADI courses.\nDirect-to-Cozumel trips\nCenote caverns\nPlaya del Carmen reef dives\nFree Nitrox",
         "email": "dive@tankha.com",
-        "is_in": "Playa del Carmen, Solidaridad, Quintana Roo, México",
         "name": "Tank-Ha Dive Center",
-        "note": "SDI 5-Star Dive Center. PADI courses.\nDirect-to-Cozumel trips\nCenote caverns\nPlaya del Carmen reef dives",
+        "note": "details",
         "opening_hours": "Mo-Su 08:00-19:00",
         "payment:american_express": "yes",
         "payment:cards": "yes",
@@ -44686,6 +44686,7 @@
         "payment:visa": "yes",
         "payment:visa_debit": "yes",
         "phone": "+52 984 873 0302",
+        "scuba_diving:filling": "yes",
         "shop": "scuba_diving",
         "source": "local knowledge",
         "start_date": "1990",
@@ -49169,9 +49170,9 @@
         "amenity": "post_office",
         "brand": "DHL",
         "brand:wikidata": "Q489815",
-        "check_date:opening_hours": "2024-08-20",
+        "check_date:opening_hours": "2026-10-21",
         "name": "Gerda's Dive Shop",
-        "opening_hours": "Mo,Tu,Th,Fr 09:00-19:00; We,Sa 09:00-14:00",
+        "opening_hours": "Mo,Tu,Th,Fr 12:00-18:00; We,Sa 09:00-14:00",
         "operator": "DHL",
         "post_office:type": "post_partner",
         "shop": "scuba_diving",
@@ -73647,6 +73648,42 @@
         "coordinates": [
           2.9471015,
           36.808072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/6172689185",
+      "properties": {
+        "addr:postcode": "80771",
+        "addr:street": "Jl toyapakeh ped 80771",
+        "cuisine": "indonesian;chicken;international;coffee_shop",
+        "email": "sanctum.nusapenida@gmail.com",
+        "internet_access": "wlan",
+        "name": "Sanctum Dive Nusa Penida",
+        "opening_hours": "24/7",
+        "payment:alipay": "yes",
+        "payment:american_express": "yes",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:google_pay": "yes",
+        "payment:visa": "yes",
+        "phone": "+62 812 8532 5669",
+        "scuba_diving:air_filling": "yes",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:filling": "yes",
+        "scuba_diving:nitrox_filling": "yes",
+        "scuba_diving:rental": "yes",
+        "shop": "scuba_diving",
+        "website": "https://www.sanctumdiveindonesia.com/",
+        "id": "node/6172689185"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.4976219,
+          -8.6725375
         ]
       }
     },
@@ -105818,6 +105855,81 @@
         "coordinates": [
           -87.0671475,
           20.6320125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14306028831",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "L'Aquarium (snorkeling & Dive)",
+        "id": "node/14306028831"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.6339133,
+          -14.9768567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14307607351",
+      "properties": {
+        "check_date": "2026-10-21",
+        "contact:website": "www.medivecenter.com",
+        "name": "Me Dive Center",
+        "note": "details",
+        "shop": "scuba_diving",
+        "id": "node/14307607351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0683384,
+          20.6339873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14307980062",
+      "properties": {
+        "addr:district": "koh chang",
+        "addr:housenumber": "21/52",
+        "addr:postcode": "23170",
+        "addr:province": "Trat",
+        "addr:street": "Moo 4",
+        "addr:subdistrict": "klong prao beach",
+        "amenity": "dive_centre",
+        "name": "Chang Diving Center",
+        "phone": "0894013927",
+        "scuba_diving:courses": "yes",
+        "website": "https://changdiving.com/",
+        "id": "node/14307980062"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.2898647,
+          12.0628994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14308005263",
+      "properties": {
+        "amenity": "dive_centre",
+        "id": "node/14308005263"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2420729,
+          20.4870461
         ]
       }
     }
