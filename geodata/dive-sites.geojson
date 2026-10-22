@@ -65969,25 +65969,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/663869277",
-      "properties": {
-        "name": "Ogden Point (The Breakwater)",
-        "source": "www.dive-links.com",
-        "sport": "scuba_diving",
-        "verified": "no, please check and del this tag",
-        "website": "http://www.dive-links.com/tauchplatz.php?id=1895",
-        "id": "node/663869277"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.384114,
-          48.41487
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/663869278",
       "properties": {
         "name": "Spring Bay",
@@ -97196,8 +97177,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.100116,
-          45.7329332
+          6.1004316,
+          45.7326185
         ]
       }
     },
