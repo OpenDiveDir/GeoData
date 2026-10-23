@@ -133883,6 +133883,44 @@
           51.4810705
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14311124661",
+      "properties": {
+        "name": "Tapu Canyon",
+        "scuba_diving:depth": "18",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:entry": "boat",
+        "sport": "scuba_diving",
+        "id": "node/14311124661"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.784394,
+          -16.495438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14311160928",
+      "properties": {
+        "name": "Fafapiti",
+        "scuba_diving:depth": "18",
+        "scuba_diving:divespot": "yes",
+        "scuba_diving:entry": "boat",
+        "sport": "scuba_diving",
+        "id": "node/14311160928"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.740556,
+          -16.469722
+        ]
+      }
     }
   ]
 }
