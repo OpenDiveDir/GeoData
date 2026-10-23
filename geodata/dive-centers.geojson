@@ -30021,6 +30021,54 @@
     },
     {
       "type": "Feature",
+      "id": "way/871378858",
+      "properties": {
+        "building": "yes",
+        "email": "info@boradiving.com",
+        "league": "PADI;CMAS",
+        "name": "Bora Diving Center",
+        "phone": "+689 87 77 67 46",
+        "scuba_diving:air_filling": "yes",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:filling": "yes",
+        "scuba_diving:nitrox_filling": "yes",
+        "scuba_diving:oxygen_filling": "yes",
+        "scuba_diving:rental": "yes",
+        "shop": "scuba_diving",
+        "sport": "scuba_diving",
+        "website": "http://boradiving.com",
+        "id": "way/871378858"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -151.7442852,
+              -16.5354921
+            ],
+            [
+              -151.7442651,
+              -16.5355641
+            ],
+            [
+              -151.7441686,
+              -16.5355393
+            ],
+            [
+              -151.7441887,
+              -16.5354673
+            ],
+            [
+              -151.7442852,
+              -16.5354921
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/876376784",
       "properties": {
         "building": "yes",
@@ -57825,6 +57873,7 @@
         "payment:telephone_cards": "yes",
         "payment:visa": "yes",
         "phone": "+33 4 72079373",
+        "ref:FR:SIRET": "49421514800029",
         "scuba_diving:air_filling": "yes",
         "scuba_diving:courses": "yes",
         "scuba_diving:nitrox_filling": "yes",
@@ -62699,27 +62748,6 @@
         "coordinates": [
           -147.6462727,
           -14.9604409
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/4686831653",
-      "properties": {
-        "check_date": "2026-10-14",
-        "email": "info@boradiving.com",
-        "name": "Bora Diving Center",
-        "phone": "+68987776746",
-        "shop": "scuba_diving",
-        "sport": "scuba_diving",
-        "website": "http://boradiving.com",
-        "id": "node/4686831653"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -151.7442206,
-          -16.5355173
         ]
       }
     },
@@ -105889,7 +105917,7 @@
         "type": "Point",
         "coordinates": [
           -87.0683384,
-          20.6339873
+          20.6339953
         ]
       }
     },
