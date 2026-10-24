@@ -90369,22 +90369,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/838074486",
-      "properties": {
-        "scuba_diving:name": "Dagstrand",
-        "sport": "scuba_diving",
-        "id": "node/838074486"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.55041,
-          51.455
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/838074499",
       "properties": {
         "scuba_diving:name": "Duynenwater",
