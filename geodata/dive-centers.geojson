@@ -23701,7 +23701,7 @@
         "addr:country": "DE",
         "addr:housenumber": "40/1",
         "addr:postcode": "88630",
-        "addr:street": "Bannholzerweg",
+        "addr:street": "Bannholzer Weg",
         "amenity": "dive_centre",
         "building": "yes",
         "contact:mobile": "+49 171 7575476",
@@ -36503,6 +36503,57 @@
             [
               -0.4921602,
               51.3845883
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1221902766",
+      "properties": {
+        "building": "yes",
+        "email": "contact@o2fakarava.com",
+        "name": "O2 Fakarava centre de plongée",
+        "name:en": "O2 Fakarava diving center",
+        "scuba_diving:courses": "yes",
+        "shop": "scuba_diving",
+        "sport": "scuba_diving",
+        "website": "http://www.o2fakarava.com",
+        "wheelchair": "no",
+        "id": "way/1221902766"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -145.6145542,
+              -16.0795467
+            ],
+            [
+              -145.6145684,
+              -16.079659
+            ],
+            [
+              -145.6144649,
+              -16.0796666
+            ],
+            [
+              -145.6144649,
+              -16.079534
+            ],
+            [
+              -145.6145091,
+              -16.0795323
+            ],
+            [
+              -145.6145162,
+              -16.079545
+            ],
+            [
+              -145.6145542,
+              -16.0795467
             ]
           ]
         ]
@@ -65838,10 +65889,11 @@
         "addr:housenumber": "9",
         "addr:postcode": "07470",
         "addr:street": "Carrer d'Elcano",
-        "name": "Actionsport Prodive Mallorca",
+        "name": "Tramuntana Diving & Adventure",
         "opening_hours": "Mo-Su 09:00-18:00",
         "scuba_diving:freediving": "yes",
         "shop": "scuba_diving",
+        "website": "https://tramuntanadiving.com",
         "id": "node/5004501899"
       },
       "geometry": {
@@ -72887,25 +72939,6 @@
         "coordinates": [
           3.0803069,
           39.9053984
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/6006337285",
-      "properties": {
-        "email": "contact@o2fakarava.com",
-        "name": "O2 Fakarava centre de plongée",
-        "name:en": "O2 Fakarava diving center",
-        "shop": "scuba_diving",
-        "website": "http://www.o2fakarava.com",
-        "id": "node/6006337285"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -145.6145099,
-          -16.0796024
         ]
       }
     },
@@ -90714,6 +90747,7 @@
       "properties": {
         "amenity": "dive_centre",
         "name": "Tauchparadies Schwedeneck",
+        "opening_hours": "May,Jun: Sa,Su 10:00-18:00, Jun-Sep: Tu-Fr 14:00-18:00, Jun-Sep: Sa,Su 10:00-18:00, Sep,Oct: Sa,Su 10:00-18:00",
         "scuba_diving:courses": "yes",
         "id": "node/10894549592"
       },
@@ -105558,6 +105592,7 @@
         "addr:street": "Biggarsberg Street",
         "addr:suburb": "Glenvista",
         "addr:unit": "U44",
+        "brand:wikidata": "Q141694614",
         "contact:facebook": "https://www.facebook.com/scubaevolutionJHB",
         "contact:instagram": "https://www.instagram.com/scuba_evolution/",
         "contact:whatsapp": "+27 82 557 3822",
@@ -105565,13 +105600,14 @@
         "name": "Scuba Evolution",
         "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-16:00; Su 09:00-13:00",
         "phone": "+27 10 335 1000",
+        "scuba_diving:air_filling": "yes",
         "scuba_diving:courses": "yes",
-        "scuba_diving:filling:air": "yes",
-        "scuba_diving:filling:nitrox": "yes",
+        "scuba_diving:nitrox_filling": "yes",
         "scuba_diving:rental": "no",
         "scuba_diving:repair": "yes",
         "shop": "scuba_diving",
         "website": "https://scubaevolution.co.za",
+        "wikidata": "Q141694614",
         "id": "node/14240515683"
       },
       "geometry": {
@@ -105958,6 +105994,118 @@
         "coordinates": [
           -87.2420729,
           20.4870461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14314246844",
+      "properties": {
+        "addr:street": "Calle 40 Norte",
+        "check_date": "2026-10-23",
+        "contact:email": "plutodive@gmail.com",
+        "contact:facebook": "plutodive",
+        "contact:instagram": "plutodive",
+        "contact:phone": "+52 984 151 9045;+52 984 151 9046",
+        "contact:website": "https://plutodive.com/",
+        "contact:whatsapp": "+52 984 151 9045;+52 984 151 9046",
+        "description": "centro de buceo PADI Dive Resort e IANTD: arrecife, cenotes, cavernas, sidemount, buceo técnico y cursos de certificación",
+        "name": "Pluto Dive",
+        "opening_hours": "10:30-12:00,15:30-17:30",
+        "payment:visa": "yes",
+        "shop": "scuba_diving",
+        "id": "node/14314246844"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0659161,
+          20.6367185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14315273414",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "SSC Scuola Subacquea Como",
+        "id": "node/14315273414"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0794464,
+          45.8246465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14317190792",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "2288-165",
+        "addr:postcode": "904-0401",
+        "addr:province": "沖縄県",
+        "contact:phone": "+81 98 967 8487",
+        "contact:website": "https://piranha-divers.jp/",
+        "name": "Piranha Divers Okinawa",
+        "shop": "scuba_diving",
+        "sport": "scuba_diving",
+        "id": "node/14317190792"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.9267319,
+          26.5229884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14317218965",
+      "properties": {
+        "addr:city": "読谷村",
+        "addr:country": "JP",
+        "addr:housenumber": "236",
+        "addr:place": "瀬名波",
+        "addr:postcode": "904-0325",
+        "addr:province": "沖縄県",
+        "contact:email": "sunkisseddivers@gmail.com",
+        "contact:mobile": "+81 70 5416 5368",
+        "contact:website": "https://sunkisseddivers.com/",
+        "name": "Sunkissed divers",
+        "shop": "scuba_diving",
+        "sport": "scuba_diving",
+        "id": "node/14317218965"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7316589,
+          26.424191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14319986076",
+      "properties": {
+        "check_date": "2026-10-25",
+        "name": "Phantom Divers",
+        "note": "details",
+        "shop": "scuba_diving",
+        "id": "node/14319986076"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0645354,
+          20.6373696
         ]
       }
     }
