@@ -95403,6 +95403,7 @@
       "properties": {
         "leisure": "sports_centre",
         "name": "Carrière d'Éguzon",
+        "ref:FR:sport_equip": "E001I360620007",
         "sport": "scuba_diving",
         "id": "node/1980997948"
       },
@@ -134011,6 +134012,22 @@
         "coordinates": [
           -151.740556,
           -16.469722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14322367002",
+      "properties": {
+        "name": "Gorilla Chop",
+        "sport": "scuba_diving",
+        "id": "node/14322367002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8819553,
+          26.6363277
         ]
       }
     }
