@@ -32233,6 +32233,49 @@
     },
     {
       "type": "Feature",
+      "id": "way/988717097",
+      "properties": {
+        "amenity": "dive_centre",
+        "building": "retail",
+        "check_date": "2025-09-16",
+        "contact:mobile": "+30 69 77 50 60 93",
+        "contact:phone": "+30 69 34 08 70 70",
+        "name": "Diving Center Atlantis",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:organization": "padi",
+        "website": "https://atlantis-creta.com/",
+        "id": "way/988717097"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              24.6875791,
+              35.418965
+            ],
+            [
+              24.6876434,
+              35.4189055
+            ],
+            [
+              24.6876791,
+              35.4189311
+            ],
+            [
+              24.6876147,
+              35.4189906
+            ],
+            [
+              24.6875791,
+              35.418965
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/988958651",
       "properties": {
         "addr:city": "Massa Lubrense",
@@ -36514,9 +36557,11 @@
       "properties": {
         "building": "yes",
         "email": "contact@o2fakarava.com",
+        "level": "0",
         "name": "O2 Fakarava centre de plongée",
         "name:en": "O2 Fakarava diving center",
         "scuba_diving:courses": "yes",
+        "scuba_diving:nitrox_filling": "yes",
         "shop": "scuba_diving",
         "sport": "scuba_diving",
         "website": "http://www.o2fakarava.com",
@@ -84843,28 +84888,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/9138622915",
-      "properties": {
-        "amenity": "dive_centre",
-        "check_date": "2025-09-16",
-        "contact:mobile": "+30 69 77 50 60 93",
-        "contact:phone": "+30 69 34 08 70 70",
-        "name": "Diving Center Atlantis",
-        "scuba_diving:courses": "yes",
-        "scuba_diving:organization": "padi",
-        "website": "https://atlantis-creta.com/",
-        "id": "node/9138622915"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          24.6876686,
-          35.4189532
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/9139280257",
       "properties": {
         "amenity": "dive_centre",
@@ -96786,9 +96809,11 @@
         "addr:city": "Playa del Carmen",
         "addr:postcode": "77720",
         "addr:street": "Calle Flamingos",
+        "check_date": "2026-10-27",
         "contact:facebook": "https://www.facebook.com/xicodivecenter/",
         "email": "info@xicodivecenter.com",
         "name": "Xico Dive Center",
+        "note": "details",
         "opening_hours": "Mo-Su 08:00-20:00",
         "phone": "+52 984 803 3518",
         "scuba_diving:air_filling": "yes",
@@ -96803,8 +96828,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.062999,
-          20.6352811
+          -87.0630999,
+          20.6352193
         ]
       }
     },
@@ -106106,6 +106131,84 @@
         "coordinates": [
           -87.0645354,
           20.6373696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14324322916",
+      "properties": {
+        "check_date": "2026-10-27",
+        "name": "Chilango Diving",
+        "note": "details",
+        "shop": "scuba_diving",
+        "id": "node/14324322916"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0649156,
+          20.6383691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14324323274",
+      "properties": {
+        "check_date": "2026-10-27",
+        "name": "Blue Life",
+        "note": "details",
+        "shop": "scuba_diving",
+        "id": "node/14324323274"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0625717,
+          20.6390651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14324352136",
+      "properties": {
+        "addr:city": "Crystal River",
+        "addr:housenumber": "1420",
+        "addr:postcode": "34429",
+        "addr:state": "FL",
+        "addr:street": "Southeast US Highway 19",
+        "amenity": "dive_centre",
+        "league": "NAUI",
+        "name": "Crystal River Kayak Company & Dive Center",
+        "phone": "+1 352-795-2255",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:rental": "yes",
+        "website": "https://crystalriverkayakcompany.com/",
+        "id": "node/14324352136"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5838389,
+          28.8845358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14324684978",
+      "properties": {
+        "name": "블루다이빙",
+        "shop": "scuba_diving",
+        "id": "node/14324684978"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.6158442,
+          35.8436291
         ]
       }
     }
