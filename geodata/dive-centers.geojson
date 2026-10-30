@@ -41668,6 +41668,52 @@
     },
     {
       "type": "Feature",
+      "id": "way/1573525621",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "339",
+        "addr:place": "真栄田",
+        "addr:postcode": "904-0417",
+        "addr:province": "沖縄県",
+        "building": "yes",
+        "contact:phone": "+81 98 965 0244",
+        "name": "Takedive",
+        "shop": "scuba_diving",
+        "website": "https://www.takedive.jp/",
+        "id": "way/1573525621"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              127.7706848,
+              26.4399327
+            ],
+            [
+              127.7706567,
+              26.4398539
+            ],
+            [
+              127.7707086,
+              26.4398391
+            ],
+            [
+              127.7707366,
+              26.4399179
+            ],
+            [
+              127.7706848,
+              26.4399327
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/26772598",
       "properties": {
         "name": "Blue Ocean Diving",
@@ -42841,35 +42887,6 @@
         "coordinates": [
           33.8491042,
           27.2413927
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/342222662",
-      "properties": {
-        "addr:city": "Darmstadt",
-        "addr:country": "DE",
-        "addr:housenumber": "53",
-        "addr:postcode": "64283",
-        "addr:street": "Rheinstraße",
-        "addr:suburb": "Darmstadt-Mitte",
-        "check_date": "2025-10-13",
-        "level": "0",
-        "name": "Aquanaut",
-        "opening_hours": "Mo,Su,PH off; Tu-Fr 14:00-18:00; Sa 11:00-15:00",
-        "phone": "+49 6151 824437",
-        "shop": "scuba_diving",
-        "website": "https://www.aquanaut.de/",
-        "wheelchair": "limited",
-        "wheelchair:description": "eine Stufe am Eingang",
-        "id": "node/342222662"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.6425498,
-          49.8718096
         ]
       }
     },
@@ -60167,6 +60184,7 @@
         "addr:housenumber": "1a",
         "addr:postcode": "01662",
         "addr:street": "Fabrikstraße",
+        "check_date": "2026-10-29",
         "name": "Tauchschule Abyss",
         "shop": "scuba_diving",
         "website": "https://www.tauchschule-abyss.com/",
@@ -78734,6 +78752,26 @@
         "coordinates": [
           -109.439261,
           -27.1530491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/7059048186",
+      "properties": {
+        "addr:street": "323 moo 7 Koh Lipe, Satun 11120, Thailand",
+        "amenity": "dive_centre",
+        "name:en": "Pura Vida Diving Koh Lipe",
+        "opening_hours": "Mo-Su 08:00-18:00",
+        "phone": "+66 65 776 7010",
+        "website": "https://www.puravidakohlipediving.com/",
+        "id": "node/7059048186"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.2984142,
+          6.4872155
         ]
       }
     },
@@ -105934,16 +105972,20 @@
       "id": "node/14304837402",
       "properties": {
         "check_date": "2026-10-20",
+        "contact:email": "mail@thereefdiveshop.com",
+        "contact:phone": "+52 984 168 9693",
+        "contact:website": "https://thereefdiveshop.com/",
+        "contact:whatsapp": "+52 984 168 9693",
+        "description": "centro de buceo PADI: cursos e inmersiones en arrecifes de Playa del Carmen, Cozumel, cenotes y con tiburón toro y tiburón ballena",
         "name": "The Reef Diveshop",
-        "note": "details",
         "shop": "scuba_diving",
         "id": "node/14304837402"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.0671475,
-          20.6320125
+          -87.0671612,
+          20.6319905
         ]
       }
     },
@@ -106138,8 +106180,16 @@
       "type": "Feature",
       "id": "node/14324322916",
       "properties": {
+        "alt_name": "Chilango Diving",
         "check_date": "2026-10-27",
-        "name": "Chilango Diving",
+        "contact:email": "info@chillandgodiving.com",
+        "contact:facebook": "chillandgodiving",
+        "contact:instagram": "chillandgodiving",
+        "contact:phone": "+52 55 4386 0087",
+        "contact:website": "https://chillandgodiving.com/",
+        "contact:whatsapp": "+52 55 4386 0087",
+        "description": "Centro de buceo con certificaciones PADI; tours en Playa del Carmen, Puerto Morelos, Cozumel, Isla Mujeres (MUSA), cenotes, tiburón toro y pecios",
+        "name": "Chill and Go Diving",
         "note": "details",
         "shop": "scuba_diving",
         "id": "node/14324322916"
