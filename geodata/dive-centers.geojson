@@ -41677,9 +41677,11 @@
         "addr:place": "真栄田",
         "addr:postcode": "904-0417",
         "addr:province": "沖縄県",
+        "amenity": "dive_centre",
         "building": "yes",
         "contact:phone": "+81 98 965 0244",
         "name": "Takedive",
+        "scuba_diving:courses": "yes",
         "shop": "scuba_diving",
         "website": "https://www.takedive.jp/",
         "id": "way/1573525621"
@@ -41707,6 +41709,62 @@
             [
               127.7706848,
               26.4399327
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1573846247",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "338-1",
+        "addr:place": "真栄田",
+        "addr:postcode": "904-0417",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "building": "yes",
+        "contact:fax": "+81 98 989 3667",
+        "contact:phone": "+81 98 989 3666",
+        "name": "アーク エンジェル",
+        "name:en": "Arch Angel",
+        "name:ja": "アークエンジェル",
+        "name:ja-Latn": "Āku-Enjeru",
+        "scuba_diving:courses": "yes",
+        "shop": "scuba_diving",
+        "website": "https://www.ds-archangel.jp/",
+        "id": "way/1573846247"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              127.7707719,
+              26.4396764
+            ],
+            [
+              127.7707885,
+              26.4396317
+            ],
+            [
+              127.7708316,
+              26.4396445
+            ],
+            [
+              127.7708263,
+              26.4396588
+            ],
+            [
+              127.7708149,
+              26.4396893
+            ],
+            [
+              127.7707719,
+              26.4396764
             ]
           ]
         ]
@@ -45154,17 +45212,26 @@
       "type": "Feature",
       "id": "node/920559689",
       "properties": {
+        "addr:postcode": "77710",
+        "addr:street": "Calle 4 Norte",
         "check_date": "2026-10-07",
+        "contact:email": "dive@scubalibre.com.mx",
+        "contact:facebook": "scubalibrediving",
+        "contact:instagram": "scubalibremx",
+        "contact:phone": "+52 984 806 4804",
+        "contact:website": "https://scubalibre.com.mx/",
+        "contact:whatsapp": "+52 984 806 4804",
+        "description": "centro de buceo PADI 5 estrellas desde 1998: cursos, apnea, arrecifes, cenotes, Cozumel, tiburón toro y snorkel con tiburón ballena",
         "name": "Scuba Libre",
-        "note": "details",
+        "opening_hours": "Mo-Su 08:00-17:00",
         "shop": "scuba_diving",
         "id": "node/920559689"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.073658,
-          20.6239864
+          -87.0736396,
+          20.6239741
         ]
       }
     },
@@ -57237,15 +57304,17 @@
         "addr:postcode": "904-0416",
         "addr:quarter": "字山田",
         "amenity": "dive_centre",
+        "max_age": "59",
         "name": "マリンクラブナギ",
         "name:en": "Marine Club NAGI",
+        "website": "http://nagi.ne.jp/",
         "id": "node/3846478465"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.7729251,
-          26.4408781
+          127.7728124,
+          26.4409345
         ]
       }
     },
@@ -105763,17 +105832,25 @@
       "type": "Feature",
       "id": "node/14262199126",
       "properties": {
+        "addr:street": "Calle 8 Norte",
         "check_date": "2026-10-07",
+        "contact:email": "mexico@dune-world.com",
+        "contact:facebook": "MexicoDune",
+        "contact:instagram": "dune_mexico",
+        "contact:phone": "+52 984 143 7400",
+        "contact:website": "https://mexico.dune-world.com/",
+        "description": "centro de buceo PADI 5* IDC: cursos hasta instructor; inmersiones en Playa del Carmen, Cozumel y cenotes, tiburón toro, nocturnas y snorkel",
+        "level": "0",
         "name": "Dune",
-        "note": "details",
+        "opening_hours": "Mo-Su 08:00-18:00",
         "shop": "scuba_diving",
         "id": "node/14262199126"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.0725078,
-          20.6255666
+          -87.072497,
+          20.6255847
         ]
       }
     },
@@ -106259,6 +106336,70 @@
         "coordinates": [
           128.6158442,
           35.8436291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14333344653",
+      "properties": {
+        "amenity": "dive_centre",
+        "description": "Antalya diving activity departure point",
+        "name": "Antalya Diving",
+        "phone": "+90 538 708 80 50",
+        "website": "https://www.antalya-diving.com",
+        "id": "node/14333344653"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.6055754,
+          36.8329458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14334427813",
+      "properties": {
+        "addr:city": "読谷村",
+        "addr:country": "JP",
+        "addr:district": "中頭郡",
+        "addr:housenumber": "915",
+        "addr:place": "字高志保",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 98 958 3332",
+        "max_age": "65",
+        "name": "Marine Service むるぬーし",
+        "opening_hours": "08:00-18:00",
+        "operator": "Blue Wing Okinawa 株式会社",
+        "website": "https://www.murunu-shi.com/",
+        "id": "node/14334427813"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7164802,
+          26.4083081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14334714742",
+      "properties": {
+        "check_date": "2026-10-30",
+        "name": "Snorkeler",
+        "note": "details",
+        "shop": "scuba_diving",
+        "id": "node/14334714742"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0685657,
+          20.6428044
         ]
       }
     }
