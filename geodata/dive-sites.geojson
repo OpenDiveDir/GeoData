@@ -65446,6 +65446,8 @@
       "id": "node/663869236",
       "properties": {
         "name": "Temaruata",
+        "natural": "reef",
+        "scuba_diving:divespot": "yes",
         "source": "www.dive-links.com",
         "sport": "scuba_diving",
         "verified": "no, please check and del this tag",
@@ -105727,6 +105729,25 @@
     },
     {
       "type": "Feature",
+      "id": "node/4079423490",
+      "properties": {
+        "name": "Passe Garuae",
+        "natural": "strait",
+        "place": "locality",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/4079423490"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -145.7165423,
+          -16.0821288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/4079423516",
       "properties": {
         "name": "Passe Tumakohua",
@@ -125999,6 +126020,32 @@
     },
     {
       "type": "Feature",
+      "id": "node/11709127833",
+      "properties": {
+        "addr:city": "Zutphen",
+        "addr:housenumber": "31",
+        "addr:postcode": "7207AD",
+        "addr:street": "Bronsbergen",
+        "club": "sport",
+        "leisure": "sports_centre",
+        "name": "Duikcentrum Bronsbergen",
+        "ref:bag": "0301100000034515",
+        "source": "BAG",
+        "source:date": "2024-03-09",
+        "sport": "scuba_diving",
+        "start_date": "2024",
+        "id": "node/11709127833"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.214595,
+          52.1181417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/11736882875",
       "properties": {
         "access": "yes",
@@ -134084,8 +134131,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.8819553,
-          26.6363277
+          127.8815315,
+          26.6358961
         ]
       }
     },
@@ -134102,6 +134149,134 @@
         "coordinates": [
           39.5414866,
           -6.297945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14334421085",
+      "properties": {
+        "historic": "wreck",
+        "name": "Shaabruhr Umm Gamar",
+        "seamark:type": "wreck",
+        "sport": "scuba_diving",
+        "verified": "no, please check and del this tag",
+        "id": "node/14334421085"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.8897293,
+          27.1805059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14334571109",
+      "properties": {
+        "sport": "scuba_diving",
+        "id": "node/14334571109"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8593159,
+          26.5132168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14334571155",
+      "properties": {
+        "sport": "scuba_diving",
+        "id": "node/14334571155"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.9291928,
+          26.5393943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14334571156",
+      "properties": {
+        "sport": "scuba_diving",
+        "id": "node/14334571156"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.9232168,
+          26.5311683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14334571157",
+      "properties": {
+        "sport": "scuba_diving",
+        "id": "node/14334571157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8847218,
+          26.5085364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14334571158",
+      "properties": {
+        "sport": "scuba_diving",
+        "id": "node/14334571158"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7894497,
+          26.4418917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14334571159",
+      "properties": {
+        "name": "青の洞窟",
+        "name:en": "Blue Grotto",
+        "name:ja-Hira": "あおのどうくつ",
+        "name:ja-Latn": "Ao-no-dōkutsu",
+        "sport": "scuba_diving",
+        "id": "node/14334571159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.773512,
+          26.4432895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14334607283",
+      "properties": {
+        "sport": "scuba_diving",
+        "id": "node/14334607283"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8341889,
+          26.4925186
         ]
       }
     }
