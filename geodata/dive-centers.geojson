@@ -44865,10 +44865,16 @@
       "type": "Feature",
       "id": "node/863771952",
       "properties": {
-        "contact:website": "scubaplaya.com",
+        "addr:postcode": "77710",
+        "addr:street": "Calle 10 Norte",
+        "contact:email": "info@scubaplaya.com",
+        "contact:facebook": "scubaplayadiveshop",
+        "contact:instagram": "scubaplaya",
+        "contact:phone": "+52 984 241 4592",
+        "contact:website": "https://scubaplaya.com/",
+        "contact:whatsapp": "+52 984 241 4592",
+        "description": "centro de buceo PADI 5 estrellas IDC: cursos desde Discover Scuba hasta instructor y nitrox; arrecifes, Cozumel, tiburón toro y cenotes",
         "name": "Scuba Playa",
-        "note": "details",
-        "phone": "+52 984 873 1210",
         "shop": "scuba_diving",
         "id": "node/863771952"
       },
@@ -44889,27 +44895,26 @@
         "addr:postcode": "77710",
         "addr:unit": "Local 2",
         "check_date": "2026-10-21",
-        "description": "SDI 5-Star Dive Center. PADI courses.\nDirect-to-Cozumel trips\nCenote caverns\nPlaya del Carmen reef dives\nFree Nitrox",
-        "email": "dive@tankha.com",
+        "contact:email": "dive@tankha.com",
+        "contact:instagram": "tankhadivecenter",
+        "contact:phone": "+52 984 873 0302",
+        "contact:website": "https://tankha.com/",
+        "contact:whatsapp": "+52 984 873 0302",
+        "description": "SDI 5-Star Dive Center. PADI courses. Direct-to-Cozumel trips Cenote caverns Playa del Carmen reef dives Free Nitrox",
         "name": "Tank-Ha Dive Center",
-        "note": "details",
         "opening_hours": "Mo-Su 08:00-19:00",
         "payment:american_express": "yes",
         "payment:cards": "yes",
         "payment:cash": "yes",
-        "payment:coins": "yes",
         "payment:credit_cards": "yes",
         "payment:debit_cards": "yes",
         "payment:mastercard": "yes",
-        "payment:notes": "yes",
         "payment:visa": "yes",
         "payment:visa_debit": "yes",
-        "phone": "+52 984 873 0302",
         "scuba_diving:filling": "yes",
         "shop": "scuba_diving",
         "source": "local knowledge",
         "start_date": "1990",
-        "website": "https://tankha.com/",
         "id": "node/863772004"
       },
       "geometry": {
@@ -96917,19 +96922,20 @@
         "addr:postcode": "77720",
         "addr:street": "Calle Flamingos",
         "check_date": "2026-10-27",
-        "contact:facebook": "https://www.facebook.com/xicodivecenter/",
-        "email": "info@xicodivecenter.com",
+        "contact:email": "info@xicodivecenter.com",
+        "contact:facebook": "xicodivecenter",
+        "contact:instagram": "xicodivecenter",
+        "contact:phone": "+52 984 745 0576",
+        "contact:website": "https://xicodivecenter.com/",
+        "contact:whatsapp": "+52 984 745 0576",
         "name": "Xico Dive Center",
-        "note": "details",
         "opening_hours": "Mo-Su 08:00-20:00",
-        "phone": "+52 984 803 3518",
         "scuba_diving:air_filling": "yes",
         "scuba_diving:courses": "yes",
         "scuba_diving:nitrox_filling": "yes",
         "scuba_diving:rental": "yes",
         "scuba_diving:repair": "yes",
         "shop": "scuba_diving",
-        "website": "https://xicodivecenter.com/",
         "id": "node/12152140525"
       },
       "geometry": {
@@ -105858,10 +105864,19 @@
       "type": "Feature",
       "id": "node/14265323028",
       "properties": {
+        "addr:housenumber": "211",
+        "addr:postcode": "77710",
+        "addr:street": "10 Avenida Norte",
         "check_date": "2026-10-08",
+        "contact:email": "info@scuba10.net",
+        "contact:facebook": "scuba10",
+        "contact:phone": "+52 984 253 6455",
+        "contact:website": "https://scuba10.net/",
+        "description": "centro de buceo SSI y PADI: cursos desde Open Water hasta instructor; arrecifes, cenotes, tiburón toro y Cozumel",
         "level": "0",
         "name": "Scuba 10",
-        "note": "details",
+        "operator": "Eco Buceo Riviera Maya",
+        "payment:visa": "yes",
         "shop": "scuba_diving",
         "id": "node/14265323028"
       },
@@ -106087,9 +106102,12 @@
       "id": "node/14307607351",
       "properties": {
         "check_date": "2026-10-21",
-        "contact:website": "www.medivecenter.com",
+        "contact:email": "medivecenter@gmail.com",
+        "contact:facebook": "Medivecenter",
+        "contact:instagram": "me_divecenter",
+        "contact:phone": "+52 998 159 4403",
+        "contact:website": "https://www.medivecenter.com/",
         "name": "Me Dive Center",
-        "note": "details",
         "shop": "scuba_diving",
         "id": "node/14307607351"
       },
@@ -106240,8 +106258,11 @@
       "id": "node/14319986076",
       "properties": {
         "check_date": "2026-10-25",
+        "contact:email": "info@phantomdivers.com",
+        "contact:facebook": "PhantomDiversMexico",
+        "contact:instagram": "phantomdiversmexico",
+        "contact:website": "https://phantomdivers.com/",
         "name": "Phantom Divers",
-        "note": "details",
         "shop": "scuba_diving",
         "id": "node/14319986076"
       },
@@ -106267,7 +106288,6 @@
         "contact:whatsapp": "+52 55 4386 0087",
         "description": "Centro de buceo con certificaciones PADI; tours en Playa del Carmen, Puerto Morelos, Cozumel, Isla Mujeres (MUSA), cenotes, tiburón toro y pecios",
         "name": "Chill and Go Diving",
-        "note": "details",
         "shop": "scuba_diving",
         "id": "node/14324322916"
       },
@@ -106390,16 +106410,74 @@
       "id": "node/14334714742",
       "properties": {
         "check_date": "2026-10-30",
+        "description": "centro de buceo; cursos SNSI (recreativo, profesional y técnico) y National Geographic Snorkeler",
         "name": "Snorkeler",
-        "note": "details",
         "shop": "scuba_diving",
         "id": "node/14334714742"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.0685657,
-          20.6428044
+          -87.0685627,
+          20.6427707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14335640148",
+      "properties": {
+        "addr:country": "JP",
+        "addr:district": "中頭郡",
+        "addr:housenumber": "2-208",
+        "addr:place": "字宮城",
+        "addr:postcode": "904-0113",
+        "addr:province": "沖縄県",
+        "addr:subdistrict": "北谷町",
+        "addr:unit": "1F",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 98 936 8494",
+        "name": "Max Air",
+        "name:en": "Max Air",
+        "name:ja": "マックスエアー",
+        "name:ja-Latn": "Makkusu Eā",
+        "opening_hours": "08:00-18:30",
+        "scuba_diving:air_filling": "yes",
+        "scuba_diving:courses": "no",
+        "scuba_diving:rental": "yes",
+        "shop": "scuba_diving",
+        "website": "https://max-air.net/",
+        "id": "node/14335640148"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7441096,
+          26.3292497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14335812642",
+      "properties": {
+        "addr:city": "姫路市",
+        "addr:country": "JP",
+        "addr:housenumber": "50",
+        "addr:postcode": "671-1236",
+        "addr:province": "兵庫県",
+        "addr:suburb": "紺屋町",
+        "amenity": "dive_centre",
+        "league": "PADI",
+        "name": "Noris",
+        "opening_hours": "12:00-21:00; PH,SH closed",
+        "id": "node/14335812642"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          134.6914984,
+          34.8303881
         ]
       }
     }
