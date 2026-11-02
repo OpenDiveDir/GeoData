@@ -58027,6 +58027,45 @@
     },
     {
       "type": "Feature",
+      "id": "way/1574363410",
+      "properties": {
+        "building": "residential",
+        "description": "韓国語のみ (korean only)",
+        "name": "Hong-Star Dive",
+        "sport": "scuba_diving",
+        "website": "https://hongstardive.com/",
+        "id": "way/1574363410"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              127.7450477,
+              26.3297058
+            ],
+            [
+              127.7450745,
+              26.3296203
+            ],
+            [
+              127.7451933,
+              26.3296502
+            ],
+            [
+              127.7451665,
+              26.3297357
+            ],
+            [
+              127.7450477,
+              26.3297058
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/72525111",
       "properties": {
         "scuba_diving:depth": "7 m",
@@ -64369,16 +64408,17 @@
       "id": "node/602948140",
       "properties": {
         "name": "砂辺",
-        "name:en": "Sunabe",
+        "name:en": "Sunabe Seawall",
         "name:ja": "砂辺",
         "sport": "scuba_diving",
+        "website": "https://okinawaislanddive.com/sunabe-no1/",
         "id": "node/602948140"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.743972,
-          26.3291056
+          127.7441014,
+          26.328873
         ]
       }
     },
@@ -134121,18 +134161,19 @@
     },
     {
       "type": "Feature",
-      "id": "node/14322367002",
+      "id": "node/14322289974",
       "properties": {
         "name": "Gorilla Chop",
         "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
-        "id": "node/14322367002"
+        "website": "https://okinawaislanddive.com/2024-12-22gorityo/",
+        "id": "node/14322289974"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.8815315,
-          26.6358961
+          127.8820095,
+          26.6367434
         ]
       }
     },
@@ -134277,6 +134318,27 @@
         "coordinates": [
           127.8341889,
           26.4925186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14335701494",
+      "properties": {
+        "depth": "30",
+        "name": "北谷浄水場前",
+        "name:en": "In front of the Chatan water purification plant",
+        "name:ja": "北谷浄水場前",
+        "name:ja-Hira": "ちゃたんじょうすいじょうまえ",
+        "name:ja-Latn": "Chatan-jōsuijō-mae",
+        "sport": "scuba_diving",
+        "id": "node/14335701494"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7447676,
+          26.323348
         ]
       }
     }
