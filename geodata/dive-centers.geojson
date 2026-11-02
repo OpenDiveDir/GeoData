@@ -29430,6 +29430,105 @@
     },
     {
       "type": "Feature",
+      "id": "way/843371390",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "中頭郡",
+        "addr:housenumber": "2668-1",
+        "addr:place": "字山田",
+        "addr:postcode": "904-0416",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "building": "yes",
+        "contact:phone": "+81 98 989 7730",
+        "name": "マリンクラブ海",
+        "name:en": "Marine Club Umi",
+        "name:ja": "マリンクラブ海",
+        "name:ja-Hira": "マリンクラブうみ",
+        "name:ja-Latn": "Marin Kurabu Umi",
+        "website": "https://umi.okinawa.jp/",
+        "id": "way/843371390"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              127.7791189,
+              26.4313281
+            ],
+            [
+              127.7791943,
+              26.4314942
+            ],
+            [
+              127.7790967,
+              26.4315297
+            ],
+            [
+              127.7790213,
+              26.4313637
+            ],
+            [
+              127.7791189,
+              26.4313281
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/843379944",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "2679-1",
+        "addr:place": "山田",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "building": "yes",
+        "contact:phone": "+81 98 964 3802",
+        "max_age": "60",
+        "name": "サマーリソート沖縄",
+        "name:en": "Summer Resort Okinawa",
+        "name:ja": "サマーリソート沖縄",
+        "name:ja-Latn": "Samā Risōto Okinawa",
+        "website": "https://summer-resort.com/",
+        "id": "way/843379944"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              127.7795746,
+              26.4321963
+            ],
+            [
+              127.7796521,
+              26.4321429
+            ],
+            [
+              127.7798221,
+              26.4323407
+            ],
+            [
+              127.7797446,
+              26.4323941
+            ],
+            [
+              127.7795746,
+              26.4321963
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/845651563",
       "properties": {
         "amenity": "dive_centre",
@@ -34174,10 +34273,10 @@
         "addr:street": "Commercial Avenue",
         "building": "yes",
         "email": "info@anacortesdiving.com",
-        "fax": "+1 360-293-8822",
+        "fax": "+1-360-293-8822",
         "name": "Anacortes Diving & Supply",
         "opening_hours": "Mo-Su 09:00-18:00",
-        "phone": "+1 360-293-2070",
+        "phone": "+1-360-293-2070",
         "scuba_diving:courses": "yes",
         "scuba_diving:fill:air": "yes",
         "scuba_diving:fill:nitrox": "yes",
@@ -41716,6 +41815,51 @@
     },
     {
       "type": "Feature",
+      "id": "way/1573658716",
+      "properties": {
+        "addr:block_number": "501",
+        "addr:city": "恩納村",
+        "addr:housenumber": "3",
+        "addr:postcode": "904-0416",
+        "addr:quarter": "字山田",
+        "amenity": "dive_centre",
+        "building": "yes",
+        "max_age": "59",
+        "name": "マリンクラブナギ",
+        "name:en": "Marine Club NAGI",
+        "website": "https://nagi.biz/",
+        "id": "way/1573658716"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              127.7727726,
+              26.4410188
+            ],
+            [
+              127.7727244,
+              26.4408556
+            ],
+            [
+              127.7729489,
+              26.4408025
+            ],
+            [
+              127.7729971,
+              26.4409657
+            ],
+            [
+              127.7727726,
+              26.4410188
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/1573846247",
       "properties": {
         "addr:city": "恩納村",
@@ -41765,6 +41909,143 @@
             [
               127.7707719,
               26.4396764
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1574175374",
+      "properties": {
+        "amenity": "dive_centre",
+        "building": "yes",
+        "building:levels": "1",
+        "name": "Дайвинг-центр",
+        "id": "way/1574175374"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              141.2527576,
+              46.2623761
+            ],
+            [
+              141.2525698,
+              46.2623796
+            ],
+            [
+              141.2525679,
+              46.262331
+            ],
+            [
+              141.2527557,
+              46.2623275
+            ],
+            [
+              141.2527576,
+              46.2623761
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1574349108",
+      "properties": {
+        "addr:city": "北谷町",
+        "addr:country": "JP",
+        "addr:district": "中頭郡",
+        "addr:housenumber": "2-95",
+        "addr:place": "宮城",
+        "addr:postcode": "904-0325",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "building": "yes",
+        "max_age": "55",
+        "min_age": "15",
+        "name": "アルファダイブ沖縄",
+        "name:en": "Alpha Dive Okinawa",
+        "name:ja": "アルファダイブ沖縄",
+        "name:ja-Hira": "アルファダイブおきなわ",
+        "name:ja-Latn": "Arufa-daibu Okinawa",
+        "website": "https://www.a-diveokinawa.com/",
+        "id": "way/1574349108"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              127.7447496,
+              26.3295055
+            ],
+            [
+              127.744787,
+              26.3293889
+            ],
+            [
+              127.7448819,
+              26.3294134
+            ],
+            [
+              127.7448445,
+              26.32953
+            ],
+            [
+              127.7447496,
+              26.3295055
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "way/1574363409",
+      "properties": {
+        "addr:city": "北谷町",
+        "addr:country": "JP",
+        "addr:district": "中頭郡",
+        "addr:housenumber": "2-57",
+        "addr:place": "宮城",
+        "addr:postcode": "904-0113",
+        "addr:province": "沖縄県",
+        "addr:unit": "1Fと4F",
+        "amenity": "dive_centre",
+        "building": "residential",
+        "contact:phone": "+81 98 921 7575",
+        "name": "Bubble Box Divers",
+        "name:en": "Bubbble Box",
+        "website": "https://bb-divers.com/",
+        "id": "way/1574363409"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              127.743762,
+              26.3298912
+            ],
+            [
+              127.7437943,
+              26.3297891
+            ],
+            [
+              127.7438886,
+              26.329813
+            ],
+            [
+              127.7438563,
+              26.3299151
+            ],
+            [
+              127.743762,
+              26.3298912
             ]
           ]
         ]
@@ -57296,30 +57577,6 @@
         "coordinates": [
           123.8085854,
           9.562726
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/3846478465",
-      "properties": {
-        "addr:block_number": "501",
-        "addr:city": "恩納村",
-        "addr:housenumber": "3",
-        "addr:postcode": "904-0416",
-        "addr:quarter": "字山田",
-        "amenity": "dive_centre",
-        "max_age": "59",
-        "name": "マリンクラブナギ",
-        "name:en": "Marine Club NAGI",
-        "website": "http://nagi.ne.jp/",
-        "id": "node/3846478465"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.7728124,
-          26.4409345
         ]
       }
     },
@@ -77983,15 +78240,27 @@
       "type": "Feature",
       "id": "node/6813455403",
       "properties": {
+        "addr:city": "北谷町",
+        "addr:country": "JP",
+        "addr:district": "中頭郡",
+        "addr:housenumber": "3-180",
+        "addr:place": "宮城",
+        "addr:postcode": "904-0113",
+        "addr:province": "沖縄県",
         "amenity": "dive_centre",
-        "name": "あおかわ",
+        "name": "蒼川",
+        "name:en": "Aokawa Diving Service",
+        "name:ja": "蒼川ダイビングサービス",
+        "name:ja-Hira": "アオカワダイビングサービス",
+        "name:ja-Latn": "Aokawa Daibingu Sābisu",
+        "website": "https://www.aokawa.com/",
         "id": "node/6813455403"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.742883,
-          26.3318306
+          127.7428803,
+          26.3318474
         ]
       }
     },
@@ -106380,6 +106649,28 @@
     },
     {
       "type": "Feature",
+      "id": "node/14333403693",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:housenumber": "3",
+        "addr:postcode": "904-0416",
+        "addr:quarter": "字山田",
+        "amenity": "dive_centre",
+        "max_age": "59",
+        "name": "マリンクラブナギ",
+        "name:en": "Marine Club NAGI",
+        "id": "node/14333403693"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7727726,
+          26.4410188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/14334427813",
       "properties": {
         "addr:city": "読谷村",
@@ -106478,6 +106769,62 @@
         "coordinates": [
           134.6914984,
           34.8303881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14340007437",
+      "properties": {
+        "addr:city": "北谷町",
+        "addr:country": "JP",
+        "addr:district": "中頭郡",
+        "addr:housenumber": "156",
+        "addr:place": "浜川",
+        "addr:postcode": "904-0417",
+        "addr:province": "沖縄県",
+        "addr:unit": "S-201",
+        "amenity": "dive_centre",
+        "max_age": "55",
+        "min_age": "10",
+        "name": "めんそーれ",
+        "name:ja": "めんそーれ",
+        "name:ja-Latn": "Mensōre",
+        "website": "http://mensore.net/",
+        "id": "node/14340007437"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7500065,
+          26.3290941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14340199408",
+      "properties": {
+        "addr:city": "北谷町",
+        "addr:country": "JP",
+        "addr:district": "中頭郡",
+        "addr:housenumber": "3-4-5",
+        "addr:place": "美浜",
+        "addr:postcode": "904-0115",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "name": "マリーナエイト",
+        "name:en": "Marina eight",
+        "name:ja": "マリーナエイト",
+        "name:ja-Latn": "Marīna eito",
+        "website": "https://marina-8.com/",
+        "id": "node/14340199408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7557129,
+          26.3232379
         ]
       }
     }
