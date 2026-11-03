@@ -132716,7 +132716,10 @@
       "type": "Feature",
       "id": "node/13895180172",
       "properties": {
-        "name": "Toilet Bowl",
+        "alt_name:ja": "ホーシュー",
+        "name:en": "Toilet Bowl",
+        "name:ja": "トイレットボウル",
+        "name:ja-Latn": "Toiretto bōru",
         "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
         "id": "node/13895180172"
@@ -134339,6 +134342,38 @@
         "coordinates": [
           127.7447676,
           26.323348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14341915275",
+      "properties": {
+        "alt_name": "クマノミパラダイス",
+        "name": "イナンビシ",
+        "sport": "scuba_diving",
+        "id": "node/14341915275"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7445565,
+          26.3476851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14342423399",
+      "properties": {
+        "sport": "scuba_diving",
+        "id": "node/14342423399"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8476597,
+          26.5041847
         ]
       }
     }
