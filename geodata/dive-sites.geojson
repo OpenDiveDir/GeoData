@@ -75052,29 +75052,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/663869929",
-      "properties": {
-        "name": "Guradoo Kuda Kandu",
-        "natural": "reef",
-        "scuba_diving:entry:boat": "yes",
-        "source": "www.dive-links.com",
-        "sport": "scuba_diving",
-        "tourism": "attraction",
-        "verified": "no, please check and del this tag",
-        "website": "http://www.dive-links.com/tauchplatz.php?id=2114",
-        "wheelchair": "no",
-        "id": "node/663869929"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.469403,
-          3.894661
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/663869930",
       "properties": {
         "name": "Kandoma Beru",
@@ -75141,51 +75118,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/663869933",
-      "properties": {
-        "name": "Guradoo South",
-        "natural": "reef",
-        "scuba_diving:entry:boat": "yes",
-        "source": "www.dive-links.com",
-        "sport": "scuba_diving",
-        "tourism": "attraction",
-        "verified": "no, please check and del this tag",
-        "website": "http://www.dive-links.com/tauchplatz.php?id=2116",
-        "id": "node/663869933"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.467287,
-          3.889913
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/663869934",
-      "properties": {
-        "name": "Guradoo North",
-        "natural": "reef",
-        "scuba_diving:entry:boat": "yes",
-        "source": "www.dive-links.com",
-        "sport": "scuba_diving",
-        "tourism": "attraction",
-        "verified": "no, please check and del this tag",
-        "website": "http://www.dive-links.com/tauchplatz.php?id=2115",
-        "wheelchair": "no",
-        "id": "node/663869934"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.468134,
-          3.891865
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/663869935",
       "properties": {
         "name": "Biyadoo Kuda Giri",
@@ -75203,29 +75135,6 @@
         "coordinates": [
           73.448786,
           3.906479
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/663869936",
-      "properties": {
-        "name": "Banner Reef",
-        "natural": "reef",
-        "scuba_diving:entry:boat": "yes",
-        "source": "www.dive-links.com",
-        "sport": "scuba_diving",
-        "tourism": "attraction",
-        "verified": "no, please check and del this tag",
-        "website": "http://www.dive-links.com/tauchplatz.php?id=2117",
-        "wheelchair": "no",
-        "id": "node/663869936"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          73.46935,
-          3.893078
         ]
       }
     },
@@ -116848,14 +116757,13 @@
         "scuba_diving:entry:boat": "yes",
         "sport": "scuba_diving",
         "tourism": "attraction",
-        "wheelchair": "no",
         "id": "node/7146807585"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.4691913,
-          3.8937988
+          73.469599,
+          3.8889177
         ]
       }
     },
@@ -116968,8 +116876,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.5042226,
-          3.5996409
+          73.5038578,
+          3.5983667
         ]
       }
     },
@@ -117007,8 +116915,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          73.6513852,
-          3.4677759
+          73.6555963,
+          3.4675349
         ]
       }
     },
@@ -131865,7 +131773,7 @@
         "club": "scuba_diving",
         "contact:email": "info@dive48rivieramaya.com",
         "contact:instagram": "https://www.instagram.com/dive48rivieramaya",
-        "contact:phone": "+52 984 179 335",
+        "contact:phone": "+52 984 179 3350",
         "contact:website": "https://dive48rivieramaya.com/",
         "name": "Dive48",
         "opening_hours": "Mo-Fr 09:00-19:00; Sa,Su,PH off",
@@ -134374,6 +134282,102 @@
         "coordinates": [
           127.8476597,
           26.5041847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14345794222",
+      "properties": {
+        "name": "Kandooma Thila",
+        "natural": "reef",
+        "scuba_diving:entry:boat": "yes",
+        "sport": "scuba_diving",
+        "tourism": "attraction",
+        "id": "node/14345794222"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4703183,
+          3.9113101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14345794223",
+      "properties": {
+        "name": "Lhosfushi Kandu",
+        "natural": "reef",
+        "scuba_diving:entry:boat": "yes",
+        "sport": "scuba_diving",
+        "tourism": "attraction",
+        "id": "node/14345794223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4712517,
+          3.8936699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14345794224",
+      "properties": {
+        "name": "Guraidhoo Kandu",
+        "natural": "reef",
+        "scuba_diving:entry:boat": "yes",
+        "sport": "scuba_diving",
+        "tourism": "attraction",
+        "id": "node/14345794224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4684299,
+          3.8910369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14345794225",
+      "properties": {
+        "description": "Diving with fed nurse sharks",
+        "name:en": "Dhigiri Shark Point",
+        "natural": "reef",
+        "scuba_diving:entry:boat": "yes",
+        "sport": "scuba_diving",
+        "tourism": "attraction",
+        "id": "node/14345794225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4825814,
+          3.6499572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14345794226",
+      "properties": {
+        "name:en": "Golden Wall",
+        "natural": "reef",
+        "scuba_diving:entry:boat": "yes",
+        "sport": "scuba_diving",
+        "tourism": "attraction",
+        "id": "node/14345794226"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.6024759,
+          3.4440265
         ]
       }
     }
