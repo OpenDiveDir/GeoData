@@ -30045,44 +30045,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/190284057",
-      "properties": {
-        "leisure": "swimming_pool",
-        "name": "Fosse à Plonger",
-        "source": "data.gouv.fr:Le ministère des droits des femmes, de la ville, de la jeunesse et des sports - 2014",
-        "sport": "scuba_diving",
-        "id": "way/190284057"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              5.2175805,
-              46.6235229
-            ],
-            [
-              5.2175687,
-              46.6234161
-            ],
-            [
-              5.2177203,
-              46.6234082
-            ],
-            [
-              5.2177322,
-              46.6235149
-            ],
-            [
-              5.2175805,
-              46.6235229
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/191286246",
       "properties": {
         "leisure": "swimming_pool",
@@ -134378,6 +134340,38 @@
         "coordinates": [
           73.6024759,
           3.4440265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14348982658",
+      "properties": {
+        "access": "yes",
+        "historic": "wreck",
+        "location": "underwater",
+        "name": "エモンズ",
+        "name:en": "USS Emmons",
+        "name:ja": "エモンズ",
+        "place": "locality",
+        "ref": "DD-457/DMS-22",
+        "seamark:type": "wreck",
+        "sport": "scuba_diving",
+        "wikipedia": "ja:エモンズ (駆逐艦)",
+        "wikipedia:en": "USS Emmons",
+        "wreck:date_sunk": "1945-04-07",
+        "wreck:depth": "45",
+        "wreck:length": "107.1",
+        "wreck:type": "ship",
+        "wreck:visible_at_low_tide": "no",
+        "wreck:width": "11.0",
+        "id": "node/14348982658"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.0300767,
+          26.7245976
         ]
       }
     }
