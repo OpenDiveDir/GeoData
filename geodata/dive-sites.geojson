@@ -2531,10 +2531,6 @@
               51.3878937
             ],
             [
-              6.7957522,
-              51.388043
-            ],
-            [
               6.7956725,
               51.3881756
             ],
@@ -134037,6 +134033,7 @@
       "id": "node/14322289974",
       "properties": {
         "name": "Gorilla Chop",
+        "place": "divespot",
         "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
         "website": "https://okinawaislanddive.com/2024-12-22gorityo/",
@@ -134045,8 +134042,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.8820095,
-          26.6367434
+          127.8815294,
+          26.6359306
         ]
       }
     },
@@ -134198,6 +134195,7 @@
       "type": "Feature",
       "id": "node/14335701494",
       "properties": {
+        "alt_name": "UFO＆神殿ポイント",
         "depth": "30",
         "name": "北谷浄水場前",
         "name:en": "In front of the Chatan water purification plant",
@@ -134372,6 +134370,83 @@
         "coordinates": [
           128.0300767,
           26.7245976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14353645411",
+      "properties": {
+        "depth": "10",
+        "max_depth": "20",
+        "name": "水釜",
+        "name:en": "Water kettle",
+        "name:ja": "水釜",
+        "name:ja-Hira": "みずがま",
+        "name:ja-Latn": "Mizugama",
+        "sport": "scuba_diving",
+        "id": "node/14353645411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.739633,
+          26.3604435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14353720570",
+      "properties": {
+        "alt_name:en": "Chatan Dolmen Capstone",
+        "alt_name:ja": "北谷ドルメン上石",
+        "alt_name:ja-Hira": "ちゃたんドルメンあげいし",
+        "alt_name:ja-Latn": "Chatan dorumen ageishi",
+        "depth": "19",
+        "location": "underwater",
+        "name": "海底三角ピラミッド",
+        "name:en": "Chatan Underwater Triangular Pyramid",
+        "name:ja": "北谷海底三角ピラミッド",
+        "name:ja-Hira": "ちゃたんかいていさんかくピラミッド",
+        "name:ja-Latn": "Chatan kaitei sankaku piramiddo",
+        "place": "locality",
+        "scuba_diving:divespot": "yes",
+        "source": "https://nagoya.repo.nii.ac.jp/record/11846/files/KJ00005461903.pdf",
+        "sport": "scuba_diving",
+        "id": "node/14353720570"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7411111,
+          26.3263889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14353720571",
+      "properties": {
+        "depth": "19",
+        "height": "12",
+        "location": "underwater",
+        "name": "階段ピラミッド",
+        "name:en": "Chatan Stepped Pyramid",
+        "name:ja": "北谷階段ピラミッド",
+        "name:ja-Hira": "ちゃたんかいだんピラミッド",
+        "name:ja-Latn": "Chatan kaidan-piramiddo",
+        "place": "locality",
+        "scuba_diving:divespot": "yes",
+        "source": "https://nagoya.repo.nii.ac.jp/record/11846/files/KJ00005461903.pdf",
+        "sport": "scuba_diving",
+        "id": "node/14353720571"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7386111,
+          26.3288889
         ]
       }
     }
