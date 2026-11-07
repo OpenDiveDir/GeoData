@@ -102081,6 +102081,36 @@
     },
     {
       "type": "Feature",
+      "id": "node/3540325397",
+      "properties": {
+        "depth": "5-25",
+        "description": "特徴的な段丘状の構造を持つ海底の岩石地形で、スキューバダイビングの人気スポット",
+        "description:en": "Submarine rock formation with distinctive terrace-like structures; popular scuba diving site",
+        "location": "underwater",
+        "name": "海底地形",
+        "name:en": "Yonaguni Monument",
+        "name:ja": "与那国島海底地形",
+        "name:ja-Hira": "よなぐにじま かいてい ちけい",
+        "name:ja-Latn": "Yonaguni-jima kaitei-chikei",
+        "natural": "rock",
+        "place": "locality",
+        "sport": "scuba_diving",
+        "tourism": "attraction",
+        "wikidata": "Q995511",
+        "wikipedia": "ja:与那国島海底地形",
+        "wikipedia:en": "Yonaguni Monument",
+        "id": "node/3540325397"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          123.0114653,
+          24.4360446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "node/3545985216",
       "properties": {
         "is_in": "Cozumel, Q Roo, Mexico",
@@ -132582,10 +132612,11 @@
       "type": "Feature",
       "id": "node/13895180172",
       "properties": {
-        "alt_name:ja": "ホーシュー",
+        "name": "ホーシュー",
         "name:en": "Toilet Bowl",
         "name:ja": "トイレットボウル",
         "name:ja-Latn": "Toiretto bōru",
+        "place": "locality",
         "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
         "id": "node/13895180172"
@@ -132593,8 +132624,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.8464539,
-          26.5041225
+          127.8465099,
+          26.5042483
         ]
       }
     },
@@ -134030,25 +134061,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/14322289974",
-      "properties": {
-        "name": "Gorilla Chop",
-        "place": "divespot",
-        "scuba_diving:divespot": "yes",
-        "sport": "scuba_diving",
-        "website": "https://okinawaislanddive.com/2024-12-22gorityo/",
-        "id": "node/14322289974"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          127.8815294,
-          26.6359306
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/14324642330",
       "properties": {
         "name": "Pole Pole Diving Center",
@@ -134161,10 +134173,12 @@
       "type": "Feature",
       "id": "node/14334571159",
       "properties": {
+        "depth": "5",
         "name": "青の洞窟",
         "name:en": "Blue Grotto",
         "name:ja-Hira": "あおのどうくつ",
         "name:ja-Latn": "Ao-no-dōkutsu",
+        "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
         "id": "node/14334571159"
       },
@@ -134234,14 +134248,16 @@
       "type": "Feature",
       "id": "node/14342423399",
       "properties": {
+        "name:en": "Manza caves",
+        "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
         "id": "node/14342423399"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.8476597,
-          26.5041847
+          127.8477254,
+          26.5042603
         ]
       }
     },
@@ -134429,7 +134445,6 @@
       "id": "node/14353720571",
       "properties": {
         "depth": "19",
-        "height": "12",
         "location": "underwater",
         "name": "階段ピラミッド",
         "name:en": "Chatan Stepped Pyramid",
@@ -134447,6 +134462,25 @@
         "coordinates": [
           127.7386111,
           26.3288889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14354623449",
+      "properties": {
+        "name": "Gorilla Chop",
+        "place": "locality",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "website": "https://okinawaislanddive.com/2024-12-22gorityo/",
+        "id": "node/14354623449"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.881538,
+          26.6359534
         ]
       }
     }
