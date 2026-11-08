@@ -17206,6 +17206,7 @@
       "id": "way/395577077",
       "properties": {
         "building": "yes",
+        "check_date": "2026-11-07",
         "name": "伊豆海洋公園ダイビングshop",
         "shop": "scuba_diving",
         "id": "way/395577077"
@@ -21704,7 +21705,10 @@
         "addr:street": "Blue Bayou",
         "amenity": "dive_centre",
         "building": "yes",
+        "email": "dive@coralviewutila.com",
         "name": "Coral View Utila Dive Center",
+        "phone": "+1 551 339 8383",
+        "website": "https://coralviewutila.com",
         "id": "way/513653793"
       },
       "geometry": {
@@ -34333,9 +34337,9 @@
         "name": "Anacortes Diving & Supply",
         "opening_hours": "Mo-Su 09:00-18:00",
         "phone": "+1-360-293-2070",
+        "scuba_diving:air_filling": "yes",
         "scuba_diving:courses": "yes",
-        "scuba_diving:fill:air": "yes",
-        "scuba_diving:fill:nitrox": "yes",
+        "scuba_diving:nitrox_filling": "yes",
         "scuba_diving:rental": "yes",
         "shop": "scuba_diving",
         "website": "https://www.anacortesdiving.com/",
@@ -51205,23 +51209,6 @@
         "coordinates": [
           9.6804638,
           39.8318769
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "node/2460859204",
-      "properties": {
-        "amenity": "dive_centre",
-        "name": "TC Bleienten e.V. Duisburg",
-        "sport": "scuba_diving",
-        "id": "node/2460859204"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.7934093,
-          51.4082205
         ]
       }
     },
@@ -74849,7 +74836,7 @@
       "id": "node/6238818085",
       "properties": {
         "addr:city": "Playa del Carmen",
-        "addr:postcode": "77710",
+        "addr:postcode": "77717",
         "addr:street": "Avenida Paseo Xaman-Ha",
         "amenity": "dive_centre",
         "brand": "Dressel Divers",
@@ -74858,8 +74845,7 @@
         "contact:instagram": "dresseldivers",
         "contact:website": "https://www.dresseldivers.com/es/bucear/mexico/playa-del-carmen-buceo/",
         "description": "Centro de buceo en la playa de los hoteles Iberostar Waves Quetzal y Tucán; inmersiones solo desde barco, cursos PADI y SDI, nitrox, excursiones a Cozumel, cenotes y tiburón toro; abierto también a huéspedes de otros hoteles.",
-        "name": "Centro de Bucéo - Dressel Divers",
-        "name:en": "Diving Center - Dressel Divers",
+        "name": "Dressel Divers",
         "id": "node/6238818085"
       },
       "geometry": {
@@ -107324,6 +107310,87 @@
         "coordinates": [
           127.7506395,
           26.3296914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14355540890",
+      "properties": {
+        "addr:city": "Blackpool",
+        "addr:housenumber": "448",
+        "addr:postcode": "FY3 7BE",
+        "addr:street": "Talbot Road",
+        "contact:facebook": "bestscubadivinginblackpool",
+        "name": "Scubaco",
+        "opening_hours": "Tu-We 11:00-15:00; Fr 11:00-15:00; Sa 10:00-13:00",
+        "phone": "+44 7739 464992",
+        "shop": "scuba_diving",
+        "website": "https://www.scubaco.co.uk",
+        "id": "node/14355540890"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.0347157,
+          53.8267614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14356875351",
+      "properties": {
+        "name": "Centro de Buceo",
+        "name:en": "Diving Center",
+        "ref": "28",
+        "shop": "scuba_diving",
+        "id": "node/14356875351"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.088565,
+          20.6052133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14357785090",
+      "properties": {
+        "addr:district": "Ko Pha-ngan",
+        "addr:housenumber": "9/9",
+        "addr:place": "Sairee",
+        "addr:postcode": "84360",
+        "addr:province": "Surat Thani",
+        "addr:subdistrict": "Ko Tao",
+        "air_conditioning": "yes",
+        "brand": "PADI",
+        "contact:instagram": "https://www.instagram.com/siamscuba?exln=bXRram5jOHJwNWx1&utm_source=qr",
+        "currency:THB": "yes",
+        "email": "siamscubadivep@gmail.com",
+        "internet_access:ssid": "Siam Scuba",
+        "name": "Siam Scuba Dive Center",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "payment:app": "yes",
+        "payment:apple_pay": "yes",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:google_pay": "yes",
+        "payment:paypal": "yes",
+        "scuba_diving:courses": "yes",
+        "shop": "scuba_diving",
+        "website": "https://siamscuba.com",
+        "id": "node/14357785090"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.8288495,
+          10.0989695
         ]
       }
     }
