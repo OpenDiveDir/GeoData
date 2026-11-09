@@ -2493,10 +2493,8 @@
         "name": "Wambachsee",
         "natural": "water",
         "scuba_diving:divespot": "yes",
-        "source": "www.dive-links.com",
         "sport": "scuba_diving",
         "water": "lake",
-        "website": "http://www.dive-links.com/tauchplatz.php?id=1087",
         "wikidata": "Q15853606",
         "wikimedia_commons": "Category:Wambachsee",
         "wikipedia": "de:Wambachsee",
@@ -72634,25 +72632,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/663869765",
-      "properties": {
-        "historic": "wreck",
-        "name": "Abu Galawa Kebir",
-        "seamark:type": "wreck",
-        "sport": "scuba_diving",
-        "verified": "no, please check and del this tag",
-        "id": "node/663869765"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          35.5727769,
-          24.2286658
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/663869767",
       "properties": {
         "name": "Shaab Sataya Amphoren",
@@ -97031,6 +97010,24 @@
         "coordinates": [
           121.6188889,
           -0.4952778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/2460859204",
+      "properties": {
+        "club": "sport",
+        "name": "TC Bleienten e.V. Duisburg",
+        "sport": "scuba_diving",
+        "website": "http://tc-bleienten.de/",
+        "id": "node/2460859204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7934093,
+          51.4082205
         ]
       }
     },
@@ -131223,22 +131220,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/13045073421",
-      "properties": {
-        "name": "Shaab El Shaga",
-        "sport": "scuba_diving",
-        "id": "node/13045073421"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          36.8670544,
-          22.1182936
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/13045224672",
       "properties": {
         "name": "The Lagoon",
@@ -134158,14 +134139,17 @@
       "type": "Feature",
       "id": "node/14334571158",
       "properties": {
+        "name": "Green Beach",
+        "place": "locality",
+        "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
         "id": "node/14334571158"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.7894497,
-          26.4418917
+          127.789724,
+          26.4417624
         ]
       }
     },
@@ -134178,6 +134162,7 @@
         "name:en": "Blue Grotto",
         "name:ja-Hira": "あおのどうくつ",
         "name:ja-Latn": "Ao-no-dōkutsu",
+        "place": "locality",
         "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
         "id": "node/14334571159"
@@ -134481,6 +134466,228 @@
         "coordinates": [
           127.881538,
           26.6359534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14359506683",
+      "properties": {
+        "name": "Maeda Flats",
+        "place": "locality",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/14359506683"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7666048,
+          26.4424868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14359506684",
+      "properties": {
+        "name": "Bolo Point",
+        "place": "locality",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/14359506684"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.712137,
+          26.4355112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14359506689",
+      "properties": {
+        "name": "備瀬",
+        "place": "locality",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/14359506689"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8727679,
+          26.7133995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14359506756",
+      "properties": {
+        "name": "ラビリンス",
+        "name:en": "Labyrinth",
+        "name:ja": "ラビリンス",
+        "place": "locality",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/14359506756"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8586378,
+          26.638148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14359506801",
+      "properties": {
+        "name": "ケーブル",
+        "name:en": "Cable",
+        "name:ja": "ケーブル",
+        "name:ja-Latn": "Kēburu",
+        "place": "locality",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/14359506801"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8251202,
+          26.6441762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14359506802",
+      "properties": {
+        "name": "ジャイアントケーブル",
+        "name:en": "Giant Cable",
+        "name:ja": "ジャイアントケーブル",
+        "name:ja-Latn": "Jaianto kēburu",
+        "place": "locality",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/14359506802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8228044,
+          26.6501349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14359506803",
+      "properties": {
+        "name": "鯢岩",
+        "name:ja-Latn": "Kujira-iwa",
+        "place": "locality",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/14359506803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8051054,
+          26.6507809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14360994469",
+      "properties": {
+        "name": "Kise",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/14360994469"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.9583484,
+          26.5485532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14361012173",
+      "properties": {
+        "name": "Kyoda",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/14361012173"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.9636533,
+          26.5459862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14361012178",
+      "properties": {
+        "place": "locality",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/14361012178"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8549645,
+          26.6425023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14361012179",
+      "properties": {
+        "name": "Three Rocks",
+        "place": "locality",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/14361012179"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8929443,
+          26.6148299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14361012180",
+      "properties": {
+        "name": "Bolo Flats",
+        "place": "locality",
+        "scuba_diving:divespot": "yes",
+        "sport": "scuba_diving",
+        "id": "node/14361012180"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7132935,
+          26.410018
         ]
       }
     }
