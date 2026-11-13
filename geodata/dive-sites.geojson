@@ -26955,6 +26955,8 @@
         "leisure": "park",
         "name": "John D MacArthur Beach State Park",
         "natural": "sea",
+        "opening_hours": "08:00-sunset",
+        "operator": "Florida State Parks",
         "sport": "scuba_diving",
         "website": "https://www.floridastateparks.org/parks-and-trails/john-d-macarthur-beach-state-park",
         "wikidata": "Q6228246",
@@ -39430,6 +39432,11 @@
       "type": "Feature",
       "id": "way/318772261",
       "properties": {
+        "addr:city": "Domat/Ems",
+        "addr:country": "CH",
+        "addr:housenumber": "6",
+        "addr:postcode": "7013",
+        "addr:street": "Vial",
         "building": "yes",
         "club": "scuba_diving",
         "name": "Clubhaus Tauchclub Orca",
@@ -39442,24 +39449,24 @@
         "coordinates": [
           [
             [
-              9.4321012,
-              46.8298126
+              9.4322656,
+              46.8297786
             ],
             [
-              9.4321225,
-              46.8297593
+              9.4322364,
+              46.8298459
             ],
             [
-              9.4322626,
-              46.8297856
+              9.4321017,
+              46.8298185
             ],
             [
-              9.4322412,
-              46.8298389
+              9.432131,
+              46.8297512
             ],
             [
-              9.4321012,
-              46.8298126
+              9.4322656,
+              46.8297786
             ]
           ]
         ]
@@ -49389,8 +49396,8 @@
       "id": "way/847727578",
       "properties": {
         "access": "permit",
+        "description": "Bow",
         "historic": "wreck",
-        "name": "Bow",
         "seamark:type": "wreck",
         "sport": "scuba_diving",
         "wikidata": "Q1286267",
@@ -49516,8 +49523,8 @@
       "type": "Feature",
       "id": "way/847727579",
       "properties": {
+        "description": "Overturned stern",
         "historic": "wreck",
-        "name": "Overturned Stern",
         "seamark:type": "wreck",
         "sport": "scuba_diving",
         "wikidata": "Q1286267",
@@ -49655,8 +49662,8 @@
       "type": "Feature",
       "id": "way/847727580",
       "properties": {
+        "description": "Midship",
         "historic": "wreck",
-        "name": "Midship",
         "seamark:type": "wreck",
         "sport": "scuba_diving",
         "wikidata": "Q1286267",
@@ -134688,6 +134695,36 @@
         "coordinates": [
           127.7132935,
           26.410018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14363404126",
+      "properties": {
+        "addr:city": "読谷村",
+        "addr:country": "JP",
+        "addr:district": "中頭郡",
+        "addr:housenumber": "2192-8",
+        "addr:place": "字波平",
+        "addr:postcode": "904-0322",
+        "addr:province": "沖縄県",
+        "contact:phone": "+81 90 3796 0690",
+        "name": "武藤潜水",
+        "name:en": "Mutō Diving",
+        "name:ja": "武藤潜水",
+        "name:ja-Latn": "Mutō sensui",
+        "office": "guide",
+        "operator": "武藤大輔",
+        "sport": "scuba_diving",
+        "website": "https://mutosensui.com/",
+        "id": "node/14363404126"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7236213,
+          26.3980661
         ]
       }
     }
