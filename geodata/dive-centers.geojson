@@ -270,15 +270,17 @@
       "type": "Feature",
       "id": "way/29639178",
       "properties": {
-        "addr:city": "Dedham",
-        "addr:housenumber": "54",
-        "addr:postcode": "02026",
+        "addr:city": "Dedham;Hyde Park",
+        "addr:housenumber": "54;56",
+        "addr:postcode": "02026;02136",
         "addr:state": "MA",
         "addr:street": "Solaris Road",
+        "addr:unit": "1",
         "building": "commercial",
         "building:levels": "2",
         "name": "R & R Marine",
         "shop": "scuba_diving",
+        "source": "esri/Boston_MA_Addresses",
         "website": "https://www.diverandr.com/",
         "wheelchair": "yes",
         "id": "way/29639178"
@@ -870,6 +872,7 @@
         "building": "yes",
         "club": "scuba_diving",
         "name": "Maison de la plongée",
+        "name:br": "Ti ar Splujerezh",
         "operator": "Club Subaquatique de l'Atlantide",
         "source": "cadastre-dgi-fr source : PaysDeBrest - 20100329",
         "id": "way/53715936"
@@ -22235,6 +22238,7 @@
         "building:levels": "2",
         "name": "Dive shop",
         "name:cnr": "Dive shop",
+        "name:cnr-Cyrl": "Диве схоп",
         "name:cnr-Latn": "Dive shop",
         "name:ru": "Дайвинг-шоп",
         "shop": "scuba_diving",
@@ -29507,6 +29511,7 @@
         "name:ja": "マリンクラブ海",
         "name:ja-Hira": "マリンクラブうみ",
         "name:ja-Latn": "Marin Kurabu Umi",
+        "shop": "scuba_diving",
         "website": "https://umi.okinawa.jp/",
         "id": "way/843371390"
       },
@@ -29556,6 +29561,7 @@
         "name:en": "Summer Resort Okinawa",
         "name:ja": "サマーリソート沖縄",
         "name:ja-Latn": "Samā Risōto Okinawa",
+        "shop": "scuba_diving",
         "website": "https://summer-resort.com/",
         "id": "way/843379944"
       },
@@ -41827,155 +41833,6 @@
     },
     {
       "type": "Feature",
-      "id": "way/1573525621",
-      "properties": {
-        "addr:city": "恩納村",
-        "addr:country": "JP",
-        "addr:district": "国頭郡",
-        "addr:housenumber": "339",
-        "addr:place": "真栄田",
-        "addr:postcode": "904-0417",
-        "addr:province": "沖縄県",
-        "amenity": "dive_centre",
-        "building": "yes",
-        "contact:phone": "+81 98 965 0244",
-        "name": "Takedive",
-        "scuba_diving:courses": "yes",
-        "shop": "scuba_diving",
-        "website": "https://www.takedive.jp/",
-        "id": "way/1573525621"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              127.7706848,
-              26.4399327
-            ],
-            [
-              127.7706567,
-              26.4398539
-            ],
-            [
-              127.7707086,
-              26.4398391
-            ],
-            [
-              127.7707366,
-              26.4399179
-            ],
-            [
-              127.7706848,
-              26.4399327
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1573658716",
-      "properties": {
-        "addr:block_number": "501",
-        "addr:city": "恩納村",
-        "addr:housenumber": "3",
-        "addr:postcode": "904-0416",
-        "addr:quarter": "字山田",
-        "amenity": "dive_centre",
-        "building": "yes",
-        "max_age": "59",
-        "name": "マリンクラブナギ",
-        "name:en": "Marine Club NAGI",
-        "website": "https://nagi.biz/",
-        "id": "way/1573658716"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              127.7727726,
-              26.4410188
-            ],
-            [
-              127.7727244,
-              26.4408556
-            ],
-            [
-              127.7729489,
-              26.4408025
-            ],
-            [
-              127.7729971,
-              26.4409657
-            ],
-            [
-              127.7727726,
-              26.4410188
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1573846247",
-      "properties": {
-        "addr:city": "恩納村",
-        "addr:country": "JP",
-        "addr:district": "国頭郡",
-        "addr:housenumber": "338-1",
-        "addr:place": "真栄田",
-        "addr:postcode": "904-0417",
-        "addr:province": "沖縄県",
-        "amenity": "dive_centre",
-        "building": "yes",
-        "contact:fax": "+81 98 989 3667",
-        "contact:phone": "+81 98 989 3666",
-        "name": "アーク エンジェル",
-        "name:en": "Arch Angel",
-        "name:ja": "アークエンジェル",
-        "name:ja-Latn": "Āku-Enjeru",
-        "scuba_diving:courses": "yes",
-        "shop": "scuba_diving",
-        "website": "https://www.ds-archangel.jp/",
-        "id": "way/1573846247"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              127.7707719,
-              26.4396764
-            ],
-            [
-              127.7707885,
-              26.4396317
-            ],
-            [
-              127.7708316,
-              26.4396445
-            ],
-            [
-              127.7708263,
-              26.4396588
-            ],
-            [
-              127.7708149,
-              26.4396893
-            ],
-            [
-              127.7707719,
-              26.4396764
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "way/1574175374",
       "properties": {
         "amenity": "dive_centre",
@@ -42032,6 +41889,7 @@
         "name:ja": "アルファダイブ沖縄",
         "name:ja-Hira": "アルファダイブおきなわ",
         "name:ja-Latn": "Arufa-daibu Okinawa",
+        "ref:opp:diving": "潜583",
         "website": "https://www.a-diveokinawa.com/",
         "id": "way/1574349108"
       },
@@ -42080,6 +41938,7 @@
         "contact:phone": "+81 98 921 7575",
         "name": "Bubble Box Divers",
         "name:en": "Bubbble Box",
+        "ref:opp:diving": "潜180",
         "website": "https://bb-divers.com/",
         "id": "way/1574363409"
       },
@@ -42113,108 +41972,35 @@
     },
     {
       "type": "Feature",
-      "id": "way/1575348714",
+      "id": "way/1576809910",
       "properties": {
-        "addr:city": "恩納村",
-        "addr:country": "JP",
-        "addr:district": "国頭郡",
-        "addr:housenumber": "599",
-        "addr:place": "山田",
-        "addr:postcode": "904-0417",
-        "addr:province": "沖縄県",
         "amenity": "dive_centre",
-        "name": "青の洞窟 Core",
-        "name:en": "Blue Cave Core",
-        "name:ja": "青の洞窟 Core",
-        "name:ja-Hira": "あおのどうくつ Core",
-        "name:ja-Latn": "Ao-no-dōkutsu Core",
-        "opening_hours": "07:00-18:00",
-        "scuba_diving:courses": "no",
-        "scuba_diving:rental": "yes",
-        "sport": "scuba_diving",
-        "website": "https://bluecave-core.com/",
-        "id": "way/1575348714"
+        "building": "yes",
+        "id": "way/1576809910"
       },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
             [
-              127.7723999,
-              26.4389414
+              26.7203032,
+              39.5646949
             ],
             [
-              127.7724006,
-              26.43881
+              26.7202218,
+              39.564639
             ],
             [
-              127.7726041,
-              26.4388109
+              26.7202554,
+              39.5646144
             ],
             [
-              127.772604,
-              26.4388392
+              26.7203386,
+              39.5646649
             ],
             [
-              127.7726278,
-              26.4388393
-            ],
-            [
-              127.7726273,
-              26.4389424
-            ],
-            [
-              127.7723999,
-              26.4389414
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "id": "way/1575348716",
-      "properties": {
-        "addr:city": "恩納村",
-        "addr:country": "JP",
-        "addr:district": "国頭郡",
-        "addr:housenumber": "603-1",
-        "addr:place": "山田",
-        "addr:postcode": "904-0417",
-        "amenity": "dive_centre",
-        "building": "hut",
-        "contact:phone": "+81 98 911 1752",
-        "name": "めんそーれ",
-        "name:ja": "めんそーれ",
-        "name:ja-Latn": "Mensōre",
-        "scuba_diving:courses": "yes",
-        "sport": "scuba_diving",
-        "website": "http://mensore.net/",
-        "id": "way/1575348716"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              127.7719741,
-              26.4388711
-            ],
-            [
-              127.7719902,
-              26.4388143
-            ],
-            [
-              127.7720669,
-              26.4388317
-            ],
-            [
-              127.7720508,
-              26.4388885
-            ],
-            [
-              127.7719741,
-              26.4388711
+              26.7203032,
+              39.5646949
             ]
           ]
         ]
@@ -49017,6 +48803,7 @@
         "name:ja-Latn": "Wārudo daibingu",
         "office": "company",
         "opening_hours": "09:00-19:00",
+        "ref:opp:diving": "潜450",
         "shop": "scuba_diving",
         "source": "survey",
         "survey:date": "2012-10-01",
@@ -61731,7 +61518,7 @@
       "id": "node/4427833364",
       "properties": {
         "name": "Havsport",
-        "opening_hours": "Mo 15:00-18:00,Mi-Fr 15:00-18:00; Sa 11:00-15:00",
+        "opening_hours": "Mo 15:00-18:00,Tu-Fr 15:00-18:00; Sa 11:00-15:00",
         "shop": "scuba_diving",
         "website": "https://www.dykkershop.no/",
         "id": "node/4427833364"
@@ -75269,14 +75056,24 @@
       "type": "Feature",
       "id": "node/6296928497",
       "properties": {
-        "addr:block_number": "94 Nakadomari, Onna, Kunigami District, Okinawa Prefecture",
-        "addr:city": "沖繩",
+        "addr:city": "恩納村",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "94",
+        "addr:place": "仲泊",
         "addr:postcode": "904-0415",
+        "addr:province": "沖縄県",
         "amenity": "dive_centre",
-        "name": "沖繩潛水 青潛 BestDiveOkinawa",
+        "claim:en": "Best Dive Okinawa",
+        "name": "青潛",
+        "name:en": "Blue Diving",
+        "name:ja": "青潛",
+        "name:ja-Latn": "Ao-sen",
         "opening_hours": "Mo-Su 09:00-21:00",
+        "ref:opp:diving": "潜656",
         "scuba_diving": "yes",
         "scuba_diving:type:snorkeling": "yes",
+        "shop": "scuba_diving",
+        "website": "https://www.bestdiveokinawa.com/",
         "id": "node/6296928497"
       },
       "geometry": {
@@ -78441,6 +78238,7 @@
         "name:ja": "蒼川ダイビングサービス",
         "name:ja-Hira": "アオカワダイビングサービス",
         "name:ja-Latn": "Aokawa Daibingu Sābisu",
+        "ref:opp:diving": "潜7",
         "website": "https://www.aokawa.com/",
         "id": "node/6813455403"
       },
@@ -80074,6 +79872,7 @@
       "type": "Feature",
       "id": "node/7253096809",
       "properties": {
+        "check_date": "2026-11-12",
         "name": "Snorkel Bob's",
         "shop": "scuba_diving",
         "id": "node/7253096809"
@@ -88251,6 +88050,7 @@
       "properties": {
         "name": "Marlin",
         "name:cnr": "Marlin",
+        "name:cnr-Cyrl": "Марлин",
         "name:cnr-Latn": "Marlin",
         "opening_hours": "Mo-Sa 08:00-20:00",
         "shop": "scuba_diving",
@@ -89520,8 +89320,8 @@
         "addr:city": "Sint Willibrordus",
         "addr:street": "Playa Daaibooi",
         "amenity": "dive_centre",
-        "check_date": "2025-12-24",
-        "check_date:currency:XBT": "2025-12-24",
+        "check_date": "2026-11-11",
+        "check_date:currency:XBT": "2026-11-11",
         "contact:facebook": "DiversRepublic",
         "contact:instagram": "divers_republic",
         "contact:whatsapp": "+599 9 520 3989",
@@ -89533,7 +89333,7 @@
         "payment:lightning_contactless": "yes",
         "payment:onchain": "yes",
         "phone": "+599 9 520 3989",
-        "survey:date": "2025-09-02",
+        "survey:date": "2026-11-11",
         "website": "https://divers-republic.com/",
         "id": "node/10174369468"
       },
@@ -101494,7 +101294,8 @@
         "addr:postcode": "93117",
         "addr:state": "CA",
         "addr:street": "Hollister Avenue",
-        "check_date": "2025-10-02",
+        "check_date": "2026-11-10",
+        "check_date:opening_hours": "2026-11-10",
         "contact:yelp": "https://www.yelp.com/biz/santa-barbara-aquatics-goleta",
         "email": "info@sbaquatics.com",
         "name": "Santa Barbara Aquatics",
@@ -106678,11 +106479,14 @@
         "addr:country": "JP",
         "addr:district": "国頭郡",
         "addr:housenumber": "2288-165",
+        "addr:place": "字名嘉真",
         "addr:postcode": "904-0401",
         "addr:province": "沖縄県",
+        "amenity": "dive_centre",
         "contact:phone": "+81 98 967 8487",
         "contact:website": "https://piranha-divers.jp/",
         "name": "Piranha Divers Okinawa",
+        "ref:opp:diving": "潜999",
         "shop": "scuba_diving",
         "sport": "scuba_diving",
         "id": "node/14317190792"
@@ -106705,10 +106509,12 @@
         "addr:place": "瀬名波",
         "addr:postcode": "904-0325",
         "addr:province": "沖縄県",
+        "amenity": "dive_centre",
         "contact:email": "sunkisseddivers@gmail.com",
         "contact:mobile": "+81 70 5416 5368",
         "contact:website": "https://sunkisseddivers.com/",
         "name": "Sunkissed divers",
+        "ref:opp:diving": "潜973",
         "shop": "scuba_diving",
         "sport": "scuba_diving",
         "id": "node/14317218965"
@@ -106851,20 +106657,27 @@
       "id": "node/14333403693",
       "properties": {
         "addr:city": "恩納村",
-        "addr:housenumber": "3",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "501-3",
+        "addr:place": "字山田",
         "addr:postcode": "904-0416",
-        "addr:quarter": "字山田",
+        "addr:province": "沖縄県",
         "amenity": "dive_centre",
         "max_age": "59",
         "name": "マリンクラブナギ",
         "name:en": "Marine Club NAGI",
+        "name:ja": "マリンクラブナギ",
+        "name:ja-Latn": "Marin kurabu nagi",
+        "ref:opp:diving": "潜223",
+        "shop": "scuba_diving",
         "id": "node/14333403693"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.7727726,
-          26.4410188
+          127.7728563,
+          26.4409087
         ]
       }
     },
@@ -106881,9 +106694,13 @@
         "amenity": "dive_centre",
         "contact:phone": "+81 98 958 3332",
         "max_age": "65",
-        "name": "Marine Service むるぬーし",
+        "name": "マリンサービスむるぬーし",
+        "name:en": "Marine Service Murunūshi",
+        "name:ja": "マリンサービスむるぬーし",
+        "name:ja-Latn": "Marin sābisu Murunūshi",
         "opening_hours": "08:00-18:00",
         "operator": "Blue Wing Okinawa 株式会社",
+        "ref:opp:diving": "潜303",
         "website": "https://www.murunu-shi.com/",
         "id": "node/14334427813"
       },
@@ -107016,6 +106833,7 @@
         "name:en": "Marina eight",
         "name:ja": "マリーナエイト",
         "name:ja-Latn": "Marīna eito",
+        "ref:opp:diving": "潜1037",
         "website": "https://marina-8.com/",
         "id": "node/14340199408"
       },
@@ -107076,7 +106894,7 @@
         "opening_hours": "07:00-19:00",
         "scuba_diving:courses": "yes",
         "scuba_diving:rental": "no",
-        "sport": "scuba_diving",
+        "shop": "scuba_diving",
         "website": "https://kaila.okinawa/",
         "id": "node/14348620301"
       },
@@ -107137,6 +106955,7 @@
         "name:ja-Latn": "Hirata sengyoten",
         "opening_hours": "08:00-20:00",
         "operator": "平田正幸",
+        "ref:opp:diving": "潜224",
         "sport": "scuba_diving",
         "website": "https://a-sengyo.com/",
         "id": "node/14348620303"
@@ -107167,8 +106986,9 @@
         "name:ja": "沖縄マリンクラブ結",
         "name:ja-Hira": "おきなわマリンクラブゆい",
         "name:ja-Latn": "Ao-no-dōkutsu Core",
+        "ref:opp:diving": "潜485",
         "scuba_diving:courses": "yes",
-        "sport": "scuba_diving",
+        "shop": "scuba_diving",
         "website": "https://marineclubyuiokinawa.my.canva.site/",
         "id": "node/14348620379"
       },
@@ -107216,6 +107036,7 @@
         "name:ja": "コズミックオーシャン",
         "name:ja-Latn": "Kozumikku Ōshan",
         "opening_hours": "08:00-21:00",
+        "ref:opp:diving": "潜665",
         "website": "https://www.co-okinawa.com/",
         "id": "node/14353645420"
       },
@@ -107303,6 +107124,7 @@
         "name:en": "Okinawa 39ers",
         "name:ja": "オキナワ サーティーナイナーズ",
         "name:ja-Latn": "Okinawa sāti naināsu",
+        "ref:opp:diving": "潜566",
         "id": "node/14353859232"
       },
       "geometry": {
@@ -107391,6 +107213,1130 @@
         "coordinates": [
           99.8288495,
           10.0989695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14358651989",
+      "properties": {
+        "addr:block_number": "2263",
+        "addr:city": "本部町",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "2263-4",
+        "addr:place": "字瀬底",
+        "addr:postcode": "905-0227",
+        "addr:province": "沖縄県",
+        "addr:quarter": "瀬底",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 50 5516 8768",
+        "name": "クラブアクシス",
+        "name:en": "Club Axis",
+        "name:ja": "クラブアクシス",
+        "name:ja-Latn": "Kurabu akushisu",
+        "ref:opp:diving": "潜440",
+        "shop": "scuba_diving",
+        "website": "https://axis.sslserve.jp/",
+        "id": "node/14358651989"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8693151,
+          26.6464267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14358957197",
+      "properties": {
+        "addr:city": "本部町",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "367",
+        "addr:place": "字瀬底",
+        "addr:postcode": "905-0227",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "building": "yes",
+        "contact:phone": "+81 80 6443 6272",
+        "name": "Dive House Nagisa",
+        "name:en": "Dive House Nagisa",
+        "name:ja": "ダイブハウス渚",
+        "note": "推定位置",
+        "opening_hours": "08:00-18:00",
+        "ref:opp:diving": "潜1121",
+        "shop": "scuba_diving",
+        "website": "https://www.divehouse-nagisa.com/",
+        "id": "node/14358957197"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8647339,
+          26.6476481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14359035363",
+      "properties": {
+        "addr:city": "本部町",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "1278",
+        "addr:place": "字瀬底",
+        "addr:postcode": "905-0227",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "name": "Divenuts",
+        "name:en": "Divenuts",
+        "name:ja": "ダイブナッツ",
+        "name:ja-Latn": "Daibunatsu",
+        "opening_hours": "09:00-19:00",
+        "ref:opp:diving": "潜526",
+        "shop": "scuba_diving",
+        "website": "https://divenuts.jp/",
+        "id": "node/14359035363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8659156,
+          26.6479462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14359142521",
+      "properties": {
+        "addr:city": "本部町",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "636-1",
+        "addr:place": "字瀬底",
+        "addr:postcode": "905-0227",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:line": "@345mqyuc",
+        "name": "Maverick",
+        "name:en": "Maverick",
+        "name:ja": "マーベリック",
+        "official_name": "Maverick Diving and Marine Sports",
+        "opening_hours": "08:00-20:00",
+        "ref:opp:diving": "潜831",
+        "shop": "scuba_diving",
+        "id": "node/14359142521"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8608411,
+          26.6462434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14359864046",
+      "properties": {
+        "name": "Centro de Buceo",
+        "name:en": "Diving Center",
+        "ref": "22",
+        "shop": "scuba_diving",
+        "id": "node/14359864046"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0851549,
+          20.6094617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14360542876",
+      "properties": {
+        "addr:city": "本部町",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "550",
+        "addr:place": "字瀬底",
+        "addr:postcode": "905-0227",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 98 047 4837; +81 90 6865 0773",
+        "max_age": "60",
+        "name": "ダイビング サビス シードアー",
+        "name:en": "Diving Service Sea Door",
+        "name:ja": "ダイビング サビス シードアー",
+        "name:ja-Latn": "Daibingu Sabisu Shīdoā",
+        "ref:opp:diving": "潜295",
+        "shop": "scuba_diving",
+        "website": "http://www.sea-door.com/",
+        "id": "node/14360542876"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.861116,
+          26.6452142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14361043734",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "1952-1",
+        "addr:place": "仲泊",
+        "addr:postcode": "904-0415",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:fax": "+81 98 963 0620",
+        "contact:phone": "+81 98 963 0615",
+        "max_age": "60",
+        "name": "Green Grass",
+        "name:en": "Green Grass",
+        "opening_hours": "07:00-21:00",
+        "ref:opp:diving": "潜502",
+        "shop": "scuba_diving",
+        "website": "https://gr-gr.jp/",
+        "id": "node/14361043734"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7928601,
+          26.4359067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14361999549",
+      "properties": {
+        "addr:city": "Fuvahmulah City",
+        "addr:housenumber": "Rishthaa",
+        "addr:postcode": "18013",
+        "addr:street": "Thashimushi Goalhi",
+        "amenity": "dive_centre",
+        "name": "Shark Sensei",
+        "operator": "Konolhi",
+        "scuba_diving:courses": "yes",
+        "id": "node/14361999549"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4327844,
+          -0.2985238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14362494332",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "357-2",
+        "addr:place": "山田",
+        "addr:postcode": "904-0416",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 98 965 6666",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "ブルーポエム",
+        "name:en": "Blue-Poem",
+        "name:ja": "ブルーポエム",
+        "name:ja-Latn": "Burū poemu",
+        "opening_hours": "07:00-21:00",
+        "operator": "Seaweeds Inc",
+        "ref:opp:diving": "潜412",
+        "shop": "scuba_diving",
+        "website": "https://blue-poem.com/",
+        "id": "node/14362494332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7764196,
+          26.4396798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14363045702",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "615-2",
+        "addr:place": "山田",
+        "addr:postcode": "904-0416",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 98 963 0166",
+        "name": "アイランド倶楽部",
+        "name:en": "Island Club",
+        "name:ja": "アイランド倶楽部",
+        "name:ja-Hira": "アイランドクラブ",
+        "name:ja-Latn": "Airando kurabu",
+        "opening_hours": "07:00-22:00",
+        "operator": "ＳＷＥＬＬ株式会社",
+        "ref:opp:diving": "潜291",
+        "shop": "scuba_diving",
+        "id": "node/14363045702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7735053,
+          26.438545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14363404127",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "469",
+        "addr:place": "真栄田",
+        "addr:postcode": "904-0417",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 90 3796 0690",
+        "name": "武藤潜水",
+        "name:en": "Mutō Diving",
+        "name:ja": "武藤潜水",
+        "name:ja-Latn": "Mutō sensui",
+        "operator": "武藤大輔",
+        "shop": "scuba_diving",
+        "website": "https://mutosensui.com/",
+        "id": "node/14363404127"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7718088,
+          26.4436785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14363417145",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "354",
+        "addr:place": "真栄田",
+        "addr:postcode": "904-0417",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 80 9853 6674",
+        "max_age": "50",
+        "name": "Aloha Okinawa",
+        "name:en": "Aloha Okinawa",
+        "opening_hours": "07:00-22:00",
+        "operator": "川上佳祐",
+        "ref:opp:diving": "潜839",
+        "shop": "scuba_diving",
+        "website": "https://www.aloha-okinawa.com/",
+        "id": "node/14363417145"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7712402,
+          26.4405756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14363479525",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "599",
+        "addr:place": "山田",
+        "addr:postcode": "904-0417",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "name": "青の洞窟 Core",
+        "name:en": "Blue Cave Core",
+        "name:ja": "青の洞窟 Core",
+        "name:ja-Hira": "あおのどうくつ Core",
+        "name:ja-Latn": "Ao-no-dōkutsu Core",
+        "opening_hours": "07:00-18:00",
+        "scuba_diving:courses": "no",
+        "scuba_diving:rental": "yes",
+        "shop": "scuba_diving",
+        "website": "https://bluecave-core.com/",
+        "id": "node/14363479525"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7724874,
+          26.4388536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14363479526",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "338-1",
+        "addr:place": "真栄田",
+        "addr:postcode": "904-0417",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:fax": "+81 98 989 3667",
+        "contact:phone": "+81 98 989 3666",
+        "name": "アーク エンジェル",
+        "name:en": "Arch Angel",
+        "name:ja": "アークエンジェル",
+        "name:ja-Latn": "Āku-Enjeru",
+        "official_name": "D.S.ARCHANGEL",
+        "ref:opp:diving": "潜417",
+        "scuba_diving:courses": "yes",
+        "shop": "scuba_diving",
+        "website": "https://www.ds-archangel.jp/",
+        "id": "node/14363479526"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7708018,
+          26.4396605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14363479527",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "603-1",
+        "addr:place": "山田",
+        "addr:postcode": "904-0417",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 98 911 1752",
+        "name": "めんそーれ",
+        "name:ja": "めんそーれ",
+        "name:ja-Latn": "Mensōre",
+        "ref:opp:diving": "潜209",
+        "scuba_diving:courses": "yes",
+        "shop": "scuba_diving",
+        "website": "http://mensore.net/",
+        "id": "node/14363479527"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7720205,
+          26.4388514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14363479528",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "339",
+        "addr:place": "真栄田",
+        "addr:postcode": "904-0417",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 98 965 0244",
+        "name": "Takedive",
+        "ref:opp:diving": "潜455",
+        "scuba_diving:courses": "yes",
+        "shop": "scuba_diving",
+        "website": "https://www.takedive.jp/",
+        "id": "node/14363479528"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7706967,
+          26.4398859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14365487825",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housename": "Vila Patio",
+        "addr:housenumber": "2288-247",
+        "addr:place": "名嘉真",
+        "addr:postcode": "904-0401",
+        "addr:province": "沖縄県",
+        "addr:unit": "1F",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 98 967 7050",
+        "contact:phone:2": "+81 80 2018 8549",
+        "name": "Diver’s7",
+        "ref:opp:diving": "潜846",
+        "shop": "scuba_diving",
+        "website": "https://divers7okinawa.com/",
+        "website:ja": "https://divers7okinawa.com/ja/",
+        "id": "node/14365487825"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.92595,
+          26.5198853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14365729931",
+      "properties": {
+        "addr:city": "本部町",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "4985-2",
+        "addr:place": "崎本部",
+        "addr:postcode": "905-0225",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 98 047 2013",
+        "contact:phone:2": "+81 90 1948 0058",
+        "name": "海伝説",
+        "name:en": "Sea Legend",
+        "name:ja": "海伝説",
+        "name:ja-Latn": "Umi-densetsu",
+        "opening_hours": "closed",
+        "ref:opp:diving": "潜298",
+        "shop": "scuba_diving",
+        "website": "https://www.sea-legend.com/",
+        "id": "node/14365729931"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8834987,
+          26.6402941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14365729976",
+      "properties": {
+        "addr:city": "本部町",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "5232",
+        "addr:place": "崎本部",
+        "addr:postcode": "905-0225",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 98 043 ​0738",
+        "max_age": "55",
+        "name": "Ti. Ocean",
+        "shop": "scuba_diving",
+        "website": "https://www.tioceandiving.shop/",
+        "id": "node/14365729976"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8818324,
+          26.6422684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14365757048",
+      "properties": {
+        "addr:city": "本部町",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "4696-1",
+        "addr:place": "崎本部",
+        "addr:postcode": "905-0225",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 80 6495 6565",
+        "name": "Jinbei",
+        "name:en": "ジンベイ",
+        "official_name": "Marine Shop Jinbei",
+        "opening_hours": "8:00-17:00 \"closed in stormy weather\"",
+        "shop": "scuba_diving",
+        "website": "https://marin-jinbei.com/",
+        "id": "node/14365757048"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.881937,
+          26.6421156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14365850037",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "200-7",
+        "addr:place": "字安富祖",
+        "addr:postcode": "905-0225",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 98 955 2703",
+        "name": "Livefish Okinawa",
+        "name:en": "Livefish Okinawa",
+        "name:ja": "ライブフィッシュ沖縄",
+        "name:ja-Latn": "Raifu fisshu okinawa",
+        "opening_hours": "08:00-17:00",
+        "ref:opp:diving": "潜359",
+        "shop": "scuba_diving",
+        "website": "https://www.live-fish.jp/",
+        "id": "node/14365850037"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8852274,
+          26.4992592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14365888438",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "1314",
+        "addr:place": "字安富祖",
+        "addr:postcode": "904-0402",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 98 967 7777",
+        "name": "アプリシエイト",
+        "name:en": "Appreciate",
+        "name:ja": "アプリシエイト",
+        "name:ja-Latn": "Apurishieito",
+        "official_name": "Piass appreciate",
+        "opening_hours": "09:00-18:00",
+        "shop": "scuba_diving",
+        "website": "https://appreciate8.co.jp/",
+        "id": "node/14365888438"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8854138,
+          26.5022477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14365888439",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "1583-2",
+        "addr:place": "字安富祖",
+        "addr:postcode": "904-0402",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 98 967 7777",
+        "name": "アプリシエイト",
+        "name:en": "Appreciate",
+        "name:ja": "アプリシエイト",
+        "name:ja-Latn": "Apurishieito",
+        "official_name": "Piass appreciate",
+        "opening_hours": "09:00-18:00",
+        "ref:opp:diving": "潜545",
+        "shop": "scuba_diving",
+        "website": "https://appreciate8.co.jp/",
+        "id": "node/14365888439"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8923553,
+          26.5116879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14365888499",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "187",
+        "addr:place": "字安富祖",
+        "addr:postcode": "904-0402",
+        "addr:province": "沖縄県",
+        "contact:phone": "+81 98 967 7777",
+        "name": "アプリシエイト",
+        "name:en": "Appreciate",
+        "name:ja": "アプリシエイト",
+        "name:ja-Latn": "Apurishieito",
+        "official_name": "Piass appreciate",
+        "opening_hours": "09:00-18:00",
+        "shop": "scuba_diving",
+        "website": "https://appreciate8.co.jp/",
+        "id": "node/14365888499"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.8875548,
+          26.4980146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14366399493",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "Unterwasserbergwelt",
+        "operator": "Felsendome Rabenstein GmbH",
+        "sport": "scuba_diving",
+        "website": "https://www.felsendome.de/entdecken/hoehlentauchen",
+        "id": "node/14366399493"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8429978,
+          50.8364533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14368931380",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "469",
+        "addr:place": "真栄田",
+        "addr:postcode": "904-0417",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 90 9497 7374",
+        "max_age": "60",
+        "name": "ナチュラルブルー",
+        "name:en": "Natural blue",
+        "name:ja": "ナチュラルブルー",
+        "name:ja-Latn": "Naturaru burū",
+        "opening_hours": "10:00-16:00",
+        "shop": "scuba_diving",
+        "website": "https://www.natural-blue.net/",
+        "website:en": "https://www.natural-blue.net/en/",
+        "id": "node/14368931380"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.772151,
+          26.4432792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14369106276",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "1424-2",
+        "addr:place": "字真栄田",
+        "addr:postcode": "904-0417",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 80 3996 1874",
+        "name": "Ihanashi",
+        "official_name": "Ihanashi dive and workshop",
+        "official_name:ja": "ダイビング アンド ワークショップ イハナシ",
+        "ref:opp:diving": "潜707",
+        "shop": "scuba_diving",
+        "website": "https://www.ihanashi.com/",
+        "id": "node/14369106276"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7647284,
+          26.4369101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14369106281",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "1429",
+        "addr:place": "字真栄田",
+        "addr:postcode": "904-0417",
+        "addr:province": "沖縄県",
+        "alt_name": "Sea Enjoy Play マリンクラブ",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 98 965 3561",
+        "max_age": "60",
+        "name": "S.E.P. マリンクラブ",
+        "name:en": "S.E.P Marine Club",
+        "name:ja": "S.E.P. マリンクラブ",
+        "name:ja-Latn": "S.E.P. Marin Kurabu",
+        "opening_hours": "07:00-20:00",
+        "ref:opp:diving": "潜287",
+        "shop": "scuba_diving",
+        "website": "https://www.sep58.com/",
+        "id": "node/14369106281"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7652548,
+          26.437116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14374785140",
+      "properties": {
+        "addr:city": "Willemstad",
+        "addr:country": "CW",
+        "addr:housenumber": "394",
+        "addr:street": "Caracasbaaiweg",
+        "amenity": "dive_centre",
+        "email": "hello@thelittlegreenboat.eco",
+        "facebook": "https://www.facebook.com/TheLittleGreenBoat/",
+        "instagram": "https://www.instagram.com/thelittlegreenboat/",
+        "name": "The Little Green Boat",
+        "opening_hours": "Mo-Su 08:00-20:00",
+        "phone": "+599 9 664 8138",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:divespot": "no",
+        "website": "https://thelittlegreenboat.eco/",
+        "wikidata": "Q142130193",
+        "id": "node/14374785140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.8649584,
+          12.0802474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14376002704",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "2288-222",
+        "addr:place": "名嘉真",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 98 967 8998",
+        "name": "ミントクルーズ",
+        "name:en": "Mint Cruise",
+        "name:ja": "ミントクルーズ",
+        "name:ja-Latn": "Minto kurūzu",
+        "ref:opp:diving": "潜330",
+        "shop": "scuba_diving",
+        "website": "https://mintcruise.nomaki.jp/",
+        "id": "node/14376002704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.9258507,
+          26.5231708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14376002707",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "1967-1",
+        "addr:place": "名嘉真",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 98 891 9090",
+        "max_age": "60",
+        "name:ja": "トータルマリンスポットNEWS恩納店",
+        "note": "推定位置",
+        "ref:opp:diving": "潜762",
+        "shop": "scuba_diving",
+        "website": "https://www.tms-news.jp/",
+        "id": "node/14376002707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.9239383,
+          26.5266807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14376002708",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "1952-13",
+        "addr:place": "名嘉真",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 90 8798 5250",
+        "max_age": "60",
+        "name": "BlueQuest.OKINAWA",
+        "name:en": "BlueQuest.OKINAWA",
+        "name:ja": "ブルークエストオキナワ",
+        "name:ja-Latn": "Burū kuesuto okinawa",
+        "opening_hours": "08:00-20:00",
+        "operator": "甲本大三",
+        "ref:opp:diving": "潜1112",
+        "shop": "scuba_diving",
+        "website": "https://bluequest-okinawa.com/",
+        "id": "node/14376002708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.9221379,
+          26.5219457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14376002713",
+      "properties": {
+        "amenity": "dive_centre",
+        "contact:phone": "+81 98 983 3048",
+        "max_age": "60",
+        "name": "オーシャンクラフト・ディーシェルター",
+        "name:en": "Ocean Kraft D-Shelter",
+        "name:ja": "オーシャンクラフト・ディーシェルター",
+        "name:ja-Latn": "Ōshan kurafuto dī sherutā",
+        "ref:opp:diving": "潜336",
+        "shop": "scuba_diving",
+        "website": "https://d-shelter.oceancraft.net/",
+        "id": "node/14376002713"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.9074682,
+          26.5185137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14376002734",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "90-2",
+        "addr:place": "名嘉真",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 50 3172 3172",
+        "max_age": "65",
+        "name": "オーシャンアドベンチャー",
+        "name:en": "Ocean Adventure",
+        "name:ja": "オーシャンアドベンチャー",
+        "name:ja-Latn": "Ōshan adobenchā",
+        "opening_hours": "08:00-18:00",
+        "ref:opp:diving": "潜896",
+        "shop": "scuba_diving",
+        "website": "https://oceanadventure.jp/",
+        "id": "node/14376002734"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.9185337,
+          26.5158629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14376377798",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "0598-1",
+        "addr:place": "山田",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 98 921 9555",
+        "max_age": "no",
+        "name": "シーモール",
+        "name:ja": "シーモール",
+        "name:ja-Latn": "Shīmōru",
+        "ref:opp:diving": "潜385",
+        "shop": "scuba_diving",
+        "website": "https://www.okinawadiving.jp/",
+        "id": "node/14376377798"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7725863,
+          26.438854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14376377800",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "501-3",
+        "addr:place": "字山田",
+        "addr:postcode": "904-0416",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 90 6865 7525",
+        "max_age": "59",
+        "name:en": "Puzumari Divers Club",
+        "name:ja": "プズマリダイバーズクラブ",
+        "name:ja-Latn": "Puzumari daibāsu kurabu",
+        "opening_hours": "08:00-17:00",
+        "ref:opp:diving": "潜477",
+        "shop": "scuba_diving",
+        "website": "https://www.puzumari.com/",
+        "id": "node/14376377800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7729357,
+          26.4408227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14376408803",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "357-2",
+        "addr:place": "山田",
+        "addr:postcode": "904-0416",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 70 5692 3212",
+        "max_age": "69",
+        "name": "Andago",
+        "name:en": "Okinawa Andago",
+        "name:ja": "沖縄あんだご",
+        "name:ja-Latn": "Okinawa andago",
+        "ref:opp:diving": "潜514",
+        "shop": "scuba_diving",
+        "website": "https://www.andago.jp/",
+        "id": "node/14376408803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7762902,
+          26.4397454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14376408804",
+      "properties": {
+        "addr:city": "恩納村",
+        "addr:country": "JP",
+        "addr:district": "国頭郡",
+        "addr:housenumber": "185-1",
+        "addr:place": "山田",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 80 3996 1114",
+        "max_age": "60",
+        "name": "Divingshop Ryo",
+        "name:en": "Divingshop Ryo",
+        "note": "推定位置",
+        "ref:opp:diving": "潜729",
+        "shop": "scuba_diving",
+        "website": "https://www.divingshop-ryo.com/",
+        "id": "node/14376408804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.775989,
+          26.4372433
         ]
       }
     }
