@@ -9,6 +9,7 @@
         "building": "yes",
         "club": "scuba_diving",
         "name": "Maison de la plongée",
+        "name:br": "Ti ar Splujerezh",
         "operator": "Club Subaquatique de l'Atlantide",
         "source": "cadastre-dgi-fr source : PaysDeBrest - 20100329",
         "id": "way/53715936"
@@ -677,6 +678,11 @@
       "type": "Feature",
       "id": "way/318772261",
       "properties": {
+        "addr:city": "Domat/Ems",
+        "addr:country": "CH",
+        "addr:housenumber": "6",
+        "addr:postcode": "7013",
+        "addr:street": "Vial",
         "building": "yes",
         "club": "scuba_diving",
         "name": "Clubhaus Tauchclub Orca",
@@ -689,24 +695,24 @@
         "coordinates": [
           [
             [
-              9.4321012,
-              46.8298126
+              9.4322656,
+              46.8297786
             ],
             [
-              9.4321225,
-              46.8297593
+              9.4322364,
+              46.8298459
             ],
             [
-              9.4322626,
-              46.8297856
+              9.4321017,
+              46.8298185
             ],
             [
-              9.4322412,
-              46.8298389
+              9.432131,
+              46.8297512
             ],
             [
-              9.4321012,
-              46.8298126
+              9.4322656,
+              46.8297786
             ]
           ]
         ]
