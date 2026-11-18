@@ -17843,6 +17843,52 @@
     },
     {
       "type": "Feature",
+      "id": "way/401433455",
+      "properties": {
+        "addr:district": "Koh Tao",
+        "addr:housenumber": "11/50",
+        "addr:postcode": "84360,",
+        "addr:province": "Surat Thani",
+        "addr:street": "Moo 3",
+        "addr:subdistrict": "Chalok Baan Kao",
+        "amenity": "dive_centre",
+        "building": "dive_centre",
+        "name": "Chalok Reef Divers",
+        "scuba_diving:courses": "yes",
+        "sport": "scuba_diving",
+        "website": "https://chalokreefdivers.com",
+        "id": "way/401433455"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              99.8308354,
+              10.0724694
+            ],
+            [
+              99.8308494,
+              10.0724334
+            ],
+            [
+              99.830945,
+              10.0724695
+            ],
+            [
+              99.830931,
+              10.0725055
+            ],
+            [
+              99.8308354,
+              10.0724694
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
       "id": "way/402804052",
       "properties": {
         "building": "yes",
@@ -74685,7 +74731,6 @@
         "addr:city": "Port-aux-Français",
         "addr:district": "Îles Kerguelen",
         "addr:street": "Quai de la Flottille",
-        "addr:territoire": "TAAF",
         "amenity": "dive_centre",
         "name": "Kerplongée",
         "id": "node/6262571170"
@@ -76600,6 +76645,7 @@
         "addr:housenumber": "1226",
         "addr:street": "Wellington Street West",
         "check_date": "2022-09-18",
+        "image:fotoshi": "WiT31DzN4D9uyeb45LXlP4hP",
         "level": "-1",
         "name": "Sharky's Scuba Supply Ottawa",
         "phone": "+1-613-728-0188",
@@ -76613,8 +76659,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -75.7314556,
-          45.3997526
+          -75.7314615,
+          45.3997815
         ]
       }
     },
@@ -108855,6 +108901,35 @@
         "coordinates": [
           127.8919292,
           26.6289366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14384553141",
+      "properties": {
+        "addr:district": "Takua Pa District",
+        "addr:housenumber": "9/104",
+        "addr:postcode": "82190",
+        "addr:province": "Phang Nga",
+        "addr:street": "Soi Ruea Tor 813",
+        "addr:subdistrict": "Bang Niang",
+        "amenity": "dive_centre",
+        "contact:facebook": "https://www.facebook.com/profile.php?id=61581241300632",
+        "contact:instagram": "https://www.instagram.com/professional.diver.training/",
+        "description": "Professional Diver Training is a scuba diving training centre in Khao Lak, Thailand, specialising in PADI Instructor Development Courses (IDC), professional dive instructor qualifications and technical diving training.",
+        "email": "info@professionaldivertraining.com",
+        "mobile": "+66 98 662 7196",
+        "name": "Professional Diver Training",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "website": "https://professionaldivertraining.com",
+        "id": "node/14384553141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.2542585,
+          8.6657441
         ]
       }
     }
