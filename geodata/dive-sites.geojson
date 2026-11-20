@@ -48747,6 +48747,8 @@
         "name": "Vortex Spring",
         "sport": "scuba_diving",
         "tourism": "attraction",
+        "wikidata": "Q7941924",
+        "wikipedia": "en:Vortex Spring",
         "id": "way/765290666"
       },
       "geometry": {
@@ -55183,12 +55185,16 @@
               55.5171158
             ],
             [
-              9.7003281,
-              55.5167624
+              9.7003395,
+              55.5167697
             ],
             [
-              9.7009806,
-              55.5164806
+              9.7004155,
+              55.5167364
+            ],
+            [
+              9.7009929,
+              55.5164842
             ],
             [
               9.7014213,
@@ -58233,12 +58239,12 @@
         "type": "LineString",
         "coordinates": [
           [
-            9.6992367,
-            55.5173847
+            9.6992518,
+            55.5173957
           ],
           [
-            9.6990831,
-            55.5172819
+            9.6991095,
+            55.517294
           ]
         ]
       }
@@ -64370,9 +64376,12 @@
       "type": "Feature",
       "id": "node/602948140",
       "properties": {
+        "alt_name": "砂辺No.1",
         "name": "砂辺",
         "name:en": "Sunabe Seawall",
         "name:ja": "砂辺",
+        "place": "locality",
+        "scuba_diving:divespot": "yes",
         "sport": "scuba_diving",
         "website": "https://okinawaislanddive.com/sunabe-no1/",
         "id": "node/602948140"
@@ -64380,8 +64389,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.7441014,
-          26.328873
+          127.7440451,
+          26.3288183
         ]
       }
     },
@@ -109895,15 +109904,16 @@
       "type": "Feature",
       "id": "node/4961193803",
       "properties": {
-        "name": "Dive Center",
+        "name": "Sea World Diving Center",
         "sport": "scuba_diving",
+        "website": "https://seaworld-diving.it/services/diving-center-marsa-alam/",
         "id": "node/4961193803"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          34.6014565,
-          25.6081718
+          34.6013637,
+          25.6082071
         ]
       }
     },
@@ -134051,8 +134061,11 @@
       "type": "Feature",
       "id": "node/14324642330",
       "properties": {
+        "email": "info@polepoledivers.it",
         "name": "Pole Pole Diving Center",
+        "phone": "+255778823897",
         "sport": "scuba_diving",
+        "website": "http://www.polepoledivers.it/",
         "id": "node/14324642330"
       },
       "geometry": {
@@ -134471,8 +134484,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          127.881538,
-          26.6359534
+          127.8815554,
+          26.6359414
         ]
       }
     },
@@ -134725,6 +134738,95 @@
         "coordinates": [
           127.7236213,
           26.3980661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14384368268",
+      "properties": {
+        "depth": "7",
+        "location": "underwater",
+        "name": "郵便受け",
+        "place": "locality",
+        "scuba_diving:divespot": "yes",
+        "source": "https://max-air.net/divingpoint/sunabe-no1/",
+        "sport": "scuba_diving",
+        "id": "node/14384368268"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.7429858,
+          26.3286349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14399016101",
+      "properties": {
+        "name": "La Piscine",
+        "scuba_diving:dangers:current": "no",
+        "scuba_diving:dangers:dangerous_species": "no",
+        "scuba_diving:dangers:depth": "no",
+        "scuba_diving:dangers:explosives": "no",
+        "scuba_diving:dangers:harpooning": "no",
+        "scuba_diving:dangers:net": "no",
+        "scuba_diving:dangers:obstacles": "no",
+        "scuba_diving:dangers:ship": "no",
+        "scuba_diving:dangers:stones": "no",
+        "scuba_diving:dangers:surfers": "no",
+        "scuba_diving:descent_line": "no",
+        "scuba_diving:difficulty": "1",
+        "scuba_diving:entry:boat": "no",
+        "scuba_diving:entry:ladder": "no",
+        "scuba_diving:entry:shore": "no",
+        "scuba_diving:entry:stair": "no",
+        "scuba_diving:entry:steep": "no",
+        "scuba_diving:entry:steps": "no",
+        "scuba_diving:entry:stone": "no",
+        "scuba_diving:type:ambiance": "no",
+        "scuba_diving:type:apnoe": "no",
+        "scuba_diving:type:archaeology": "no",
+        "scuba_diving:type:attraction": "no",
+        "scuba_diving:type:bigfish": "no",
+        "scuba_diving:type:biology": "no",
+        "scuba_diving:type:boat": "no",
+        "scuba_diving:type:cave": "no",
+        "scuba_diving:type:cavern": "no",
+        "scuba_diving:type:children": "no",
+        "scuba_diving:type:cold": "no",
+        "scuba_diving:type:drift": "no",
+        "scuba_diving:type:gravel": "no",
+        "scuba_diving:type:handicap": "no",
+        "scuba_diving:type:high": "no",
+        "scuba_diving:type:ice": "no",
+        "scuba_diving:type:intro": "yes",
+        "scuba_diving:type:lagoon": "no",
+        "scuba_diving:type:night": "no",
+        "scuba_diving:type:ooze": "no",
+        "scuba_diving:type:orientation": "no",
+        "scuba_diving:type:photography": "no",
+        "scuba_diving:type:pool": "no",
+        "scuba_diving:type:reef": "yes",
+        "scuba_diving:type:river": "no",
+        "scuba_diving:type:rocks": "no",
+        "scuba_diving:type:sand": "no",
+        "scuba_diving:type:scrap": "no",
+        "scuba_diving:type:sharks": "no",
+        "scuba_diving:type:speleology": "no",
+        "scuba_diving:type:training": "no",
+        "scuba_diving:type:wall": "no",
+        "scuba_diving:type:wreck": "no",
+        "sport": "scuba_diving",
+        "id": "node/14399016101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.1562519,
+          -13.3171954
         ]
       }
     }
