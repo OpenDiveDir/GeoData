@@ -80832,10 +80832,24 @@
       "type": "Feature",
       "id": "node/7639639864",
       "properties": {
+        "addr:city": "座間味村",
+        "addr:country": "JP",
+        "addr:district": "島尻郡",
+        "addr:housenumber": "276",
+        "addr:place": "字座間味",
+        "addr:postcode": "901-3402",
+        "addr:province": "沖縄県",
         "amenity": "dive_centre",
+        "max_age": "65",
         "name": "インザストリーム",
         "name:en": "In the Stream",
-        "source": "survey;local knowledge;gps",
+        "name:ja": "インザストリーム",
+        "name:ja-Latn": "In ze sutorīmu",
+        "ref:opp:diving": "潜120",
+        "scuba_diving:courses": "no",
+        "scuba_diving:rental": "no",
+        "source": "survey;local knowledge;gps;website;https://www.police.pref.okinawa.jp/docs/2026052000018/",
+        "website": "https://diving-hirai.jimdosite.com/",
         "id": "node/7639639864"
       },
       "geometry": {
@@ -80850,8 +80864,23 @@
       "type": "Feature",
       "id": "node/7639639865",
       "properties": {
+        "addr:city": "座間味村",
+        "addr:country": "JP",
+        "addr:district": "島尻郡",
+        "addr:housenumber": "434-2",
+        "addr:place": "字座間味",
+        "addr:postcode": "901-3402",
+        "addr:province": "沖縄県",
         "amenity": "dive_centre",
-        "name": "Joy Joy",
+        "contact:phone": "+81 98 987 2445",
+        "name": "ジョイジョイ",
+        "name:en": "Joy Joy",
+        "name:ja": "ジョイジョイ",
+        "name:ja-Latn": "Joijoi",
+        "ref:opp:diving": "潜35",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:rental": "yes",
+        "website": "https://keramajoyjoy.com/eg/",
         "id": "node/7639639865"
       },
       "geometry": {
@@ -80866,9 +80895,22 @@
       "type": "Feature",
       "id": "node/7639639867",
       "properties": {
+        "addr:city": "座間味村",
+        "addr:country": "JP",
+        "addr:district": "島尻郡",
+        "addr:housenumber": "97",
+        "addr:place": "字座間味",
+        "addr:postcode": "901-3402",
+        "addr:province": "沖縄県",
         "amenity": "dive_centre",
+        "contact:phone": "+81 98 987 2013",
         "name": "ダイブイン浜",
         "name:en": "Dive Inn Hama",
+        "name:ja": "ダイブイン浜",
+        "name:ja-Latn": "Daibu-in hama",
+        "opening_hours": "09:00-21:00",
+        "ref:opp:diving": "潜958",
+        "website": "https://diveinnhama.jp/",
         "id": "node/7639639867"
       },
       "geometry": {
@@ -80883,8 +80925,21 @@
       "type": "Feature",
       "id": "node/7639650203",
       "properties": {
+        "addr:city": "座間味村",
+        "addr:country": "JP",
+        "addr:district": "島尻郡",
+        "addr:housenumber": "421",
+        "addr:place": "字座間味",
+        "addr:postcode": "901-3402",
+        "addr:province": "沖縄県",
         "amenity": "dive_centre",
-        "name": "Coral Divers",
+        "contact:phone": "+81 98 987 2930",
+        "name": "コーラルダイバーズ",
+        "name:en": "Coral Divers",
+        "name:ja": "コーラルダイバーズ",
+        "name:ja-Latn": "Kōraru daibāsu",
+        "ref:opp:diving": "潜1013",
+        "website": "https://coraldivers.club/",
         "id": "node/7639650203"
       },
       "geometry": {
@@ -80899,8 +80954,22 @@
       "type": "Feature",
       "id": "node/7639650205",
       "properties": {
+        "addr:city": "座間味村",
+        "addr:country": "JP",
+        "addr:district": "島尻郡",
+        "addr:housenumber": "415-6",
+        "addr:place": "字座間味",
+        "addr:postcode": "901-3402",
+        "addr:province": "沖縄県",
         "amenity": "dive_centre",
+        "contact:phone": "+81 98 987 2775",
+        "max_age": "60",
         "name": "えりせら ダイビング",
+        "name:en": "Elisella Diving",
+        "name:ja": "えりせら ダイビング",
+        "name:ja-Latn": "Erisera daibingu",
+        "ref:opp:diving": "潜253",
+        "website": "https://ellisella.com/",
         "id": "node/7639650205"
       },
       "geometry": {
@@ -80915,9 +80984,22 @@
       "type": "Feature",
       "id": "node/7639650215",
       "properties": {
+        "addr:city": "座間味村",
+        "addr:country": "JP",
+        "addr:district": "島尻郡",
+        "addr:housenumber": "167-1",
+        "addr:place": "字座間味",
+        "addr:postcode": "901-3402",
+        "addr:province": "沖縄県",
         "amenity": "dive_centre",
+        "contact:phone": "+81 98 987 3023",
+        "max_age": "49",
         "name": "あなたの清",
         "name:en": "Anatano Kiyoshi",
+        "name:ja": "ダイビングチームあなたの清",
+        "name:ja-Latn": "Daibingu chīmu anata-no-kiyoshi",
+        "ref:opp:diving": "潜197",
+        "website": "http://www.anatano-kiyoshi.okinawa/",
         "id": "node/7639650215"
       },
       "geometry": {
@@ -80932,9 +81014,21 @@
       "type": "Feature",
       "id": "node/7639650226",
       "properties": {
+        "addr:city": "座間味村",
+        "addr:country": "JP",
+        "addr:district": "島尻郡",
+        "addr:housenumber": "60",
+        "addr:place": "字座間味",
+        "addr:postcode": "901-3402",
+        "addr:province": "沖縄県",
         "amenity": "dive_centre",
+        "contact:phone": "+81 50 8884 1126",
+        "max_age": "65",
         "name": "ダイビングサービスコナン",
         "name:en": "Konan Diving Service",
+        "name:ja": "ダイビングサービスコナン",
+        "name:ja-Latn": "Daibingu sābisu Konan",
+        "ref:opp:diving": "潜94",
         "id": "node/7639650226"
       },
       "geometry": {
@@ -80949,9 +81043,23 @@
       "type": "Feature",
       "id": "node/7639650227",
       "properties": {
+        "addr:city": "座間味村",
+        "addr:country": "JP",
+        "addr:district": "島尻郡",
+        "addr:housenumber": "4",
+        "addr:place": "字座間味",
+        "addr:postcode": "901-3402",
+        "addr:province": "沖縄県",
         "amenity": "dive_centre",
+        "contact:mobile": "+81 90 7585 4597",
+        "contact:phone": "+81 98 987 2633",
+        "max_age": "65",
         "name": "ザマミセーリング",
         "name:en": "Zamami Sailing",
+        "name:ja": "ザマミセーリング",
+        "name:ja-Latn": "Zamami sēringu",
+        "ref:opp:diving": "潜30",
+        "website": "https://zamami.net/",
         "id": "node/7639650227"
       },
       "geometry": {
@@ -103075,9 +103183,19 @@
       "type": "Feature",
       "id": "node/13671232001",
       "properties": {
+        "addr:city": "座間味村",
+        "addr:country": "JP",
+        "addr:district": "島尻郡",
+        "addr:housenumber": "169",
+        "addr:place": "字座間味",
+        "addr:postcode": "901-3402",
+        "addr:province": "沖縄県",
         "contact:phone": "+81 90 8292 2710",
+        "contact:phone:2": "+81 90 8627 6967",
         "name": "レンタルショップ比嘉",
         "name:en": "Rental Shop Higa",
+        "name:ja": "レンタルショップ比嘉",
+        "name:ja-Latn": "Rentaru shoppu Higa",
         "payment:cash": "yes",
         "ref:opp:diving": "no",
         "scuba_diving:rental": "yes",
@@ -103107,6 +103225,37 @@
         "coordinates": [
           124.1143716,
           11.3295867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/13677649801",
+      "properties": {
+        "addr:city": "座間味村",
+        "addr:country": "JP",
+        "addr:district": "島尻郡",
+        "addr:housenumber": "143",
+        "addr:place": "字座間味",
+        "addr:postcode": "901-3402",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 98 987 3533",
+        "max_age": "60",
+        "name": "ダイビングチーム潮",
+        "name:en": "Diving Team Ushio",
+        "name:ja": "ダイビングチーム潮",
+        "name:ja-Latn": "Daibingu chīmu Ushio",
+        "ref:opp:diving": "潜279",
+        "shop": "travel_agency",
+        "website": "https://divingteam-ushio.jp/",
+        "id": "node/13677649801"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.3014463,
+          26.2286641
         ]
       }
     },
@@ -109866,6 +110015,245 @@
         "coordinates": [
           127.7705488,
           26.4380721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14401007929",
+      "properties": {
+        "addr:city": "座間味村",
+        "addr:country": "JP",
+        "addr:district": "島尻郡",
+        "addr:housenumber": "125-2",
+        "addr:place": "字座間味",
+        "addr:postcode": "901-3402",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "name": "オーシャンガイド慶良間ブルー",
+        "name:en": "Ocean Guide Kerama Blue",
+        "name:ja": "オーシャンガイド慶良間ブルー",
+        "name:ja-Latn": "Ōshan gaido kerama burū",
+        "note": "推定位置; ウェブページが見つかりませんでした",
+        "ref:opp:diving": "潜425",
+        "id": "node/14401007929"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.302785,
+          26.2290937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14401007932",
+      "properties": {
+        "addr:city": "座間味村",
+        "addr:country": "JP",
+        "addr:district": "島尻郡",
+        "addr:housenumber": "451-1",
+        "addr:place": "字座間味",
+        "addr:postcode": "901-3402",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 50 8884 1126",
+        "max_age": "no",
+        "name": "ピース",
+        "name:en": "Piece",
+        "name:ja": "ピース",
+        "name:ja-Latn": "Pīsu",
+        "ref:opp:diving": "潜895",
+        "website": "https://piecezamami.com/",
+        "id": "node/14401007932"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.3029187,
+          26.2305363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14401007933",
+      "properties": {
+        "addr:city": "座間味村",
+        "addr:country": "JP",
+        "addr:district": "島尻郡",
+        "addr:housenumber": "434-31",
+        "addr:place": "字座間味",
+        "addr:postcode": "901-3402",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 98 987 3367",
+        "league": "NAUI",
+        "name": "てぃーだマリン",
+        "name:en": "Teeda Marine",
+        "name:ja": "てぃーだマリン",
+        "name:ja-Latn": "Tīda marin",
+        "ref:opp:diving": "潜78",
+        "website": "https://teeda.in.coocan.jp/",
+        "id": "node/14401007933"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.3030047,
+          26.2304628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14401007934",
+      "properties": {
+        "addr:city": "座間味村",
+        "addr:country": "JP",
+        "addr:district": "島尻郡",
+        "addr:housenumber": "415-4",
+        "addr:place": "字座間味",
+        "addr:postcode": "901-3402",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 98 987 9033",
+        "name": "オルターダイブ",
+        "name:en": "Alter Dive",
+        "name:ja": "オルターダイブ",
+        "name:ja-Latn": "Arutā daibu",
+        "note": "推定位置",
+        "ref:opp:diving": "潜714",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:guide": "yes",
+        "scuba_diving:rental": "yes",
+        "website": "https://alterdive.com/",
+        "id": "node/14401007934"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.3023699,
+          26.2292841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14401007935",
+      "properties": {
+        "addr:city": "座間味村",
+        "addr:country": "JP",
+        "addr:district": "島尻郡",
+        "addr:housenumber": "3",
+        "addr:place": "字座間味",
+        "addr:postcode": "901-3402",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "name": "Coco SUP",
+        "office": "guide",
+        "ref:opp:diving": "潜103",
+        "sport": "stand_up_paddeling",
+        "website": "https://www.coco-cats.com/",
+        "id": "node/14401007935"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.3022405,
+          26.2289158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14401007936",
+      "properties": {
+        "addr:city": "座間味村",
+        "addr:country": "JP",
+        "addr:district": "島尻郡",
+        "addr:housenumber": "26-1",
+        "addr:place": "字座間味",
+        "addr:postcode": "901-3402",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 98 987 3907",
+        "max_age": "60",
+        "name": "奥潜水",
+        "name:ja": "奥潜水",
+        "name:ja-Latn": "Oku-sensui",
+        "ref:opp:diving": "潜364",
+        "scuba_diving:courses": "no",
+        "scuba_diving:guide": "yes",
+        "scuba_diving:rental": "customer",
+        "website": "https://oku-sensui.jimdofree.com/",
+        "id": "node/14401007936"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.304057,
+          26.2277577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14401007950",
+      "properties": {
+        "addr:city": "座間味村",
+        "addr:country": "JP",
+        "addr:district": "島尻郡",
+        "addr:housenumber": "32",
+        "addr:place": "字座間味",
+        "addr:postcode": "901-3402",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 70 9453 5522",
+        "max_age": "65",
+        "name": "イヌビ",
+        "name:en": "Diving Shop Inubi",
+        "name:ja-Latn": "Inubi",
+        "opening_hours": "08:00-21:00",
+        "ref:opp:diving": "潜1132",
+        "website": "https://www.inubizamami.com/",
+        "id": "node/14401007950"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.3043597,
+          26.2280172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14401007951",
+      "properties": {
+        "addr:city": "座間味村",
+        "addr:country": "JP",
+        "addr:district": "島尻郡",
+        "addr:housenumber": "9",
+        "addr:place": "字座間味",
+        "addr:postcode": "901-3402",
+        "addr:province": "沖縄県",
+        "amenity": "dive_centre",
+        "contact:phone": "+81 98 987 2069",
+        "max_age": "65",
+        "name:ja": "和山海雲",
+        "name:ja-Hira": "わやまもずく",
+        "name:ja-Latn": "Wayama mozuku",
+        "ref:opp:diving": "潜276",
+        "website": "https://wayamamozuku.jp/",
+        "id": "node/14401007951"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.3038827,
+          26.2268867
         ]
       }
     }
