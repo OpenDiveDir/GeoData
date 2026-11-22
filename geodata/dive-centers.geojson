@@ -23651,7 +23651,6 @@
         "opening_hours": "Mo - Sa 09:00 - 21:00; Su 11:00 - 19:00",
         "shop": "scuba_diving",
         "shop_1": "pet shop",
-        "website": "http://marinelandpetswi.net/",
         "id": "way/570404252"
       },
       "geometry": {
@@ -82574,9 +82573,9 @@
         "addr:housenumber": "23c",
         "addr:postcode": "76139",
         "addr:street": "Schneidemühler Straße",
-        "check_date:opening_hours": "2024-04-23",
+        "check_date:opening_hours": "2026-11-21",
         "name": "Tauchcenter Karlsruhe",
-        "opening_hours:signed": "no",
+        "opening_hours": "Mo-We,Fr 10:00-18:30; Th 10:00-19:30; Sa 10:00-16:00",
         "shop": "scuba_diving",
         "id": "node/8043848231"
       },
@@ -87334,6 +87333,7 @@
       "type": "Feature",
       "id": "node/9740474742",
       "properties": {
+        "check_date": "2026-11-21",
         "level": "0",
         "name": "Fathom Five Divers",
         "opening_hours": "Mo-Su 07:00-18:00",
