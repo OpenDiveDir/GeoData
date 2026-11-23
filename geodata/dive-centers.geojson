@@ -109668,7 +109668,7 @@
         "name:en": "Okinawa Blue Link",
         "name:ja": "沖縄ブルーリンク",
         "name:ja-Latn": "Okinawa burū rinku",
-        "opening_hours": "8:00-21:00",
+        "opening_hours": "08:00-21:00",
         "ref:opp:diving": "潜551",
         "shop": "scuba_diving",
         "website": "https://okinawa-bluelink.com/",
@@ -110254,6 +110254,22 @@
         "coordinates": [
           127.3038827,
           26.2268867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14406653261",
+      "properties": {
+        "name": "Force E Scuba",
+        "shop": "scuba_diving",
+        "id": "node/14406653261"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0891417,
+          26.5271847
         ]
       }
     }
