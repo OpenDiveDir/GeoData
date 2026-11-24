@@ -105410,25 +105410,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/14104255568",
-      "properties": {
-        "check_date": "2026-10-07",
-        "description": "obsolete ?",
-        "name": "The Fives Dive Center",
-        "note": "details",
-        "shop": "scuba_diving",
-        "id": "node/14104255568"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.0758865,
-          20.6242048
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/14104255573",
       "properties": {
         "check_date": "2026-10-07",
@@ -107401,6 +107382,22 @@
         "coordinates": [
           -3.0347157,
           53.8267614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14355855002",
+      "properties": {
+        "name": "All Blue Scuba Service",
+        "shop": "scuba_diving",
+        "id": "node/14355855002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.3317903,
+          7.8428349
         ]
       }
     },
@@ -110270,6 +110267,46 @@
         "coordinates": [
           -80.0891417,
           26.5271847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14409811064",
+      "properties": {
+        "addr:street": "Songserm Road",
+        "amenity": "dive_centre",
+        "league": "SSI",
+        "name": "Goodtime Adventure Scuba Diving, Snorkeling & Climbing",
+        "scuba_diving:courses": "yes",
+        "scuba_diving:rental": "yes",
+        "scuba_diving:repair": "yes",
+        "website": "https://goodtimethailand.com/adventure-beach-club/",
+        "wheelchair": "limited",
+        "id": "node/14409811064"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          99.8226796,
+          10.0819595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14410835524",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "Seal",
+        "website": "https://www.seal-aqualeisure.com/",
+        "id": "node/14410835524"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1806901,
+          46.3043643
         ]
       }
     }
