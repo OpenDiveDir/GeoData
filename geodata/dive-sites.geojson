@@ -114546,6 +114546,7 @@
       "properties": {
         "name": "Għar Ħanżira",
         "name:en": "Billinghurst Cave",
+        "name:mt": "Għar Ħanżira",
         "natural": "cave_entrance",
         "scuba_diving:depth": "20",
         "scuba_diving:entry": "ladder",
@@ -114559,8 +114560,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          14.2354259,
-          36.0811776
+          14.2354317,
+          36.0811804
         ]
       }
     },
@@ -134826,6 +134827,33 @@
         "coordinates": [
           48.1562519,
           -13.3171954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14409932801",
+      "properties": {
+        "addr:housenumber": "9",
+        "addr:postcode": "38579",
+        "addr:street": "Calle los Emigrantes",
+        "check_date": "2026-11-22",
+        "check_date:opening_hours": "2026-11-22",
+        "contact:facebook": "Servicios-de-Buceo-La-Escafandra-317730965800990",
+        "contact:instagram": "buceolaescafandra",
+        "email": "buceo@laescafandra.es",
+        "leisure": "sports_centre",
+        "name": "La Escafandra",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "sport": "scuba_diving",
+        "website": "https://www.laescafandra.es/",
+        "id": "node/14409932801"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.4236964,
+          28.1949574
         ]
       }
     }
