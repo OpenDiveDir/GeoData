@@ -52722,23 +52722,6 @@
     },
     {
       "type": "Feature",
-      "id": "node/2886786177",
-      "properties": {
-        "amenity": "dive_centre",
-        "name": "Grand Permai Dive",
-        "shop": "scuba_diving",
-        "id": "node/2886786177"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          115.0294715,
-          -8.1606823
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "id": "node/2905599425",
       "properties": {
         "name": "World Diving",
@@ -59881,13 +59864,16 @@
       "properties": {
         "addr:city": "Καλλιθέα",
         "addr:country": "GR",
+        "addr:floor": "0",
         "addr:housenumber": "54",
         "addr:postcode": "17676",
         "addr:street": "Ελευθερίου Βενιζέλου",
-        "check_date": "2026-10-20",
+        "check_date": "2026-11-24",
+        "level": "0",
         "name": "Big Blue Center",
         "phone": "+30 21 0957 9484",
         "shop": "scuba_diving",
+        "wheelchair": "no",
         "id": "node/4219027644"
       },
       "geometry": {
@@ -71107,6 +71093,7 @@
       "type": "Feature",
       "id": "node/5679743918",
       "properties": {
+        "check_date": "2026-11-25",
         "description": "Tienda de windsurf",
         "name": "Victor Fernandez Center",
         "phone": "+34616061705",
@@ -76183,6 +76170,7 @@
       "id": "node/6406149776",
       "properties": {
         "amenity": "dive_centre",
+        "check_date": "2026-11-24",
         "name": "Ålesund dykkersenter",
         "opening_hours": "Mo-Fr 10:00-17:00; Sa 10:00-13:00; Su off",
         "id": "node/6406149776"
@@ -95671,7 +95659,7 @@
         "amenity": "dive_centre",
         "email": "info@waterhoppers.com",
         "name": "The Waterhoppers",
-        "opening_hours": "on demand",
+        "opening_hours": "\"on demand\"",
         "operator": "The Waterhoppers",
         "payment:cash": "yes",
         "phone": "+302241038146",
@@ -102410,7 +102398,7 @@
         "amenity": "dive_centre",
         "name": "Drake Bay Diving",
         "phone": "+506 61015219",
-        "website": "www.drakebaydiving.com",
+        "website": "https://www.drakebaydiving.com/",
         "id": "node/13410524236"
       },
       "geometry": {
@@ -106340,7 +106328,7 @@
         "description": "centro de buceo PADI 5* IDC: cursos hasta instructor; inmersiones en Playa del Carmen, Cozumel y cenotes, tiburón toro, nocturnas y snorkel",
         "level": "0",
         "name": "Dune",
-        "opening_hours": "Mo-Su 08:00-18:00",
+        "opening_hours": "Mo-Su,PH 08:00-18:00",
         "shop": "scuba_diving",
         "id": "node/14262199126"
       },
@@ -110307,6 +110295,22 @@
         "coordinates": [
           6.1806901,
           46.3043643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "node/14416143162",
+      "properties": {
+        "amenity": "dive_centre",
+        "name": "Kudafushi",
+        "id": "node/14416143162"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.9804581,
+          5.5091035
         ]
       }
     }
